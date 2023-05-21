@@ -1,0 +1,2079 @@
+2023-05-20 06:21:51,384 - root - INFO - Save YAML config file to ./cfg0.yml
+2023-05-20 06:22:27,461 - root - INFO - Save YAML config file to ./cfg1.yml
+2023-05-20 06:22:56,740 - root - INFO - Save YAML config file to ./cfg2.yml
+2023-05-20 06:24:23,567 - root - INFO - Save YAML config file to ./cfg3.yml
+2023-05-20 06:24:23,587 - root - INFO - Initializing data iterator with filter threshold 0.28
+2023-05-20 06:24:23,588 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 06:24:23,588 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 06:24:23,589 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 06:24:23,589 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 06:24:23,590 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 06:24:23,590 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 06:24:23,591 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 06:24:23,591 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 06:24:23,591 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 06:24:23,592 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 06:24:23,593 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 06:24:23,593 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 06:24:23,594 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 06:24:23,594 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 06:24:23,595 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 06:24:23,596 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 06:24:23,596 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 06:24:23,597 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:23:00,752 - root - INFO - Save YAML config file to ./cfg4.yml
+2023-05-20 08:23:00,772 - root - INFO - Initializing data iterator with filter threshold 0.28
+2023-05-20 08:23:00,773 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:23:00,773 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:23:00,774 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:23:00,774 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:23:00,775 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:23:00,775 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:23:00,775 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:23:00,776 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:23:00,776 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:23:00,777 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:23:00,778 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:23:00,778 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:23:00,779 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:23:00,779 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:23:00,780 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:23:00,781 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:23:00,781 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:23:00,782 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:23:42,964 - root - INFO - Save YAML config file to ./cfg5.yml
+2023-05-20 08:23:42,983 - root - INFO - Initializing data iterator with filter threshold 0.28
+2023-05-20 08:23:42,984 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:23:42,985 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:23:42,985 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:23:42,986 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:23:42,986 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:23:42,987 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:23:42,987 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:23:42,987 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:23:42,988 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:23:42,989 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:23:42,989 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:23:42,990 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:23:42,990 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:23:42,991 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:23:42,991 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:23:42,992 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:23:42,992 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:23:42,992 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:23:45,377 - root - INFO - Summary of encoder_net
+2023-05-20 08:23:45,377 - root - INFO - Data:
+2023-05-20 08:23:45,377 - root - INFO -    data: (5, 4, 1, 480, 480), 4608000
+2023-05-20 08:23:45,377 - root - INFO -    ebrnn1_begin_state_h: (4, 64, 96, 96), 2359296
+2023-05-20 08:23:45,377 - root - INFO -    ebrnn2_begin_state_h: (4, 192, 32, 32), 786432
+2023-05-20 08:23:45,377 - root - INFO -    ebrnn3_begin_state_h: (4, 192, 16, 16), 196608
+2023-05-20 08:23:45,377 - root - INFO - State: None
+2023-05-20 08:23:45,378 - root - INFO - Params:
+2023-05-20 08:23:45,378 - root - INFO -    econv1_weight: (8, 4, 7, 7), 1568, req = write
+2023-05-20 08:23:45,378 - root - INFO -    econv1_bias: (8,), 8, req = write
+2023-05-20 08:23:45,378 - root - INFO -    ebrnn1_0_i2h_weight: (192, 8, 3, 3), 13824, req = write
+2023-05-20 08:23:45,378 - root - INFO -    ebrnn1_0_i2h_bias: (192,), 192, req = write
+2023-05-20 08:23:45,378 - root - INFO -    ebrnn1_0_i2f_conv1_weight: (32, 8, 5, 5), 6400, req = write
+2023-05-20 08:23:45,379 - root - INFO -    ebrnn1_0_i2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:23:45,379 - root - INFO -    ebrnn1_0_h2f_conv1_weight: (32, 64, 5, 5), 51200, req = write
+2023-05-20 08:23:45,379 - root - INFO -    ebrnn1_0_h2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:23:45,379 - root - INFO -    ebrnn1_0_f_out_weight: (26, 32, 5, 5), 20800, req = write
+2023-05-20 08:23:45,379 - root - INFO -    ebrnn1_0_f_out_bias: (26,), 26, req = write
+2023-05-20 08:23:45,380 - root - INFO -    ebrnn1_0_h2h_weight: (192, 832, 1, 1), 159744, req = write
+2023-05-20 08:23:45,380 - root - INFO -    ebrnn1_0_h2h_bias: (192,), 192, req = write
+2023-05-20 08:23:45,380 - root - INFO -    edown1_conv_weight: (192, 64, 5, 5), 307200, req = write
+2023-05-20 08:23:45,380 - root - INFO -    edown1_conv_bias: (192,), 192, req = write
+2023-05-20 08:23:45,380 - root - INFO -    ebrnn2_0_i2h_weight: (576, 192, 3, 3), 995328, req = write
+2023-05-20 08:23:45,380 - root - INFO -    ebrnn2_0_i2h_bias: (576,), 576, req = write
+2023-05-20 08:23:45,381 - root - INFO -    ebrnn2_0_i2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:23:45,381 - root - INFO -    ebrnn2_0_i2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:23:45,381 - root - INFO -    ebrnn2_0_h2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:23:45,381 - root - INFO -    ebrnn2_0_h2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:23:45,381 - root - INFO -    ebrnn2_0_f_out_weight: (26, 32, 5, 5), 20800, req = write
+2023-05-20 08:23:45,382 - root - INFO -    ebrnn2_0_f_out_bias: (26,), 26, req = write
+2023-05-20 08:23:45,382 - root - INFO -    ebrnn2_0_h2h_weight: (576, 2496, 1, 1), 1437696, req = write
+2023-05-20 08:23:45,382 - root - INFO -    ebrnn2_0_h2h_bias: (576,), 576, req = write
+2023-05-20 08:23:45,382 - root - INFO -    edown2_conv_weight: (192, 192, 3, 3), 331776, req = write
+2023-05-20 08:23:45,383 - root - INFO -    edown2_conv_bias: (192,), 192, req = write
+2023-05-20 08:23:45,383 - root - INFO -    ebrnn3_0_i2h_weight: (576, 192, 3, 3), 995328, req = write
+2023-05-20 08:23:45,383 - root - INFO -    ebrnn3_0_i2h_bias: (576,), 576, req = write
+2023-05-20 08:23:45,383 - root - INFO -    ebrnn3_0_i2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:23:45,383 - root - INFO -    ebrnn3_0_i2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:23:45,384 - root - INFO -    ebrnn3_0_h2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:23:45,384 - root - INFO -    ebrnn3_0_h2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:23:45,384 - root - INFO -    ebrnn3_0_f_out_weight: (18, 32, 5, 5), 14400, req = write
+2023-05-20 08:23:45,384 - root - INFO -    ebrnn3_0_f_out_bias: (18,), 18, req = write
+2023-05-20 08:23:45,385 - root - INFO -    ebrnn3_0_h2h_weight: (576, 1728, 1, 1), 995328, req = write
+2023-05-20 08:23:45,385 - root - INFO -    ebrnn3_0_h2h_bias: (576,), 576, req = write
+2023-05-20 08:23:45,385 - root - INFO - Aux States: None
+2023-05-20 08:23:45,385 - root - INFO - Total Param Num (exclude fixed ones): 5969134
+2023-05-20 08:23:45,385 - root - INFO - Total Fixed Param Num: 0
+2023-05-20 08:23:45,385 - root - INFO - Total Aux Param Num: 0
+2023-05-20 08:23:45,385 - root - INFO - Summary of forecaster_net
+2023-05-20 08:23:45,386 - root - INFO - Data:
+2023-05-20 08:23:45,386 - root - INFO -    fbrnn1_begin_state_h: (4, 64, 96, 96), 2359296
+2023-05-20 08:23:45,386 - root - INFO -    fbrnn2_begin_state_h: (4, 192, 32, 32), 786432
+2023-05-20 08:23:45,386 - root - INFO -    fbrnn3_begin_state_h: (4, 192, 16, 16), 196608
+2023-05-20 08:23:45,386 - root - INFO - State: None
+2023-05-20 08:23:45,386 - root - INFO - Params:
+2023-05-20 08:23:45,387 - root - INFO -    fbrnn3_0_h2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:23:45,387 - root - INFO -    fbrnn3_0_h2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:23:45,387 - root - INFO -    fbrnn3_0_f_out_weight: (18, 32, 5, 5), 14400, req = write
+2023-05-20 08:23:45,387 - root - INFO -    fbrnn3_0_f_out_bias: (18,), 18, req = write
+2023-05-20 08:23:45,387 - root - INFO -    fbrnn3_0_h2h_weight: (576, 1728, 1, 1), 995328, req = write
+2023-05-20 08:23:45,388 - root - INFO -    fbrnn3_0_h2h_bias: (576,), 576, req = write
+2023-05-20 08:23:45,388 - root - INFO -    fup2_deconv_weight: (192, 192, 4, 4), 589824, req = write
+2023-05-20 08:23:45,388 - root - INFO -    fbrnn2_0_i2h_weight: (576, 192, 3, 3), 995328, req = write
+2023-05-20 08:23:45,388 - root - INFO -    fbrnn2_0_i2h_bias: (576,), 576, req = write
+2023-05-20 08:23:45,388 - root - INFO -    fbrnn2_0_i2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:23:45,389 - root - INFO -    fbrnn2_0_i2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:23:45,389 - root - INFO -    fbrnn2_0_h2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:23:45,389 - root - INFO -    fbrnn2_0_h2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:23:45,389 - root - INFO -    fbrnn2_0_f_out_weight: (26, 32, 5, 5), 20800, req = write
+2023-05-20 08:23:45,389 - root - INFO -    fbrnn2_0_f_out_bias: (26,), 26, req = write
+2023-05-20 08:23:45,390 - root - INFO -    fbrnn2_0_h2h_weight: (576, 2496, 1, 1), 1437696, req = write
+2023-05-20 08:23:45,390 - root - INFO -    fbrnn2_0_h2h_bias: (576,), 576, req = write
+2023-05-20 08:23:45,390 - root - INFO -    fup1_deconv_weight: (192, 192, 5, 5), 921600, req = write
+2023-05-20 08:23:45,390 - root - INFO -    fbrnn1_0_i2h_weight: (192, 192, 3, 3), 331776, req = write
+2023-05-20 08:23:45,390 - root - INFO -    fbrnn1_0_i2h_bias: (192,), 192, req = write
+2023-05-20 08:23:45,391 - root - INFO -    fbrnn1_0_i2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:23:45,391 - root - INFO -    fbrnn1_0_i2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:23:45,391 - root - INFO -    fbrnn1_0_h2f_conv1_weight: (32, 64, 5, 5), 51200, req = write
+2023-05-20 08:23:45,391 - root - INFO -    fbrnn1_0_h2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:23:45,392 - root - INFO -    fbrnn1_0_f_out_weight: (26, 32, 5, 5), 20800, req = write
+2023-05-20 08:23:45,392 - root - INFO -    fbrnn1_0_f_out_bias: (26,), 26, req = write
+2023-05-20 08:23:45,392 - root - INFO -    fbrnn1_0_h2h_weight: (192, 832, 1, 1), 159744, req = write
+2023-05-20 08:23:45,392 - root - INFO -    fbrnn1_0_h2h_bias: (192,), 192, req = write
+2023-05-20 08:23:45,392 - root - INFO -    fdeconv1_weight: (64, 8, 7, 7), 25088, req = write
+2023-05-20 08:23:45,393 - root - INFO -    conv_final_weight: (8, 8, 3, 3), 576, req = write
+2023-05-20 08:23:45,393 - root - INFO -    conv_final_bias: (8,), 8, req = write
+2023-05-20 08:23:45,393 - root - INFO -    out_weight: (1, 8, 1, 1), 8, req = write
+2023-05-20 08:23:45,393 - root - INFO -    out_bias: (1,), 1, req = write
+2023-05-20 08:23:45,393 - root - INFO - Aux States: None
+2023-05-20 08:23:45,394 - root - INFO - Total Param Num (exclude fixed ones): 6180919
+2023-05-20 08:23:45,394 - root - INFO - Total Fixed Param Num: 0
+2023-05-20 08:23:45,394 - root - INFO - Total Aux Param Num: 0
+2023-05-20 08:23:45,394 - root - INFO - Summary of loss_net
+2023-05-20 08:23:45,394 - root - INFO - Data:
+2023-05-20 08:23:45,394 - root - INFO -    pred: (20, 4, 1, 480, 480), 18432000
+2023-05-20 08:23:45,394 - root - INFO - State: None
+2023-05-20 08:23:45,394 - root - INFO - Param: None
+2023-05-20 08:23:45,394 - root - INFO - Aux States: None
+2023-05-20 08:23:45,394 - root - INFO - Total Param Num (exclude fixed ones): 0
+2023-05-20 08:23:45,395 - root - INFO - Total Fixed Param Num: 0
+2023-05-20 08:23:45,395 - root - INFO - Total Aux Param Num: 0
+2023-05-20 08:24:51,880 - root - INFO - Save YAML config file to ./cfg6.yml
+2023-05-20 08:24:51,899 - root - INFO - Initializing data iterator with filter threshold 0.28
+2023-05-20 08:24:51,900 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:24:51,901 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:24:51,901 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:24:51,902 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:24:51,902 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:24:51,903 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:24:51,903 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:24:51,903 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:24:51,904 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:24:51,905 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:24:51,905 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:24:51,906 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:24:51,906 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:24:51,906 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:24:51,907 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:24:51,907 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:24:51,908 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:24:51,908 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:24:54,282 - root - INFO - Summary of encoder_net
+2023-05-20 08:24:54,282 - root - INFO - Data:
+2023-05-20 08:24:54,282 - root - INFO -    data: (5, 4, 1, 480, 480), 4608000
+2023-05-20 08:24:54,282 - root - INFO -    ebrnn1_begin_state_h: (4, 64, 96, 96), 2359296
+2023-05-20 08:24:54,282 - root - INFO -    ebrnn2_begin_state_h: (4, 192, 32, 32), 786432
+2023-05-20 08:24:54,283 - root - INFO -    ebrnn3_begin_state_h: (4, 192, 16, 16), 196608
+2023-05-20 08:24:54,283 - root - INFO - State: None
+2023-05-20 08:24:54,283 - root - INFO - Params:
+2023-05-20 08:24:54,283 - root - INFO -    econv1_weight: (8, 4, 7, 7), 1568, req = write
+2023-05-20 08:24:54,283 - root - INFO -    econv1_bias: (8,), 8, req = write
+2023-05-20 08:24:54,283 - root - INFO -    ebrnn1_0_i2h_weight: (192, 8, 3, 3), 13824, req = write
+2023-05-20 08:24:54,283 - root - INFO -    ebrnn1_0_i2h_bias: (192,), 192, req = write
+2023-05-20 08:24:54,284 - root - INFO -    ebrnn1_0_i2f_conv1_weight: (32, 8, 5, 5), 6400, req = write
+2023-05-20 08:24:54,284 - root - INFO -    ebrnn1_0_i2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:24:54,284 - root - INFO -    ebrnn1_0_h2f_conv1_weight: (32, 64, 5, 5), 51200, req = write
+2023-05-20 08:24:54,284 - root - INFO -    ebrnn1_0_h2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:24:54,284 - root - INFO -    ebrnn1_0_f_out_weight: (26, 32, 5, 5), 20800, req = write
+2023-05-20 08:24:54,285 - root - INFO -    ebrnn1_0_f_out_bias: (26,), 26, req = write
+2023-05-20 08:24:54,285 - root - INFO -    ebrnn1_0_h2h_weight: (192, 832, 1, 1), 159744, req = write
+2023-05-20 08:24:54,285 - root - INFO -    ebrnn1_0_h2h_bias: (192,), 192, req = write
+2023-05-20 08:24:54,285 - root - INFO -    edown1_conv_weight: (192, 64, 5, 5), 307200, req = write
+2023-05-20 08:24:54,286 - root - INFO -    edown1_conv_bias: (192,), 192, req = write
+2023-05-20 08:24:54,286 - root - INFO -    ebrnn2_0_i2h_weight: (576, 192, 3, 3), 995328, req = write
+2023-05-20 08:24:54,286 - root - INFO -    ebrnn2_0_i2h_bias: (576,), 576, req = write
+2023-05-20 08:24:54,286 - root - INFO -    ebrnn2_0_i2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:24:54,286 - root - INFO -    ebrnn2_0_i2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:24:54,287 - root - INFO -    ebrnn2_0_h2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:24:54,287 - root - INFO -    ebrnn2_0_h2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:24:54,287 - root - INFO -    ebrnn2_0_f_out_weight: (26, 32, 5, 5), 20800, req = write
+2023-05-20 08:24:54,287 - root - INFO -    ebrnn2_0_f_out_bias: (26,), 26, req = write
+2023-05-20 08:24:54,288 - root - INFO -    ebrnn2_0_h2h_weight: (576, 2496, 1, 1), 1437696, req = write
+2023-05-20 08:24:54,288 - root - INFO -    ebrnn2_0_h2h_bias: (576,), 576, req = write
+2023-05-20 08:24:54,288 - root - INFO -    edown2_conv_weight: (192, 192, 3, 3), 331776, req = write
+2023-05-20 08:24:54,288 - root - INFO -    edown2_conv_bias: (192,), 192, req = write
+2023-05-20 08:24:54,288 - root - INFO -    ebrnn3_0_i2h_weight: (576, 192, 3, 3), 995328, req = write
+2023-05-20 08:24:54,288 - root - INFO -    ebrnn3_0_i2h_bias: (576,), 576, req = write
+2023-05-20 08:24:54,289 - root - INFO -    ebrnn3_0_i2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:24:54,289 - root - INFO -    ebrnn3_0_i2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:24:54,289 - root - INFO -    ebrnn3_0_h2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:24:54,289 - root - INFO -    ebrnn3_0_h2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:24:54,289 - root - INFO -    ebrnn3_0_f_out_weight: (18, 32, 5, 5), 14400, req = write
+2023-05-20 08:24:54,290 - root - INFO -    ebrnn3_0_f_out_bias: (18,), 18, req = write
+2023-05-20 08:24:54,290 - root - INFO -    ebrnn3_0_h2h_weight: (576, 1728, 1, 1), 995328, req = write
+2023-05-20 08:24:54,290 - root - INFO -    ebrnn3_0_h2h_bias: (576,), 576, req = write
+2023-05-20 08:24:54,290 - root - INFO - Aux States: None
+2023-05-20 08:24:54,290 - root - INFO - Total Param Num (exclude fixed ones): 5969134
+2023-05-20 08:24:54,291 - root - INFO - Total Fixed Param Num: 0
+2023-05-20 08:24:54,291 - root - INFO - Total Aux Param Num: 0
+2023-05-20 08:24:54,291 - root - INFO - Summary of forecaster_net
+2023-05-20 08:24:54,291 - root - INFO - Data:
+2023-05-20 08:24:54,291 - root - INFO -    fbrnn1_begin_state_h: (4, 64, 96, 96), 2359296
+2023-05-20 08:24:54,291 - root - INFO -    fbrnn2_begin_state_h: (4, 192, 32, 32), 786432
+2023-05-20 08:24:54,291 - root - INFO -    fbrnn3_begin_state_h: (4, 192, 16, 16), 196608
+2023-05-20 08:24:54,292 - root - INFO - State: None
+2023-05-20 08:24:54,292 - root - INFO - Params:
+2023-05-20 08:24:54,292 - root - INFO -    fbrnn3_0_h2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:24:54,292 - root - INFO -    fbrnn3_0_h2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:24:54,292 - root - INFO -    fbrnn3_0_f_out_weight: (18, 32, 5, 5), 14400, req = write
+2023-05-20 08:24:54,293 - root - INFO -    fbrnn3_0_f_out_bias: (18,), 18, req = write
+2023-05-20 08:24:54,293 - root - INFO -    fbrnn3_0_h2h_weight: (576, 1728, 1, 1), 995328, req = write
+2023-05-20 08:24:54,293 - root - INFO -    fbrnn3_0_h2h_bias: (576,), 576, req = write
+2023-05-20 08:24:54,293 - root - INFO -    fup2_deconv_weight: (192, 192, 4, 4), 589824, req = write
+2023-05-20 08:24:54,294 - root - INFO -    fbrnn2_0_i2h_weight: (576, 192, 3, 3), 995328, req = write
+2023-05-20 08:24:54,294 - root - INFO -    fbrnn2_0_i2h_bias: (576,), 576, req = write
+2023-05-20 08:24:54,294 - root - INFO -    fbrnn2_0_i2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:24:54,294 - root - INFO -    fbrnn2_0_i2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:24:54,294 - root - INFO -    fbrnn2_0_h2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:24:54,295 - root - INFO -    fbrnn2_0_h2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:24:54,295 - root - INFO -    fbrnn2_0_f_out_weight: (26, 32, 5, 5), 20800, req = write
+2023-05-20 08:24:54,295 - root - INFO -    fbrnn2_0_f_out_bias: (26,), 26, req = write
+2023-05-20 08:24:54,295 - root - INFO -    fbrnn2_0_h2h_weight: (576, 2496, 1, 1), 1437696, req = write
+2023-05-20 08:24:54,296 - root - INFO -    fbrnn2_0_h2h_bias: (576,), 576, req = write
+2023-05-20 08:24:54,296 - root - INFO -    fup1_deconv_weight: (192, 192, 5, 5), 921600, req = write
+2023-05-20 08:24:54,296 - root - INFO -    fbrnn1_0_i2h_weight: (192, 192, 3, 3), 331776, req = write
+2023-05-20 08:24:54,296 - root - INFO -    fbrnn1_0_i2h_bias: (192,), 192, req = write
+2023-05-20 08:24:54,296 - root - INFO -    fbrnn1_0_i2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:24:54,297 - root - INFO -    fbrnn1_0_i2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:24:54,297 - root - INFO -    fbrnn1_0_h2f_conv1_weight: (32, 64, 5, 5), 51200, req = write
+2023-05-20 08:24:54,297 - root - INFO -    fbrnn1_0_h2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:24:54,297 - root - INFO -    fbrnn1_0_f_out_weight: (26, 32, 5, 5), 20800, req = write
+2023-05-20 08:24:54,297 - root - INFO -    fbrnn1_0_f_out_bias: (26,), 26, req = write
+2023-05-20 08:24:54,298 - root - INFO -    fbrnn1_0_h2h_weight: (192, 832, 1, 1), 159744, req = write
+2023-05-20 08:24:54,298 - root - INFO -    fbrnn1_0_h2h_bias: (192,), 192, req = write
+2023-05-20 08:24:54,298 - root - INFO -    fdeconv1_weight: (64, 8, 7, 7), 25088, req = write
+2023-05-20 08:24:54,298 - root - INFO -    conv_final_weight: (8, 8, 3, 3), 576, req = write
+2023-05-20 08:24:54,299 - root - INFO -    conv_final_bias: (8,), 8, req = write
+2023-05-20 08:24:54,299 - root - INFO -    out_weight: (1, 8, 1, 1), 8, req = write
+2023-05-20 08:24:54,299 - root - INFO -    out_bias: (1,), 1, req = write
+2023-05-20 08:24:54,299 - root - INFO - Aux States: None
+2023-05-20 08:24:54,299 - root - INFO - Total Param Num (exclude fixed ones): 6180919
+2023-05-20 08:24:54,300 - root - INFO - Total Fixed Param Num: 0
+2023-05-20 08:24:54,300 - root - INFO - Total Aux Param Num: 0
+2023-05-20 08:24:54,300 - root - INFO - Summary of loss_net
+2023-05-20 08:24:54,300 - root - INFO - Data:
+2023-05-20 08:24:54,300 - root - INFO -    pred: (20, 4, 1, 480, 480), 18432000
+2023-05-20 08:24:54,300 - root - INFO - State: None
+2023-05-20 08:24:54,300 - root - INFO - Param: None
+2023-05-20 08:24:54,301 - root - INFO - Aux States: None
+2023-05-20 08:24:54,301 - root - INFO - Total Param Num (exclude fixed ones): 0
+2023-05-20 08:24:54,301 - root - INFO - Total Fixed Param Num: 0
+2023-05-20 08:24:54,301 - root - INFO - Total Aux Param Num: 0
+2023-05-20 08:27:16,698 - root - INFO - Save YAML config file to ./cfg7.yml
+2023-05-20 08:27:16,717 - root - INFO - Initializing data iterator with filter threshold 0.28
+2023-05-20 08:27:16,718 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:27:16,719 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:27:16,719 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:27:16,720 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:27:16,720 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:27:16,721 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:27:16,721 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:27:16,721 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:27:16,722 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:27:16,723 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:27:16,723 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:27:16,724 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:27:16,724 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:27:16,725 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:27:16,725 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:27:16,726 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:27:16,727 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:27:16,727 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:27:19,085 - root - INFO - Summary of encoder_net
+2023-05-20 08:27:19,085 - root - INFO - Data:
+2023-05-20 08:27:19,085 - root - INFO -    data: (5, 4, 1, 480, 480), 4608000
+2023-05-20 08:27:19,085 - root - INFO -    ebrnn1_begin_state_h: (4, 64, 96, 96), 2359296
+2023-05-20 08:27:19,085 - root - INFO -    ebrnn2_begin_state_h: (4, 192, 32, 32), 786432
+2023-05-20 08:27:19,085 - root - INFO -    ebrnn3_begin_state_h: (4, 192, 16, 16), 196608
+2023-05-20 08:27:19,085 - root - INFO - State: None
+2023-05-20 08:27:19,085 - root - INFO - Params:
+2023-05-20 08:27:19,086 - root - INFO -    econv1_weight: (8, 4, 7, 7), 1568, req = write
+2023-05-20 08:27:19,086 - root - INFO -    econv1_bias: (8,), 8, req = write
+2023-05-20 08:27:19,086 - root - INFO -    ebrnn1_0_i2h_weight: (192, 8, 3, 3), 13824, req = write
+2023-05-20 08:27:19,086 - root - INFO -    ebrnn1_0_i2h_bias: (192,), 192, req = write
+2023-05-20 08:27:19,086 - root - INFO -    ebrnn1_0_i2f_conv1_weight: (32, 8, 5, 5), 6400, req = write
+2023-05-20 08:27:19,086 - root - INFO -    ebrnn1_0_i2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:27:19,087 - root - INFO -    ebrnn1_0_h2f_conv1_weight: (32, 64, 5, 5), 51200, req = write
+2023-05-20 08:27:19,087 - root - INFO -    ebrnn1_0_h2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:27:19,087 - root - INFO -    ebrnn1_0_f_out_weight: (26, 32, 5, 5), 20800, req = write
+2023-05-20 08:27:19,087 - root - INFO -    ebrnn1_0_f_out_bias: (26,), 26, req = write
+2023-05-20 08:27:19,088 - root - INFO -    ebrnn1_0_h2h_weight: (192, 832, 1, 1), 159744, req = write
+2023-05-20 08:27:19,088 - root - INFO -    ebrnn1_0_h2h_bias: (192,), 192, req = write
+2023-05-20 08:27:19,088 - root - INFO -    edown1_conv_weight: (192, 64, 5, 5), 307200, req = write
+2023-05-20 08:27:19,088 - root - INFO -    edown1_conv_bias: (192,), 192, req = write
+2023-05-20 08:27:19,089 - root - INFO -    ebrnn2_0_i2h_weight: (576, 192, 3, 3), 995328, req = write
+2023-05-20 08:27:19,089 - root - INFO -    ebrnn2_0_i2h_bias: (576,), 576, req = write
+2023-05-20 08:27:19,089 - root - INFO -    ebrnn2_0_i2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:27:19,089 - root - INFO -    ebrnn2_0_i2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:27:19,089 - root - INFO -    ebrnn2_0_h2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:27:19,090 - root - INFO -    ebrnn2_0_h2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:27:19,090 - root - INFO -    ebrnn2_0_f_out_weight: (26, 32, 5, 5), 20800, req = write
+2023-05-20 08:27:19,090 - root - INFO -    ebrnn2_0_f_out_bias: (26,), 26, req = write
+2023-05-20 08:27:19,090 - root - INFO -    ebrnn2_0_h2h_weight: (576, 2496, 1, 1), 1437696, req = write
+2023-05-20 08:27:19,091 - root - INFO -    ebrnn2_0_h2h_bias: (576,), 576, req = write
+2023-05-20 08:27:19,091 - root - INFO -    edown2_conv_weight: (192, 192, 3, 3), 331776, req = write
+2023-05-20 08:27:19,091 - root - INFO -    edown2_conv_bias: (192,), 192, req = write
+2023-05-20 08:27:19,091 - root - INFO -    ebrnn3_0_i2h_weight: (576, 192, 3, 3), 995328, req = write
+2023-05-20 08:27:19,092 - root - INFO -    ebrnn3_0_i2h_bias: (576,), 576, req = write
+2023-05-20 08:27:19,092 - root - INFO -    ebrnn3_0_i2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:27:19,092 - root - INFO -    ebrnn3_0_i2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:27:19,092 - root - INFO -    ebrnn3_0_h2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:27:19,092 - root - INFO -    ebrnn3_0_h2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:27:19,093 - root - INFO -    ebrnn3_0_f_out_weight: (18, 32, 5, 5), 14400, req = write
+2023-05-20 08:27:19,093 - root - INFO -    ebrnn3_0_f_out_bias: (18,), 18, req = write
+2023-05-20 08:27:19,093 - root - INFO -    ebrnn3_0_h2h_weight: (576, 1728, 1, 1), 995328, req = write
+2023-05-20 08:27:19,093 - root - INFO -    ebrnn3_0_h2h_bias: (576,), 576, req = write
+2023-05-20 08:27:19,094 - root - INFO - Aux States: None
+2023-05-20 08:27:19,094 - root - INFO - Total Param Num (exclude fixed ones): 5969134
+2023-05-20 08:27:19,094 - root - INFO - Total Fixed Param Num: 0
+2023-05-20 08:27:19,094 - root - INFO - Total Aux Param Num: 0
+2023-05-20 08:27:19,094 - root - INFO - Summary of forecaster_net
+2023-05-20 08:27:19,094 - root - INFO - Data:
+2023-05-20 08:27:19,094 - root - INFO -    fbrnn1_begin_state_h: (4, 64, 96, 96), 2359296
+2023-05-20 08:27:19,095 - root - INFO -    fbrnn2_begin_state_h: (4, 192, 32, 32), 786432
+2023-05-20 08:27:19,095 - root - INFO -    fbrnn3_begin_state_h: (4, 192, 16, 16), 196608
+2023-05-20 08:27:19,095 - root - INFO - State: None
+2023-05-20 08:27:19,095 - root - INFO - Params:
+2023-05-20 08:27:19,095 - root - INFO -    fbrnn3_0_h2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:27:19,095 - root - INFO -    fbrnn3_0_h2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:27:19,096 - root - INFO -    fbrnn3_0_f_out_weight: (18, 32, 5, 5), 14400, req = write
+2023-05-20 08:27:19,096 - root - INFO -    fbrnn3_0_f_out_bias: (18,), 18, req = write
+2023-05-20 08:27:19,096 - root - INFO -    fbrnn3_0_h2h_weight: (576, 1728, 1, 1), 995328, req = write
+2023-05-20 08:27:19,096 - root - INFO -    fbrnn3_0_h2h_bias: (576,), 576, req = write
+2023-05-20 08:27:19,097 - root - INFO -    fup2_deconv_weight: (192, 192, 4, 4), 589824, req = write
+2023-05-20 08:27:19,097 - root - INFO -    fbrnn2_0_i2h_weight: (576, 192, 3, 3), 995328, req = write
+2023-05-20 08:27:19,097 - root - INFO -    fbrnn2_0_i2h_bias: (576,), 576, req = write
+2023-05-20 08:27:19,097 - root - INFO -    fbrnn2_0_i2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:27:19,098 - root - INFO -    fbrnn2_0_i2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:27:19,098 - root - INFO -    fbrnn2_0_h2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:27:19,098 - root - INFO -    fbrnn2_0_h2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:27:19,098 - root - INFO -    fbrnn2_0_f_out_weight: (26, 32, 5, 5), 20800, req = write
+2023-05-20 08:27:19,098 - root - INFO -    fbrnn2_0_f_out_bias: (26,), 26, req = write
+2023-05-20 08:27:19,099 - root - INFO -    fbrnn2_0_h2h_weight: (576, 2496, 1, 1), 1437696, req = write
+2023-05-20 08:27:19,099 - root - INFO -    fbrnn2_0_h2h_bias: (576,), 576, req = write
+2023-05-20 08:27:19,099 - root - INFO -    fup1_deconv_weight: (192, 192, 5, 5), 921600, req = write
+2023-05-20 08:27:19,099 - root - INFO -    fbrnn1_0_i2h_weight: (192, 192, 3, 3), 331776, req = write
+2023-05-20 08:27:19,100 - root - INFO -    fbrnn1_0_i2h_bias: (192,), 192, req = write
+2023-05-20 08:27:19,100 - root - INFO -    fbrnn1_0_i2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:27:19,100 - root - INFO -    fbrnn1_0_i2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:27:19,100 - root - INFO -    fbrnn1_0_h2f_conv1_weight: (32, 64, 5, 5), 51200, req = write
+2023-05-20 08:27:19,100 - root - INFO -    fbrnn1_0_h2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:27:19,101 - root - INFO -    fbrnn1_0_f_out_weight: (26, 32, 5, 5), 20800, req = write
+2023-05-20 08:27:19,101 - root - INFO -    fbrnn1_0_f_out_bias: (26,), 26, req = write
+2023-05-20 08:27:19,101 - root - INFO -    fbrnn1_0_h2h_weight: (192, 832, 1, 1), 159744, req = write
+2023-05-20 08:27:19,101 - root - INFO -    fbrnn1_0_h2h_bias: (192,), 192, req = write
+2023-05-20 08:27:19,102 - root - INFO -    fdeconv1_weight: (64, 8, 7, 7), 25088, req = write
+2023-05-20 08:27:19,102 - root - INFO -    conv_final_weight: (8, 8, 3, 3), 576, req = write
+2023-05-20 08:27:19,102 - root - INFO -    conv_final_bias: (8,), 8, req = write
+2023-05-20 08:27:19,102 - root - INFO -    out_weight: (1, 8, 1, 1), 8, req = write
+2023-05-20 08:27:19,102 - root - INFO -    out_bias: (1,), 1, req = write
+2023-05-20 08:27:19,103 - root - INFO - Aux States: None
+2023-05-20 08:27:19,103 - root - INFO - Total Param Num (exclude fixed ones): 6180919
+2023-05-20 08:27:19,103 - root - INFO - Total Fixed Param Num: 0
+2023-05-20 08:27:19,103 - root - INFO - Total Aux Param Num: 0
+2023-05-20 08:27:19,103 - root - INFO - Summary of loss_net
+2023-05-20 08:27:19,103 - root - INFO - Data:
+2023-05-20 08:27:19,104 - root - INFO -    pred: (20, 4, 1, 480, 480), 18432000
+2023-05-20 08:27:19,104 - root - INFO - State: None
+2023-05-20 08:27:19,104 - root - INFO - Param: None
+2023-05-20 08:27:19,104 - root - INFO - Aux States: None
+2023-05-20 08:27:19,104 - root - INFO - Total Param Num (exclude fixed ones): 0
+2023-05-20 08:27:19,104 - root - INFO - Total Fixed Param Num: 0
+2023-05-20 08:27:19,104 - root - INFO - Total Aux Param Num: 0
+2023-05-20 08:29:28,279 - root - INFO - Save YAML config file to ./cfg8.yml
+2023-05-20 08:29:28,299 - root - INFO - Initializing data iterator with filter threshold 0.28
+2023-05-20 08:29:28,300 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:29:28,301 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:29:28,301 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:29:28,302 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:29:28,302 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:29:28,303 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:29:28,303 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:29:28,304 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:29:28,304 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:29:28,305 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:29:28,306 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:29:28,306 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:29:28,307 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:29:28,307 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:29:28,308 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:29:28,308 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:29:28,309 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:29:28,309 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:29:30,756 - root - INFO - Summary of encoder_net
+2023-05-20 08:29:30,756 - root - INFO - Data:
+2023-05-20 08:29:30,757 - root - INFO -    data: (5, 4, 1, 480, 480), 4608000
+2023-05-20 08:29:30,757 - root - INFO -    ebrnn1_begin_state_h: (4, 64, 96, 96), 2359296
+2023-05-20 08:29:30,757 - root - INFO -    ebrnn2_begin_state_h: (4, 192, 32, 32), 786432
+2023-05-20 08:29:30,757 - root - INFO -    ebrnn3_begin_state_h: (4, 192, 16, 16), 196608
+2023-05-20 08:29:30,757 - root - INFO - State: None
+2023-05-20 08:29:30,757 - root - INFO - Params:
+2023-05-20 08:29:30,757 - root - INFO -    econv1_weight: (8, 4, 7, 7), 1568, req = write
+2023-05-20 08:29:30,758 - root - INFO -    econv1_bias: (8,), 8, req = write
+2023-05-20 08:29:30,758 - root - INFO -    ebrnn1_0_i2h_weight: (192, 8, 3, 3), 13824, req = write
+2023-05-20 08:29:30,758 - root - INFO -    ebrnn1_0_i2h_bias: (192,), 192, req = write
+2023-05-20 08:29:30,758 - root - INFO -    ebrnn1_0_i2f_conv1_weight: (32, 8, 5, 5), 6400, req = write
+2023-05-20 08:29:30,758 - root - INFO -    ebrnn1_0_i2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:29:30,758 - root - INFO -    ebrnn1_0_h2f_conv1_weight: (32, 64, 5, 5), 51200, req = write
+2023-05-20 08:29:30,759 - root - INFO -    ebrnn1_0_h2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:29:30,759 - root - INFO -    ebrnn1_0_f_out_weight: (26, 32, 5, 5), 20800, req = write
+2023-05-20 08:29:30,759 - root - INFO -    ebrnn1_0_f_out_bias: (26,), 26, req = write
+2023-05-20 08:29:30,759 - root - INFO -    ebrnn1_0_h2h_weight: (192, 832, 1, 1), 159744, req = write
+2023-05-20 08:29:30,760 - root - INFO -    ebrnn1_0_h2h_bias: (192,), 192, req = write
+2023-05-20 08:29:30,760 - root - INFO -    edown1_conv_weight: (192, 64, 5, 5), 307200, req = write
+2023-05-20 08:29:30,760 - root - INFO -    edown1_conv_bias: (192,), 192, req = write
+2023-05-20 08:29:30,760 - root - INFO -    ebrnn2_0_i2h_weight: (576, 192, 3, 3), 995328, req = write
+2023-05-20 08:29:30,760 - root - INFO -    ebrnn2_0_i2h_bias: (576,), 576, req = write
+2023-05-20 08:29:30,761 - root - INFO -    ebrnn2_0_i2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:29:30,761 - root - INFO -    ebrnn2_0_i2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:29:30,761 - root - INFO -    ebrnn2_0_h2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:29:30,761 - root - INFO -    ebrnn2_0_h2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:29:30,761 - root - INFO -    ebrnn2_0_f_out_weight: (26, 32, 5, 5), 20800, req = write
+2023-05-20 08:29:30,762 - root - INFO -    ebrnn2_0_f_out_bias: (26,), 26, req = write
+2023-05-20 08:29:30,762 - root - INFO -    ebrnn2_0_h2h_weight: (576, 2496, 1, 1), 1437696, req = write
+2023-05-20 08:29:30,762 - root - INFO -    ebrnn2_0_h2h_bias: (576,), 576, req = write
+2023-05-20 08:29:30,762 - root - INFO -    edown2_conv_weight: (192, 192, 3, 3), 331776, req = write
+2023-05-20 08:29:30,763 - root - INFO -    edown2_conv_bias: (192,), 192, req = write
+2023-05-20 08:29:30,763 - root - INFO -    ebrnn3_0_i2h_weight: (576, 192, 3, 3), 995328, req = write
+2023-05-20 08:29:30,763 - root - INFO -    ebrnn3_0_i2h_bias: (576,), 576, req = write
+2023-05-20 08:29:30,763 - root - INFO -    ebrnn3_0_i2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:29:30,763 - root - INFO -    ebrnn3_0_i2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:29:30,764 - root - INFO -    ebrnn3_0_h2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:29:30,764 - root - INFO -    ebrnn3_0_h2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:29:30,764 - root - INFO -    ebrnn3_0_f_out_weight: (18, 32, 5, 5), 14400, req = write
+2023-05-20 08:29:30,764 - root - INFO -    ebrnn3_0_f_out_bias: (18,), 18, req = write
+2023-05-20 08:29:30,764 - root - INFO -    ebrnn3_0_h2h_weight: (576, 1728, 1, 1), 995328, req = write
+2023-05-20 08:29:30,765 - root - INFO -    ebrnn3_0_h2h_bias: (576,), 576, req = write
+2023-05-20 08:29:30,765 - root - INFO - Aux States: None
+2023-05-20 08:29:30,765 - root - INFO - Total Param Num (exclude fixed ones): 5969134
+2023-05-20 08:29:30,765 - root - INFO - Total Fixed Param Num: 0
+2023-05-20 08:29:30,765 - root - INFO - Total Aux Param Num: 0
+2023-05-20 08:29:30,765 - root - INFO - Summary of forecaster_net
+2023-05-20 08:29:30,765 - root - INFO - Data:
+2023-05-20 08:29:30,765 - root - INFO -    fbrnn1_begin_state_h: (4, 64, 96, 96), 2359296
+2023-05-20 08:29:30,766 - root - INFO -    fbrnn2_begin_state_h: (4, 192, 32, 32), 786432
+2023-05-20 08:29:30,766 - root - INFO -    fbrnn3_begin_state_h: (4, 192, 16, 16), 196608
+2023-05-20 08:29:30,766 - root - INFO - State: None
+2023-05-20 08:29:30,766 - root - INFO - Params:
+2023-05-20 08:29:30,766 - root - INFO -    fbrnn3_0_h2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:29:30,767 - root - INFO -    fbrnn3_0_h2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:29:30,767 - root - INFO -    fbrnn3_0_f_out_weight: (18, 32, 5, 5), 14400, req = write
+2023-05-20 08:29:30,767 - root - INFO -    fbrnn3_0_f_out_bias: (18,), 18, req = write
+2023-05-20 08:29:30,767 - root - INFO -    fbrnn3_0_h2h_weight: (576, 1728, 1, 1), 995328, req = write
+2023-05-20 08:29:30,767 - root - INFO -    fbrnn3_0_h2h_bias: (576,), 576, req = write
+2023-05-20 08:29:30,768 - root - INFO -    fup2_deconv_weight: (192, 192, 4, 4), 589824, req = write
+2023-05-20 08:29:30,768 - root - INFO -    fbrnn2_0_i2h_weight: (576, 192, 3, 3), 995328, req = write
+2023-05-20 08:29:30,768 - root - INFO -    fbrnn2_0_i2h_bias: (576,), 576, req = write
+2023-05-20 08:29:30,768 - root - INFO -    fbrnn2_0_i2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:29:30,769 - root - INFO -    fbrnn2_0_i2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:29:30,769 - root - INFO -    fbrnn2_0_h2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:29:30,769 - root - INFO -    fbrnn2_0_h2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:29:30,769 - root - INFO -    fbrnn2_0_f_out_weight: (26, 32, 5, 5), 20800, req = write
+2023-05-20 08:29:30,769 - root - INFO -    fbrnn2_0_f_out_bias: (26,), 26, req = write
+2023-05-20 08:29:30,770 - root - INFO -    fbrnn2_0_h2h_weight: (576, 2496, 1, 1), 1437696, req = write
+2023-05-20 08:29:30,770 - root - INFO -    fbrnn2_0_h2h_bias: (576,), 576, req = write
+2023-05-20 08:29:30,770 - root - INFO -    fup1_deconv_weight: (192, 192, 5, 5), 921600, req = write
+2023-05-20 08:29:30,770 - root - INFO -    fbrnn1_0_i2h_weight: (192, 192, 3, 3), 331776, req = write
+2023-05-20 08:29:30,770 - root - INFO -    fbrnn1_0_i2h_bias: (192,), 192, req = write
+2023-05-20 08:29:30,771 - root - INFO -    fbrnn1_0_i2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:29:30,771 - root - INFO -    fbrnn1_0_i2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:29:30,771 - root - INFO -    fbrnn1_0_h2f_conv1_weight: (32, 64, 5, 5), 51200, req = write
+2023-05-20 08:29:30,771 - root - INFO -    fbrnn1_0_h2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:29:30,771 - root - INFO -    fbrnn1_0_f_out_weight: (26, 32, 5, 5), 20800, req = write
+2023-05-20 08:29:30,772 - root - INFO -    fbrnn1_0_f_out_bias: (26,), 26, req = write
+2023-05-20 08:29:30,772 - root - INFO -    fbrnn1_0_h2h_weight: (192, 832, 1, 1), 159744, req = write
+2023-05-20 08:29:30,772 - root - INFO -    fbrnn1_0_h2h_bias: (192,), 192, req = write
+2023-05-20 08:29:30,772 - root - INFO -    fdeconv1_weight: (64, 8, 7, 7), 25088, req = write
+2023-05-20 08:29:30,772 - root - INFO -    conv_final_weight: (8, 8, 3, 3), 576, req = write
+2023-05-20 08:29:30,773 - root - INFO -    conv_final_bias: (8,), 8, req = write
+2023-05-20 08:29:30,773 - root - INFO -    out_weight: (1, 8, 1, 1), 8, req = write
+2023-05-20 08:29:30,773 - root - INFO -    out_bias: (1,), 1, req = write
+2023-05-20 08:29:30,773 - root - INFO - Aux States: None
+2023-05-20 08:29:30,773 - root - INFO - Total Param Num (exclude fixed ones): 6180919
+2023-05-20 08:29:30,774 - root - INFO - Total Fixed Param Num: 0
+2023-05-20 08:29:30,774 - root - INFO - Total Aux Param Num: 0
+2023-05-20 08:29:30,774 - root - INFO - Summary of loss_net
+2023-05-20 08:29:30,774 - root - INFO - Data:
+2023-05-20 08:29:30,774 - root - INFO -    pred: (20, 4, 1, 480, 480), 18432000
+2023-05-20 08:29:30,774 - root - INFO - State: None
+2023-05-20 08:29:30,774 - root - INFO - Param: None
+2023-05-20 08:29:30,775 - root - INFO - Aux States: None
+2023-05-20 08:29:30,775 - root - INFO - Total Param Num (exclude fixed ones): 0
+2023-05-20 08:29:30,775 - root - INFO - Total Fixed Param Num: 0
+2023-05-20 08:29:30,775 - root - INFO - Total Aux Param Num: 0
+2023-05-20 08:30:11,833 - root - INFO - Save YAML config file to ./cfg9.yml
+2023-05-20 08:30:11,852 - root - INFO - Initializing data iterator with filter threshold 0.28
+2023-05-20 08:30:11,853 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:30:11,854 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:30:11,854 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:30:11,855 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:30:11,855 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:30:11,855 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:30:11,856 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:30:11,856 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:30:11,857 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:30:11,858 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:30:11,858 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:30:11,859 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:30:11,859 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:30:11,860 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:30:11,860 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:30:11,861 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:30:11,861 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:30:11,861 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:30:14,212 - root - INFO - Summary of encoder_net
+2023-05-20 08:30:14,212 - root - INFO - Data:
+2023-05-20 08:30:14,212 - root - INFO -    data: (5, 4, 1, 480, 480), 4608000
+2023-05-20 08:30:14,212 - root - INFO -    ebrnn1_begin_state_h: (4, 64, 96, 96), 2359296
+2023-05-20 08:30:14,212 - root - INFO -    ebrnn2_begin_state_h: (4, 192, 32, 32), 786432
+2023-05-20 08:30:14,213 - root - INFO -    ebrnn3_begin_state_h: (4, 192, 16, 16), 196608
+2023-05-20 08:30:14,213 - root - INFO - State: None
+2023-05-20 08:30:14,213 - root - INFO - Params:
+2023-05-20 08:30:14,213 - root - INFO -    econv1_weight: (8, 4, 7, 7), 1568, req = write
+2023-05-20 08:30:14,213 - root - INFO -    econv1_bias: (8,), 8, req = write
+2023-05-20 08:30:14,213 - root - INFO -    ebrnn1_0_i2h_weight: (192, 8, 3, 3), 13824, req = write
+2023-05-20 08:30:14,214 - root - INFO -    ebrnn1_0_i2h_bias: (192,), 192, req = write
+2023-05-20 08:30:14,214 - root - INFO -    ebrnn1_0_i2f_conv1_weight: (32, 8, 5, 5), 6400, req = write
+2023-05-20 08:30:14,214 - root - INFO -    ebrnn1_0_i2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:30:14,214 - root - INFO -    ebrnn1_0_h2f_conv1_weight: (32, 64, 5, 5), 51200, req = write
+2023-05-20 08:30:14,215 - root - INFO -    ebrnn1_0_h2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:30:14,215 - root - INFO -    ebrnn1_0_f_out_weight: (26, 32, 5, 5), 20800, req = write
+2023-05-20 08:30:14,215 - root - INFO -    ebrnn1_0_f_out_bias: (26,), 26, req = write
+2023-05-20 08:30:14,215 - root - INFO -    ebrnn1_0_h2h_weight: (192, 832, 1, 1), 159744, req = write
+2023-05-20 08:30:14,215 - root - INFO -    ebrnn1_0_h2h_bias: (192,), 192, req = write
+2023-05-20 08:30:14,216 - root - INFO -    edown1_conv_weight: (192, 64, 5, 5), 307200, req = write
+2023-05-20 08:30:14,216 - root - INFO -    edown1_conv_bias: (192,), 192, req = write
+2023-05-20 08:30:14,216 - root - INFO -    ebrnn2_0_i2h_weight: (576, 192, 3, 3), 995328, req = write
+2023-05-20 08:30:14,216 - root - INFO -    ebrnn2_0_i2h_bias: (576,), 576, req = write
+2023-05-20 08:30:14,216 - root - INFO -    ebrnn2_0_i2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:30:14,216 - root - INFO -    ebrnn2_0_i2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:30:14,217 - root - INFO -    ebrnn2_0_h2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:30:14,217 - root - INFO -    ebrnn2_0_h2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:30:14,217 - root - INFO -    ebrnn2_0_f_out_weight: (26, 32, 5, 5), 20800, req = write
+2023-05-20 08:30:14,217 - root - INFO -    ebrnn2_0_f_out_bias: (26,), 26, req = write
+2023-05-20 08:30:14,217 - root - INFO -    ebrnn2_0_h2h_weight: (576, 2496, 1, 1), 1437696, req = write
+2023-05-20 08:30:14,217 - root - INFO -    ebrnn2_0_h2h_bias: (576,), 576, req = write
+2023-05-20 08:30:14,218 - root - INFO -    edown2_conv_weight: (192, 192, 3, 3), 331776, req = write
+2023-05-20 08:30:14,218 - root - INFO -    edown2_conv_bias: (192,), 192, req = write
+2023-05-20 08:30:14,218 - root - INFO -    ebrnn3_0_i2h_weight: (576, 192, 3, 3), 995328, req = write
+2023-05-20 08:30:14,218 - root - INFO -    ebrnn3_0_i2h_bias: (576,), 576, req = write
+2023-05-20 08:30:14,218 - root - INFO -    ebrnn3_0_i2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:30:14,218 - root - INFO -    ebrnn3_0_i2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:30:14,218 - root - INFO -    ebrnn3_0_h2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:30:14,218 - root - INFO -    ebrnn3_0_h2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:30:14,219 - root - INFO -    ebrnn3_0_f_out_weight: (18, 32, 5, 5), 14400, req = write
+2023-05-20 08:30:14,219 - root - INFO -    ebrnn3_0_f_out_bias: (18,), 18, req = write
+2023-05-20 08:30:14,219 - root - INFO -    ebrnn3_0_h2h_weight: (576, 1728, 1, 1), 995328, req = write
+2023-05-20 08:30:14,219 - root - INFO -    ebrnn3_0_h2h_bias: (576,), 576, req = write
+2023-05-20 08:30:14,219 - root - INFO - Aux States: None
+2023-05-20 08:30:14,219 - root - INFO - Total Param Num (exclude fixed ones): 5969134
+2023-05-20 08:30:14,219 - root - INFO - Total Fixed Param Num: 0
+2023-05-20 08:30:14,220 - root - INFO - Total Aux Param Num: 0
+2023-05-20 08:30:14,220 - root - INFO - Summary of forecaster_net
+2023-05-20 08:30:14,220 - root - INFO - Data:
+2023-05-20 08:30:14,220 - root - INFO -    fbrnn1_begin_state_h: (4, 64, 96, 96), 2359296
+2023-05-20 08:30:14,220 - root - INFO -    fbrnn2_begin_state_h: (4, 192, 32, 32), 786432
+2023-05-20 08:30:14,220 - root - INFO -    fbrnn3_begin_state_h: (4, 192, 16, 16), 196608
+2023-05-20 08:30:14,220 - root - INFO - State: None
+2023-05-20 08:30:14,221 - root - INFO - Params:
+2023-05-20 08:30:14,221 - root - INFO -    fbrnn3_0_h2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:30:14,221 - root - INFO -    fbrnn3_0_h2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:30:14,221 - root - INFO -    fbrnn3_0_f_out_weight: (18, 32, 5, 5), 14400, req = write
+2023-05-20 08:30:14,221 - root - INFO -    fbrnn3_0_f_out_bias: (18,), 18, req = write
+2023-05-20 08:30:14,222 - root - INFO -    fbrnn3_0_h2h_weight: (576, 1728, 1, 1), 995328, req = write
+2023-05-20 08:30:14,222 - root - INFO -    fbrnn3_0_h2h_bias: (576,), 576, req = write
+2023-05-20 08:30:14,222 - root - INFO -    fup2_deconv_weight: (192, 192, 4, 4), 589824, req = write
+2023-05-20 08:30:14,222 - root - INFO -    fbrnn2_0_i2h_weight: (576, 192, 3, 3), 995328, req = write
+2023-05-20 08:30:14,223 - root - INFO -    fbrnn2_0_i2h_bias: (576,), 576, req = write
+2023-05-20 08:30:14,223 - root - INFO -    fbrnn2_0_i2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:30:14,223 - root - INFO -    fbrnn2_0_i2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:30:14,223 - root - INFO -    fbrnn2_0_h2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:30:14,223 - root - INFO -    fbrnn2_0_h2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:30:14,224 - root - INFO -    fbrnn2_0_f_out_weight: (26, 32, 5, 5), 20800, req = write
+2023-05-20 08:30:14,224 - root - INFO -    fbrnn2_0_f_out_bias: (26,), 26, req = write
+2023-05-20 08:30:14,224 - root - INFO -    fbrnn2_0_h2h_weight: (576, 2496, 1, 1), 1437696, req = write
+2023-05-20 08:30:14,224 - root - INFO -    fbrnn2_0_h2h_bias: (576,), 576, req = write
+2023-05-20 08:30:14,225 - root - INFO -    fup1_deconv_weight: (192, 192, 5, 5), 921600, req = write
+2023-05-20 08:30:14,225 - root - INFO -    fbrnn1_0_i2h_weight: (192, 192, 3, 3), 331776, req = write
+2023-05-20 08:30:14,225 - root - INFO -    fbrnn1_0_i2h_bias: (192,), 192, req = write
+2023-05-20 08:30:14,225 - root - INFO -    fbrnn1_0_i2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:30:14,225 - root - INFO -    fbrnn1_0_i2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:30:14,226 - root - INFO -    fbrnn1_0_h2f_conv1_weight: (32, 64, 5, 5), 51200, req = write
+2023-05-20 08:30:14,226 - root - INFO -    fbrnn1_0_h2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:30:14,226 - root - INFO -    fbrnn1_0_f_out_weight: (26, 32, 5, 5), 20800, req = write
+2023-05-20 08:30:14,226 - root - INFO -    fbrnn1_0_f_out_bias: (26,), 26, req = write
+2023-05-20 08:30:14,227 - root - INFO -    fbrnn1_0_h2h_weight: (192, 832, 1, 1), 159744, req = write
+2023-05-20 08:30:14,227 - root - INFO -    fbrnn1_0_h2h_bias: (192,), 192, req = write
+2023-05-20 08:30:14,227 - root - INFO -    fdeconv1_weight: (64, 8, 7, 7), 25088, req = write
+2023-05-20 08:30:14,227 - root - INFO -    conv_final_weight: (8, 8, 3, 3), 576, req = write
+2023-05-20 08:30:14,227 - root - INFO -    conv_final_bias: (8,), 8, req = write
+2023-05-20 08:30:14,227 - root - INFO -    out_weight: (1, 8, 1, 1), 8, req = write
+2023-05-20 08:30:14,228 - root - INFO -    out_bias: (1,), 1, req = write
+2023-05-20 08:30:14,228 - root - INFO - Aux States: None
+2023-05-20 08:30:14,228 - root - INFO - Total Param Num (exclude fixed ones): 6180919
+2023-05-20 08:30:14,228 - root - INFO - Total Fixed Param Num: 0
+2023-05-20 08:30:14,228 - root - INFO - Total Aux Param Num: 0
+2023-05-20 08:30:14,228 - root - INFO - Summary of loss_net
+2023-05-20 08:30:14,228 - root - INFO - Data:
+2023-05-20 08:30:14,228 - root - INFO -    pred: (20, 4, 1, 480, 480), 18432000
+2023-05-20 08:30:14,228 - root - INFO - State: None
+2023-05-20 08:30:14,228 - root - INFO - Param: None
+2023-05-20 08:30:14,228 - root - INFO - Aux States: None
+2023-05-20 08:30:14,228 - root - INFO - Total Param Num (exclude fixed ones): 0
+2023-05-20 08:30:14,229 - root - INFO - Total Fixed Param Num: 0
+2023-05-20 08:30:14,229 - root - INFO - Total Aux Param Num: 0
+2023-05-20 08:30:30,557 - root - INFO - Save YAML config file to ./cfg10.yml
+2023-05-20 08:30:30,577 - root - INFO - Initializing data iterator with filter threshold 0.28
+2023-05-20 08:30:30,578 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:30:30,579 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:30:30,579 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:30:30,580 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:30:30,580 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:30:30,581 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:30:30,581 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:30:30,582 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:30:30,583 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:30:30,584 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:30:30,584 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:30:30,585 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:30:30,585 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:30:30,586 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:30:30,586 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:30:30,587 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:30:30,587 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:30:30,588 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:30:32,919 - root - INFO - Summary of encoder_net
+2023-05-20 08:30:32,919 - root - INFO - Data:
+2023-05-20 08:30:32,920 - root - INFO -    data: (5, 4, 1, 480, 480), 4608000
+2023-05-20 08:30:32,920 - root - INFO -    ebrnn1_begin_state_h: (4, 64, 96, 96), 2359296
+2023-05-20 08:30:32,920 - root - INFO -    ebrnn2_begin_state_h: (4, 192, 32, 32), 786432
+2023-05-20 08:30:32,920 - root - INFO -    ebrnn3_begin_state_h: (4, 192, 16, 16), 196608
+2023-05-20 08:30:32,920 - root - INFO - State: None
+2023-05-20 08:30:32,920 - root - INFO - Params:
+2023-05-20 08:30:32,921 - root - INFO -    econv1_weight: (8, 4, 7, 7), 1568, req = write
+2023-05-20 08:30:32,921 - root - INFO -    econv1_bias: (8,), 8, req = write
+2023-05-20 08:30:32,921 - root - INFO -    ebrnn1_0_i2h_weight: (192, 8, 3, 3), 13824, req = write
+2023-05-20 08:30:32,921 - root - INFO -    ebrnn1_0_i2h_bias: (192,), 192, req = write
+2023-05-20 08:30:32,922 - root - INFO -    ebrnn1_0_i2f_conv1_weight: (32, 8, 5, 5), 6400, req = write
+2023-05-20 08:30:32,922 - root - INFO -    ebrnn1_0_i2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:30:32,922 - root - INFO -    ebrnn1_0_h2f_conv1_weight: (32, 64, 5, 5), 51200, req = write
+2023-05-20 08:30:32,922 - root - INFO -    ebrnn1_0_h2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:30:32,922 - root - INFO -    ebrnn1_0_f_out_weight: (26, 32, 5, 5), 20800, req = write
+2023-05-20 08:30:32,923 - root - INFO -    ebrnn1_0_f_out_bias: (26,), 26, req = write
+2023-05-20 08:30:32,923 - root - INFO -    ebrnn1_0_h2h_weight: (192, 832, 1, 1), 159744, req = write
+2023-05-20 08:30:32,923 - root - INFO -    ebrnn1_0_h2h_bias: (192,), 192, req = write
+2023-05-20 08:30:32,923 - root - INFO -    edown1_conv_weight: (192, 64, 5, 5), 307200, req = write
+2023-05-20 08:30:32,923 - root - INFO -    edown1_conv_bias: (192,), 192, req = write
+2023-05-20 08:30:32,924 - root - INFO -    ebrnn2_0_i2h_weight: (576, 192, 3, 3), 995328, req = write
+2023-05-20 08:30:32,924 - root - INFO -    ebrnn2_0_i2h_bias: (576,), 576, req = write
+2023-05-20 08:30:32,924 - root - INFO -    ebrnn2_0_i2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:30:32,924 - root - INFO -    ebrnn2_0_i2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:30:32,925 - root - INFO -    ebrnn2_0_h2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:30:32,925 - root - INFO -    ebrnn2_0_h2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:30:32,925 - root - INFO -    ebrnn2_0_f_out_weight: (26, 32, 5, 5), 20800, req = write
+2023-05-20 08:30:32,925 - root - INFO -    ebrnn2_0_f_out_bias: (26,), 26, req = write
+2023-05-20 08:30:32,925 - root - INFO -    ebrnn2_0_h2h_weight: (576, 2496, 1, 1), 1437696, req = write
+2023-05-20 08:30:32,926 - root - INFO -    ebrnn2_0_h2h_bias: (576,), 576, req = write
+2023-05-20 08:30:32,926 - root - INFO -    edown2_conv_weight: (192, 192, 3, 3), 331776, req = write
+2023-05-20 08:30:32,926 - root - INFO -    edown2_conv_bias: (192,), 192, req = write
+2023-05-20 08:30:32,926 - root - INFO -    ebrnn3_0_i2h_weight: (576, 192, 3, 3), 995328, req = write
+2023-05-20 08:30:32,926 - root - INFO -    ebrnn3_0_i2h_bias: (576,), 576, req = write
+2023-05-20 08:30:32,927 - root - INFO -    ebrnn3_0_i2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:30:32,927 - root - INFO -    ebrnn3_0_i2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:30:32,927 - root - INFO -    ebrnn3_0_h2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:30:32,927 - root - INFO -    ebrnn3_0_h2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:30:32,928 - root - INFO -    ebrnn3_0_f_out_weight: (18, 32, 5, 5), 14400, req = write
+2023-05-20 08:30:32,928 - root - INFO -    ebrnn3_0_f_out_bias: (18,), 18, req = write
+2023-05-20 08:30:32,928 - root - INFO -    ebrnn3_0_h2h_weight: (576, 1728, 1, 1), 995328, req = write
+2023-05-20 08:30:32,928 - root - INFO -    ebrnn3_0_h2h_bias: (576,), 576, req = write
+2023-05-20 08:30:32,928 - root - INFO - Aux States: None
+2023-05-20 08:30:32,929 - root - INFO - Total Param Num (exclude fixed ones): 5969134
+2023-05-20 08:30:32,929 - root - INFO - Total Fixed Param Num: 0
+2023-05-20 08:30:32,929 - root - INFO - Total Aux Param Num: 0
+2023-05-20 08:30:32,929 - root - INFO - Summary of forecaster_net
+2023-05-20 08:30:32,929 - root - INFO - Data:
+2023-05-20 08:30:32,929 - root - INFO -    fbrnn1_begin_state_h: (4, 64, 96, 96), 2359296
+2023-05-20 08:30:32,929 - root - INFO -    fbrnn2_begin_state_h: (4, 192, 32, 32), 786432
+2023-05-20 08:30:32,930 - root - INFO -    fbrnn3_begin_state_h: (4, 192, 16, 16), 196608
+2023-05-20 08:30:32,930 - root - INFO - State: None
+2023-05-20 08:30:32,930 - root - INFO - Params:
+2023-05-20 08:30:32,930 - root - INFO -    fbrnn3_0_h2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:30:32,930 - root - INFO -    fbrnn3_0_h2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:30:32,931 - root - INFO -    fbrnn3_0_f_out_weight: (18, 32, 5, 5), 14400, req = write
+2023-05-20 08:30:32,931 - root - INFO -    fbrnn3_0_f_out_bias: (18,), 18, req = write
+2023-05-20 08:30:32,931 - root - INFO -    fbrnn3_0_h2h_weight: (576, 1728, 1, 1), 995328, req = write
+2023-05-20 08:30:32,931 - root - INFO -    fbrnn3_0_h2h_bias: (576,), 576, req = write
+2023-05-20 08:30:32,931 - root - INFO -    fup2_deconv_weight: (192, 192, 4, 4), 589824, req = write
+2023-05-20 08:30:32,932 - root - INFO -    fbrnn2_0_i2h_weight: (576, 192, 3, 3), 995328, req = write
+2023-05-20 08:30:32,932 - root - INFO -    fbrnn2_0_i2h_bias: (576,), 576, req = write
+2023-05-20 08:30:32,932 - root - INFO -    fbrnn2_0_i2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:30:32,932 - root - INFO -    fbrnn2_0_i2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:30:32,933 - root - INFO -    fbrnn2_0_h2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:30:32,933 - root - INFO -    fbrnn2_0_h2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:30:32,933 - root - INFO -    fbrnn2_0_f_out_weight: (26, 32, 5, 5), 20800, req = write
+2023-05-20 08:30:32,933 - root - INFO -    fbrnn2_0_f_out_bias: (26,), 26, req = write
+2023-05-20 08:30:32,933 - root - INFO -    fbrnn2_0_h2h_weight: (576, 2496, 1, 1), 1437696, req = write
+2023-05-20 08:30:32,934 - root - INFO -    fbrnn2_0_h2h_bias: (576,), 576, req = write
+2023-05-20 08:30:32,934 - root - INFO -    fup1_deconv_weight: (192, 192, 5, 5), 921600, req = write
+2023-05-20 08:30:32,934 - root - INFO -    fbrnn1_0_i2h_weight: (192, 192, 3, 3), 331776, req = write
+2023-05-20 08:30:32,934 - root - INFO -    fbrnn1_0_i2h_bias: (192,), 192, req = write
+2023-05-20 08:30:32,934 - root - INFO -    fbrnn1_0_i2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:30:32,935 - root - INFO -    fbrnn1_0_i2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:30:32,935 - root - INFO -    fbrnn1_0_h2f_conv1_weight: (32, 64, 5, 5), 51200, req = write
+2023-05-20 08:30:32,935 - root - INFO -    fbrnn1_0_h2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:30:32,935 - root - INFO -    fbrnn1_0_f_out_weight: (26, 32, 5, 5), 20800, req = write
+2023-05-20 08:30:32,936 - root - INFO -    fbrnn1_0_f_out_bias: (26,), 26, req = write
+2023-05-20 08:30:32,936 - root - INFO -    fbrnn1_0_h2h_weight: (192, 832, 1, 1), 159744, req = write
+2023-05-20 08:30:32,936 - root - INFO -    fbrnn1_0_h2h_bias: (192,), 192, req = write
+2023-05-20 08:30:32,936 - root - INFO -    fdeconv1_weight: (64, 8, 7, 7), 25088, req = write
+2023-05-20 08:30:32,936 - root - INFO -    conv_final_weight: (8, 8, 3, 3), 576, req = write
+2023-05-20 08:30:32,937 - root - INFO -    conv_final_bias: (8,), 8, req = write
+2023-05-20 08:30:32,937 - root - INFO -    out_weight: (1, 8, 1, 1), 8, req = write
+2023-05-20 08:30:32,937 - root - INFO -    out_bias: (1,), 1, req = write
+2023-05-20 08:30:32,937 - root - INFO - Aux States: None
+2023-05-20 08:30:32,937 - root - INFO - Total Param Num (exclude fixed ones): 6180919
+2023-05-20 08:30:32,937 - root - INFO - Total Fixed Param Num: 0
+2023-05-20 08:30:32,938 - root - INFO - Total Aux Param Num: 0
+2023-05-20 08:30:32,938 - root - INFO - Summary of loss_net
+2023-05-20 08:30:32,938 - root - INFO - Data:
+2023-05-20 08:30:32,938 - root - INFO -    pred: (20, 4, 1, 480, 480), 18432000
+2023-05-20 08:30:32,938 - root - INFO - State: None
+2023-05-20 08:30:32,938 - root - INFO - Param: None
+2023-05-20 08:30:32,938 - root - INFO - Aux States: None
+2023-05-20 08:30:32,938 - root - INFO - Total Param Num (exclude fixed ones): 0
+2023-05-20 08:30:32,939 - root - INFO - Total Fixed Param Num: 0
+2023-05-20 08:30:32,939 - root - INFO - Total Aux Param Num: 0
+2023-05-20 08:33:06,579 - root - INFO - Save YAML config file to ./cfg0.yml
+2023-05-20 08:33:06,599 - root - INFO - Initializing data iterator with filter threshold 0.28
+2023-05-20 08:33:06,600 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:33:06,600 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:33:06,601 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:33:06,601 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:33:06,602 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:33:06,602 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:33:06,602 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:33:06,603 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:33:06,603 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:33:06,604 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:33:06,605 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:33:06,605 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:33:06,605 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:33:06,606 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:33:06,606 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:33:06,607 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:33:06,607 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:33:06,607 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:33:08,975 - root - INFO - Summary of encoder_net
+2023-05-20 08:33:08,975 - root - INFO - Data:
+2023-05-20 08:33:08,976 - root - INFO -    data: (5, 4, 1, 480, 480), 4608000
+2023-05-20 08:33:08,976 - root - INFO -    ebrnn1_begin_state_h: (4, 64, 96, 96), 2359296
+2023-05-20 08:33:08,976 - root - INFO -    ebrnn2_begin_state_h: (4, 192, 32, 32), 786432
+2023-05-20 08:33:08,976 - root - INFO -    ebrnn3_begin_state_h: (4, 192, 16, 16), 196608
+2023-05-20 08:33:08,976 - root - INFO - State: None
+2023-05-20 08:33:08,976 - root - INFO - Params:
+2023-05-20 08:33:08,976 - root - INFO -    econv1_weight: (8, 4, 7, 7), 1568, req = write
+2023-05-20 08:33:08,976 - root - INFO -    econv1_bias: (8,), 8, req = write
+2023-05-20 08:33:08,977 - root - INFO -    ebrnn1_0_i2h_weight: (192, 8, 3, 3), 13824, req = write
+2023-05-20 08:33:08,977 - root - INFO -    ebrnn1_0_i2h_bias: (192,), 192, req = write
+2023-05-20 08:33:08,977 - root - INFO -    ebrnn1_0_i2f_conv1_weight: (32, 8, 5, 5), 6400, req = write
+2023-05-20 08:33:08,977 - root - INFO -    ebrnn1_0_i2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:33:08,978 - root - INFO -    ebrnn1_0_h2f_conv1_weight: (32, 64, 5, 5), 51200, req = write
+2023-05-20 08:33:08,978 - root - INFO -    ebrnn1_0_h2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:33:08,978 - root - INFO -    ebrnn1_0_f_out_weight: (26, 32, 5, 5), 20800, req = write
+2023-05-20 08:33:08,978 - root - INFO -    ebrnn1_0_f_out_bias: (26,), 26, req = write
+2023-05-20 08:33:08,978 - root - INFO -    ebrnn1_0_h2h_weight: (192, 832, 1, 1), 159744, req = write
+2023-05-20 08:33:08,979 - root - INFO -    ebrnn1_0_h2h_bias: (192,), 192, req = write
+2023-05-20 08:33:08,979 - root - INFO -    edown1_conv_weight: (192, 64, 5, 5), 307200, req = write
+2023-05-20 08:33:08,979 - root - INFO -    edown1_conv_bias: (192,), 192, req = write
+2023-05-20 08:33:08,979 - root - INFO -    ebrnn2_0_i2h_weight: (576, 192, 3, 3), 995328, req = write
+2023-05-20 08:33:08,980 - root - INFO -    ebrnn2_0_i2h_bias: (576,), 576, req = write
+2023-05-20 08:33:08,980 - root - INFO -    ebrnn2_0_i2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:33:08,980 - root - INFO -    ebrnn2_0_i2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:33:08,980 - root - INFO -    ebrnn2_0_h2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:33:08,980 - root - INFO -    ebrnn2_0_h2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:33:08,980 - root - INFO -    ebrnn2_0_f_out_weight: (26, 32, 5, 5), 20800, req = write
+2023-05-20 08:33:08,981 - root - INFO -    ebrnn2_0_f_out_bias: (26,), 26, req = write
+2023-05-20 08:33:08,981 - root - INFO -    ebrnn2_0_h2h_weight: (576, 2496, 1, 1), 1437696, req = write
+2023-05-20 08:33:08,981 - root - INFO -    ebrnn2_0_h2h_bias: (576,), 576, req = write
+2023-05-20 08:33:08,981 - root - INFO -    edown2_conv_weight: (192, 192, 3, 3), 331776, req = write
+2023-05-20 08:33:08,981 - root - INFO -    edown2_conv_bias: (192,), 192, req = write
+2023-05-20 08:33:08,981 - root - INFO -    ebrnn3_0_i2h_weight: (576, 192, 3, 3), 995328, req = write
+2023-05-20 08:33:08,982 - root - INFO -    ebrnn3_0_i2h_bias: (576,), 576, req = write
+2023-05-20 08:33:08,982 - root - INFO -    ebrnn3_0_i2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:33:08,982 - root - INFO -    ebrnn3_0_i2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:33:08,982 - root - INFO -    ebrnn3_0_h2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:33:08,982 - root - INFO -    ebrnn3_0_h2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:33:08,983 - root - INFO -    ebrnn3_0_f_out_weight: (18, 32, 5, 5), 14400, req = write
+2023-05-20 08:33:08,983 - root - INFO -    ebrnn3_0_f_out_bias: (18,), 18, req = write
+2023-05-20 08:33:08,983 - root - INFO -    ebrnn3_0_h2h_weight: (576, 1728, 1, 1), 995328, req = write
+2023-05-20 08:33:08,983 - root - INFO -    ebrnn3_0_h2h_bias: (576,), 576, req = write
+2023-05-20 08:33:08,983 - root - INFO - Aux States: None
+2023-05-20 08:33:08,983 - root - INFO - Total Param Num (exclude fixed ones): 5969134
+2023-05-20 08:33:08,983 - root - INFO - Total Fixed Param Num: 0
+2023-05-20 08:33:08,984 - root - INFO - Total Aux Param Num: 0
+2023-05-20 08:33:08,984 - root - INFO - Summary of forecaster_net
+2023-05-20 08:33:08,984 - root - INFO - Data:
+2023-05-20 08:33:08,984 - root - INFO -    fbrnn1_begin_state_h: (4, 64, 96, 96), 2359296
+2023-05-20 08:33:08,984 - root - INFO -    fbrnn2_begin_state_h: (4, 192, 32, 32), 786432
+2023-05-20 08:33:08,984 - root - INFO -    fbrnn3_begin_state_h: (4, 192, 16, 16), 196608
+2023-05-20 08:33:08,984 - root - INFO - State: None
+2023-05-20 08:33:08,984 - root - INFO - Params:
+2023-05-20 08:33:08,984 - root - INFO -    fbrnn3_0_h2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:33:08,985 - root - INFO -    fbrnn3_0_h2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:33:08,985 - root - INFO -    fbrnn3_0_f_out_weight: (18, 32, 5, 5), 14400, req = write
+2023-05-20 08:33:08,985 - root - INFO -    fbrnn3_0_f_out_bias: (18,), 18, req = write
+2023-05-20 08:33:08,985 - root - INFO -    fbrnn3_0_h2h_weight: (576, 1728, 1, 1), 995328, req = write
+2023-05-20 08:33:08,985 - root - INFO -    fbrnn3_0_h2h_bias: (576,), 576, req = write
+2023-05-20 08:33:08,985 - root - INFO -    fup2_deconv_weight: (192, 192, 4, 4), 589824, req = write
+2023-05-20 08:33:08,985 - root - INFO -    fbrnn2_0_i2h_weight: (576, 192, 3, 3), 995328, req = write
+2023-05-20 08:33:08,986 - root - INFO -    fbrnn2_0_i2h_bias: (576,), 576, req = write
+2023-05-20 08:33:08,986 - root - INFO -    fbrnn2_0_i2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:33:08,986 - root - INFO -    fbrnn2_0_i2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:33:08,986 - root - INFO -    fbrnn2_0_h2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:33:08,986 - root - INFO -    fbrnn2_0_h2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:33:08,986 - root - INFO -    fbrnn2_0_f_out_weight: (26, 32, 5, 5), 20800, req = write
+2023-05-20 08:33:08,987 - root - INFO -    fbrnn2_0_f_out_bias: (26,), 26, req = write
+2023-05-20 08:33:08,987 - root - INFO -    fbrnn2_0_h2h_weight: (576, 2496, 1, 1), 1437696, req = write
+2023-05-20 08:33:08,987 - root - INFO -    fbrnn2_0_h2h_bias: (576,), 576, req = write
+2023-05-20 08:33:08,987 - root - INFO -    fup1_deconv_weight: (192, 192, 5, 5), 921600, req = write
+2023-05-20 08:33:08,987 - root - INFO -    fbrnn1_0_i2h_weight: (192, 192, 3, 3), 331776, req = write
+2023-05-20 08:33:08,987 - root - INFO -    fbrnn1_0_i2h_bias: (192,), 192, req = write
+2023-05-20 08:33:08,988 - root - INFO -    fbrnn1_0_i2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:33:08,988 - root - INFO -    fbrnn1_0_i2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:33:08,988 - root - INFO -    fbrnn1_0_h2f_conv1_weight: (32, 64, 5, 5), 51200, req = write
+2023-05-20 08:33:08,988 - root - INFO -    fbrnn1_0_h2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:33:08,988 - root - INFO -    fbrnn1_0_f_out_weight: (26, 32, 5, 5), 20800, req = write
+2023-05-20 08:33:08,988 - root - INFO -    fbrnn1_0_f_out_bias: (26,), 26, req = write
+2023-05-20 08:33:08,988 - root - INFO -    fbrnn1_0_h2h_weight: (192, 832, 1, 1), 159744, req = write
+2023-05-20 08:33:08,989 - root - INFO -    fbrnn1_0_h2h_bias: (192,), 192, req = write
+2023-05-20 08:33:08,989 - root - INFO -    fdeconv1_weight: (64, 8, 7, 7), 25088, req = write
+2023-05-20 08:33:08,989 - root - INFO -    conv_final_weight: (8, 8, 3, 3), 576, req = write
+2023-05-20 08:33:08,989 - root - INFO -    conv_final_bias: (8,), 8, req = write
+2023-05-20 08:33:08,989 - root - INFO -    out_weight: (1, 8, 1, 1), 8, req = write
+2023-05-20 08:33:08,989 - root - INFO -    out_bias: (1,), 1, req = write
+2023-05-20 08:33:08,989 - root - INFO - Aux States: None
+2023-05-20 08:33:08,990 - root - INFO - Total Param Num (exclude fixed ones): 6180919
+2023-05-20 08:33:08,990 - root - INFO - Total Fixed Param Num: 0
+2023-05-20 08:33:08,990 - root - INFO - Total Aux Param Num: 0
+2023-05-20 08:33:08,990 - root - INFO - Summary of loss_net
+2023-05-20 08:33:08,990 - root - INFO - Data:
+2023-05-20 08:33:08,990 - root - INFO -    pred: (20, 4, 1, 480, 480), 18432000
+2023-05-20 08:33:08,990 - root - INFO - State: None
+2023-05-20 08:33:08,990 - root - INFO - Param: None
+2023-05-20 08:33:08,990 - root - INFO - Aux States: None
+2023-05-20 08:33:08,990 - root - INFO - Total Param Num (exclude fixed ones): 0
+2023-05-20 08:33:08,991 - root - INFO - Total Fixed Param Num: 0
+2023-05-20 08:33:08,991 - root - INFO - Total Aux Param Num: 0
+2023-05-20 08:33:49,698 - root - INFO - Save YAML config file to ./cfg1.yml
+2023-05-20 08:33:49,718 - root - INFO - Initializing data iterator with filter threshold 0.28
+2023-05-20 08:33:49,719 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:33:49,720 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:33:49,720 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:33:49,721 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:33:49,721 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:33:49,721 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:33:49,722 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:33:49,722 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:33:49,722 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:33:49,724 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:33:49,724 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:33:49,725 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:33:49,725 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:33:49,726 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:33:49,726 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:33:49,727 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:33:49,727 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:33:49,728 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:33:52,145 - root - INFO - Summary of encoder_net
+2023-05-20 08:33:52,146 - root - INFO - Data:
+2023-05-20 08:33:52,146 - root - INFO -    data: (5, 4, 1, 480, 480), 4608000
+2023-05-20 08:33:52,146 - root - INFO -    ebrnn1_begin_state_h: (4, 64, 96, 96), 2359296
+2023-05-20 08:33:52,146 - root - INFO -    ebrnn2_begin_state_h: (4, 192, 32, 32), 786432
+2023-05-20 08:33:52,146 - root - INFO -    ebrnn3_begin_state_h: (4, 192, 16, 16), 196608
+2023-05-20 08:33:52,146 - root - INFO - State: None
+2023-05-20 08:33:52,147 - root - INFO - Params:
+2023-05-20 08:33:52,147 - root - INFO -    econv1_weight: (8, 4, 7, 7), 1568, req = write
+2023-05-20 08:33:52,147 - root - INFO -    econv1_bias: (8,), 8, req = write
+2023-05-20 08:33:52,147 - root - INFO -    ebrnn1_0_i2h_weight: (192, 8, 3, 3), 13824, req = write
+2023-05-20 08:33:52,147 - root - INFO -    ebrnn1_0_i2h_bias: (192,), 192, req = write
+2023-05-20 08:33:52,148 - root - INFO -    ebrnn1_0_i2f_conv1_weight: (32, 8, 5, 5), 6400, req = write
+2023-05-20 08:33:52,148 - root - INFO -    ebrnn1_0_i2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:33:52,148 - root - INFO -    ebrnn1_0_h2f_conv1_weight: (32, 64, 5, 5), 51200, req = write
+2023-05-20 08:33:52,148 - root - INFO -    ebrnn1_0_h2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:33:52,148 - root - INFO -    ebrnn1_0_f_out_weight: (26, 32, 5, 5), 20800, req = write
+2023-05-20 08:33:52,148 - root - INFO -    ebrnn1_0_f_out_bias: (26,), 26, req = write
+2023-05-20 08:33:52,149 - root - INFO -    ebrnn1_0_h2h_weight: (192, 832, 1, 1), 159744, req = write
+2023-05-20 08:33:52,149 - root - INFO -    ebrnn1_0_h2h_bias: (192,), 192, req = write
+2023-05-20 08:33:52,149 - root - INFO -    edown1_conv_weight: (192, 64, 5, 5), 307200, req = write
+2023-05-20 08:33:52,149 - root - INFO -    edown1_conv_bias: (192,), 192, req = write
+2023-05-20 08:33:52,149 - root - INFO -    ebrnn2_0_i2h_weight: (576, 192, 3, 3), 995328, req = write
+2023-05-20 08:33:52,149 - root - INFO -    ebrnn2_0_i2h_bias: (576,), 576, req = write
+2023-05-20 08:33:52,150 - root - INFO -    ebrnn2_0_i2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:33:52,150 - root - INFO -    ebrnn2_0_i2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:33:52,150 - root - INFO -    ebrnn2_0_h2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:33:52,150 - root - INFO -    ebrnn2_0_h2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:33:52,150 - root - INFO -    ebrnn2_0_f_out_weight: (26, 32, 5, 5), 20800, req = write
+2023-05-20 08:33:52,151 - root - INFO -    ebrnn2_0_f_out_bias: (26,), 26, req = write
+2023-05-20 08:33:52,151 - root - INFO -    ebrnn2_0_h2h_weight: (576, 2496, 1, 1), 1437696, req = write
+2023-05-20 08:33:52,151 - root - INFO -    ebrnn2_0_h2h_bias: (576,), 576, req = write
+2023-05-20 08:33:52,151 - root - INFO -    edown2_conv_weight: (192, 192, 3, 3), 331776, req = write
+2023-05-20 08:33:52,151 - root - INFO -    edown2_conv_bias: (192,), 192, req = write
+2023-05-20 08:33:52,152 - root - INFO -    ebrnn3_0_i2h_weight: (576, 192, 3, 3), 995328, req = write
+2023-05-20 08:33:52,152 - root - INFO -    ebrnn3_0_i2h_bias: (576,), 576, req = write
+2023-05-20 08:33:52,152 - root - INFO -    ebrnn3_0_i2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:33:52,152 - root - INFO -    ebrnn3_0_i2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:33:52,153 - root - INFO -    ebrnn3_0_h2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:33:52,153 - root - INFO -    ebrnn3_0_h2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:33:52,153 - root - INFO -    ebrnn3_0_f_out_weight: (18, 32, 5, 5), 14400, req = write
+2023-05-20 08:33:52,153 - root - INFO -    ebrnn3_0_f_out_bias: (18,), 18, req = write
+2023-05-20 08:33:52,153 - root - INFO -    ebrnn3_0_h2h_weight: (576, 1728, 1, 1), 995328, req = write
+2023-05-20 08:33:52,154 - root - INFO -    ebrnn3_0_h2h_bias: (576,), 576, req = write
+2023-05-20 08:33:52,154 - root - INFO - Aux States: None
+2023-05-20 08:33:52,154 - root - INFO - Total Param Num (exclude fixed ones): 5969134
+2023-05-20 08:33:52,154 - root - INFO - Total Fixed Param Num: 0
+2023-05-20 08:33:52,154 - root - INFO - Total Aux Param Num: 0
+2023-05-20 08:33:52,154 - root - INFO - Summary of forecaster_net
+2023-05-20 08:33:52,154 - root - INFO - Data:
+2023-05-20 08:33:52,155 - root - INFO -    fbrnn1_begin_state_h: (4, 64, 96, 96), 2359296
+2023-05-20 08:33:52,155 - root - INFO -    fbrnn2_begin_state_h: (4, 192, 32, 32), 786432
+2023-05-20 08:33:52,155 - root - INFO -    fbrnn3_begin_state_h: (4, 192, 16, 16), 196608
+2023-05-20 08:33:52,155 - root - INFO - State: None
+2023-05-20 08:33:52,155 - root - INFO - Params:
+2023-05-20 08:33:52,156 - root - INFO -    fbrnn3_0_h2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:33:52,156 - root - INFO -    fbrnn3_0_h2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:33:52,156 - root - INFO -    fbrnn3_0_f_out_weight: (18, 32, 5, 5), 14400, req = write
+2023-05-20 08:33:52,156 - root - INFO -    fbrnn3_0_f_out_bias: (18,), 18, req = write
+2023-05-20 08:33:52,156 - root - INFO -    fbrnn3_0_h2h_weight: (576, 1728, 1, 1), 995328, req = write
+2023-05-20 08:33:52,157 - root - INFO -    fbrnn3_0_h2h_bias: (576,), 576, req = write
+2023-05-20 08:33:52,157 - root - INFO -    fup2_deconv_weight: (192, 192, 4, 4), 589824, req = write
+2023-05-20 08:33:52,157 - root - INFO -    fbrnn2_0_i2h_weight: (576, 192, 3, 3), 995328, req = write
+2023-05-20 08:33:52,157 - root - INFO -    fbrnn2_0_i2h_bias: (576,), 576, req = write
+2023-05-20 08:33:52,158 - root - INFO -    fbrnn2_0_i2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:33:52,158 - root - INFO -    fbrnn2_0_i2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:33:52,158 - root - INFO -    fbrnn2_0_h2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:33:52,158 - root - INFO -    fbrnn2_0_h2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:33:52,158 - root - INFO -    fbrnn2_0_f_out_weight: (26, 32, 5, 5), 20800, req = write
+2023-05-20 08:33:52,159 - root - INFO -    fbrnn2_0_f_out_bias: (26,), 26, req = write
+2023-05-20 08:33:52,159 - root - INFO -    fbrnn2_0_h2h_weight: (576, 2496, 1, 1), 1437696, req = write
+2023-05-20 08:33:52,159 - root - INFO -    fbrnn2_0_h2h_bias: (576,), 576, req = write
+2023-05-20 08:33:52,159 - root - INFO -    fup1_deconv_weight: (192, 192, 5, 5), 921600, req = write
+2023-05-20 08:33:52,160 - root - INFO -    fbrnn1_0_i2h_weight: (192, 192, 3, 3), 331776, req = write
+2023-05-20 08:33:52,160 - root - INFO -    fbrnn1_0_i2h_bias: (192,), 192, req = write
+2023-05-20 08:33:52,160 - root - INFO -    fbrnn1_0_i2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:33:52,160 - root - INFO -    fbrnn1_0_i2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:33:52,160 - root - INFO -    fbrnn1_0_h2f_conv1_weight: (32, 64, 5, 5), 51200, req = write
+2023-05-20 08:33:52,161 - root - INFO -    fbrnn1_0_h2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:33:52,161 - root - INFO -    fbrnn1_0_f_out_weight: (26, 32, 5, 5), 20800, req = write
+2023-05-20 08:33:52,161 - root - INFO -    fbrnn1_0_f_out_bias: (26,), 26, req = write
+2023-05-20 08:33:52,161 - root - INFO -    fbrnn1_0_h2h_weight: (192, 832, 1, 1), 159744, req = write
+2023-05-20 08:33:52,162 - root - INFO -    fbrnn1_0_h2h_bias: (192,), 192, req = write
+2023-05-20 08:33:52,162 - root - INFO -    fdeconv1_weight: (64, 8, 7, 7), 25088, req = write
+2023-05-20 08:33:52,162 - root - INFO -    conv_final_weight: (8, 8, 3, 3), 576, req = write
+2023-05-20 08:33:52,162 - root - INFO -    conv_final_bias: (8,), 8, req = write
+2023-05-20 08:33:52,162 - root - INFO -    out_weight: (1, 8, 1, 1), 8, req = write
+2023-05-20 08:33:52,163 - root - INFO -    out_bias: (1,), 1, req = write
+2023-05-20 08:33:52,163 - root - INFO - Aux States: None
+2023-05-20 08:33:52,163 - root - INFO - Total Param Num (exclude fixed ones): 6180919
+2023-05-20 08:33:52,163 - root - INFO - Total Fixed Param Num: 0
+2023-05-20 08:33:52,163 - root - INFO - Total Aux Param Num: 0
+2023-05-20 08:33:52,163 - root - INFO - Summary of loss_net
+2023-05-20 08:33:52,164 - root - INFO - Data:
+2023-05-20 08:33:52,164 - root - INFO -    pred: (20, 4, 1, 480, 480), 18432000
+2023-05-20 08:33:52,164 - root - INFO - State: None
+2023-05-20 08:33:52,164 - root - INFO - Param: None
+2023-05-20 08:33:52,164 - root - INFO - Aux States: None
+2023-05-20 08:33:52,164 - root - INFO - Total Param Num (exclude fixed ones): 0
+2023-05-20 08:33:52,164 - root - INFO - Total Fixed Param Num: 0
+2023-05-20 08:33:52,164 - root - INFO - Total Aux Param Num: 0
+2023-05-20 08:37:13,555 - root - INFO - Save YAML config file to ./cfg2.yml
+2023-05-20 08:37:13,575 - root - INFO - Initializing data iterator with filter threshold 0.28
+2023-05-20 08:37:13,576 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:37:13,576 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:37:13,577 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:37:13,577 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:37:13,577 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:37:13,578 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:37:13,578 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:37:13,579 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:37:13,579 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:37:13,580 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:37:13,580 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:37:13,581 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:37:13,581 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:37:13,582 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:37:13,582 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:37:13,583 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:37:13,583 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:37:13,584 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:37:15,958 - root - INFO - Summary of encoder_net
+2023-05-20 08:37:15,958 - root - INFO - Data:
+2023-05-20 08:37:15,959 - root - INFO -    data: (5, 4, 1, 480, 480), 4608000
+2023-05-20 08:37:15,959 - root - INFO -    ebrnn1_begin_state_h: (4, 64, 96, 96), 2359296
+2023-05-20 08:37:15,959 - root - INFO -    ebrnn2_begin_state_h: (4, 192, 32, 32), 786432
+2023-05-20 08:37:15,959 - root - INFO -    ebrnn3_begin_state_h: (4, 192, 16, 16), 196608
+2023-05-20 08:37:15,959 - root - INFO - State: None
+2023-05-20 08:37:15,959 - root - INFO - Params:
+2023-05-20 08:37:15,960 - root - INFO -    econv1_weight: (8, 4, 7, 7), 1568, req = write
+2023-05-20 08:37:15,960 - root - INFO -    econv1_bias: (8,), 8, req = write
+2023-05-20 08:37:15,960 - root - INFO -    ebrnn1_0_i2h_weight: (192, 8, 3, 3), 13824, req = write
+2023-05-20 08:37:15,960 - root - INFO -    ebrnn1_0_i2h_bias: (192,), 192, req = write
+2023-05-20 08:37:15,961 - root - INFO -    ebrnn1_0_i2f_conv1_weight: (32, 8, 5, 5), 6400, req = write
+2023-05-20 08:37:15,961 - root - INFO -    ebrnn1_0_i2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:37:15,961 - root - INFO -    ebrnn1_0_h2f_conv1_weight: (32, 64, 5, 5), 51200, req = write
+2023-05-20 08:37:15,961 - root - INFO -    ebrnn1_0_h2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:37:15,961 - root - INFO -    ebrnn1_0_f_out_weight: (26, 32, 5, 5), 20800, req = write
+2023-05-20 08:37:15,962 - root - INFO -    ebrnn1_0_f_out_bias: (26,), 26, req = write
+2023-05-20 08:37:15,962 - root - INFO -    ebrnn1_0_h2h_weight: (192, 832, 1, 1), 159744, req = write
+2023-05-20 08:37:15,962 - root - INFO -    ebrnn1_0_h2h_bias: (192,), 192, req = write
+2023-05-20 08:37:15,962 - root - INFO -    edown1_conv_weight: (192, 64, 5, 5), 307200, req = write
+2023-05-20 08:37:15,962 - root - INFO -    edown1_conv_bias: (192,), 192, req = write
+2023-05-20 08:37:15,963 - root - INFO -    ebrnn2_0_i2h_weight: (576, 192, 3, 3), 995328, req = write
+2023-05-20 08:37:15,963 - root - INFO -    ebrnn2_0_i2h_bias: (576,), 576, req = write
+2023-05-20 08:37:15,963 - root - INFO -    ebrnn2_0_i2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:37:15,963 - root - INFO -    ebrnn2_0_i2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:37:15,963 - root - INFO -    ebrnn2_0_h2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:37:15,964 - root - INFO -    ebrnn2_0_h2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:37:15,964 - root - INFO -    ebrnn2_0_f_out_weight: (26, 32, 5, 5), 20800, req = write
+2023-05-20 08:37:15,964 - root - INFO -    ebrnn2_0_f_out_bias: (26,), 26, req = write
+2023-05-20 08:37:15,964 - root - INFO -    ebrnn2_0_h2h_weight: (576, 2496, 1, 1), 1437696, req = write
+2023-05-20 08:37:15,964 - root - INFO -    ebrnn2_0_h2h_bias: (576,), 576, req = write
+2023-05-20 08:37:15,964 - root - INFO -    edown2_conv_weight: (192, 192, 3, 3), 331776, req = write
+2023-05-20 08:37:15,964 - root - INFO -    edown2_conv_bias: (192,), 192, req = write
+2023-05-20 08:37:15,965 - root - INFO -    ebrnn3_0_i2h_weight: (576, 192, 3, 3), 995328, req = write
+2023-05-20 08:37:15,965 - root - INFO -    ebrnn3_0_i2h_bias: (576,), 576, req = write
+2023-05-20 08:37:15,965 - root - INFO -    ebrnn3_0_i2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:37:15,965 - root - INFO -    ebrnn3_0_i2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:37:15,965 - root - INFO -    ebrnn3_0_h2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:37:15,965 - root - INFO -    ebrnn3_0_h2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:37:15,966 - root - INFO -    ebrnn3_0_f_out_weight: (18, 32, 5, 5), 14400, req = write
+2023-05-20 08:37:15,966 - root - INFO -    ebrnn3_0_f_out_bias: (18,), 18, req = write
+2023-05-20 08:37:15,966 - root - INFO -    ebrnn3_0_h2h_weight: (576, 1728, 1, 1), 995328, req = write
+2023-05-20 08:37:15,966 - root - INFO -    ebrnn3_0_h2h_bias: (576,), 576, req = write
+2023-05-20 08:37:15,966 - root - INFO - Aux States: None
+2023-05-20 08:37:15,966 - root - INFO - Total Param Num (exclude fixed ones): 5969134
+2023-05-20 08:37:15,966 - root - INFO - Total Fixed Param Num: 0
+2023-05-20 08:37:15,966 - root - INFO - Total Aux Param Num: 0
+2023-05-20 08:37:15,967 - root - INFO - Summary of forecaster_net
+2023-05-20 08:37:15,967 - root - INFO - Data:
+2023-05-20 08:37:15,967 - root - INFO -    fbrnn1_begin_state_h: (4, 64, 96, 96), 2359296
+2023-05-20 08:37:15,967 - root - INFO -    fbrnn2_begin_state_h: (4, 192, 32, 32), 786432
+2023-05-20 08:37:15,967 - root - INFO -    fbrnn3_begin_state_h: (4, 192, 16, 16), 196608
+2023-05-20 08:37:15,967 - root - INFO - State: None
+2023-05-20 08:37:15,968 - root - INFO - Params:
+2023-05-20 08:37:15,968 - root - INFO -    fbrnn3_0_h2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:37:15,968 - root - INFO -    fbrnn3_0_h2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:37:15,968 - root - INFO -    fbrnn3_0_f_out_weight: (18, 32, 5, 5), 14400, req = write
+2023-05-20 08:37:15,968 - root - INFO -    fbrnn3_0_f_out_bias: (18,), 18, req = write
+2023-05-20 08:37:15,969 - root - INFO -    fbrnn3_0_h2h_weight: (576, 1728, 1, 1), 995328, req = write
+2023-05-20 08:37:15,969 - root - INFO -    fbrnn3_0_h2h_bias: (576,), 576, req = write
+2023-05-20 08:37:15,969 - root - INFO -    fup2_deconv_weight: (192, 192, 4, 4), 589824, req = write
+2023-05-20 08:37:15,969 - root - INFO -    fbrnn2_0_i2h_weight: (576, 192, 3, 3), 995328, req = write
+2023-05-20 08:37:15,969 - root - INFO -    fbrnn2_0_i2h_bias: (576,), 576, req = write
+2023-05-20 08:37:15,970 - root - INFO -    fbrnn2_0_i2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:37:15,970 - root - INFO -    fbrnn2_0_i2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:37:15,970 - root - INFO -    fbrnn2_0_h2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:37:15,970 - root - INFO -    fbrnn2_0_h2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:37:15,970 - root - INFO -    fbrnn2_0_f_out_weight: (26, 32, 5, 5), 20800, req = write
+2023-05-20 08:37:15,971 - root - INFO -    fbrnn2_0_f_out_bias: (26,), 26, req = write
+2023-05-20 08:37:15,971 - root - INFO -    fbrnn2_0_h2h_weight: (576, 2496, 1, 1), 1437696, req = write
+2023-05-20 08:37:15,971 - root - INFO -    fbrnn2_0_h2h_bias: (576,), 576, req = write
+2023-05-20 08:37:15,971 - root - INFO -    fup1_deconv_weight: (192, 192, 5, 5), 921600, req = write
+2023-05-20 08:37:15,972 - root - INFO -    fbrnn1_0_i2h_weight: (192, 192, 3, 3), 331776, req = write
+2023-05-20 08:37:15,972 - root - INFO -    fbrnn1_0_i2h_bias: (192,), 192, req = write
+2023-05-20 08:37:15,972 - root - INFO -    fbrnn1_0_i2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:37:15,972 - root - INFO -    fbrnn1_0_i2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:37:15,972 - root - INFO -    fbrnn1_0_h2f_conv1_weight: (32, 64, 5, 5), 51200, req = write
+2023-05-20 08:37:15,973 - root - INFO -    fbrnn1_0_h2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:37:15,973 - root - INFO -    fbrnn1_0_f_out_weight: (26, 32, 5, 5), 20800, req = write
+2023-05-20 08:37:15,973 - root - INFO -    fbrnn1_0_f_out_bias: (26,), 26, req = write
+2023-05-20 08:37:15,973 - root - INFO -    fbrnn1_0_h2h_weight: (192, 832, 1, 1), 159744, req = write
+2023-05-20 08:37:15,974 - root - INFO -    fbrnn1_0_h2h_bias: (192,), 192, req = write
+2023-05-20 08:37:15,974 - root - INFO -    fdeconv1_weight: (64, 8, 7, 7), 25088, req = write
+2023-05-20 08:37:15,974 - root - INFO -    conv_final_weight: (8, 8, 3, 3), 576, req = write
+2023-05-20 08:37:15,974 - root - INFO -    conv_final_bias: (8,), 8, req = write
+2023-05-20 08:37:15,974 - root - INFO -    out_weight: (1, 8, 1, 1), 8, req = write
+2023-05-20 08:37:15,975 - root - INFO -    out_bias: (1,), 1, req = write
+2023-05-20 08:37:15,975 - root - INFO - Aux States: None
+2023-05-20 08:37:15,975 - root - INFO - Total Param Num (exclude fixed ones): 6180919
+2023-05-20 08:37:15,975 - root - INFO - Total Fixed Param Num: 0
+2023-05-20 08:37:15,975 - root - INFO - Total Aux Param Num: 0
+2023-05-20 08:37:15,975 - root - INFO - Summary of loss_net
+2023-05-20 08:37:15,975 - root - INFO - Data:
+2023-05-20 08:37:15,976 - root - INFO -    pred: (20, 4, 1, 480, 480), 18432000
+2023-05-20 08:37:15,976 - root - INFO - State: None
+2023-05-20 08:37:15,976 - root - INFO - Param: None
+2023-05-20 08:37:15,976 - root - INFO - Aux States: None
+2023-05-20 08:37:15,976 - root - INFO - Total Param Num (exclude fixed ones): 0
+2023-05-20 08:37:15,976 - root - INFO - Total Fixed Param Num: 0
+2023-05-20 08:37:15,976 - root - INFO - Total Aux Param Num: 0
+2023-05-20 08:37:55,955 - root - INFO - Save YAML config file to ./cfg3.yml
+2023-05-20 08:37:55,975 - root - INFO - Initializing data iterator with filter threshold 0.28
+2023-05-20 08:37:55,976 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:37:55,977 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:37:55,977 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:37:55,978 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:37:55,978 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:37:55,978 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:37:55,979 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:37:55,979 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:37:55,980 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:37:55,981 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:37:55,981 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:37:55,982 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:37:55,982 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:37:55,983 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:37:55,983 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:37:55,983 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:37:55,984 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:37:55,984 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:37:58,375 - root - INFO - Summary of encoder_net
+2023-05-20 08:37:58,376 - root - INFO - Data:
+2023-05-20 08:37:58,376 - root - INFO -    data: (5, 4, 1, 480, 480), 4608000
+2023-05-20 08:37:58,376 - root - INFO -    ebrnn1_begin_state_h: (4, 64, 96, 96), 2359296
+2023-05-20 08:37:58,376 - root - INFO -    ebrnn2_begin_state_h: (4, 192, 32, 32), 786432
+2023-05-20 08:37:58,376 - root - INFO -    ebrnn3_begin_state_h: (4, 192, 16, 16), 196608
+2023-05-20 08:37:58,376 - root - INFO - State: None
+2023-05-20 08:37:58,376 - root - INFO - Params:
+2023-05-20 08:37:58,377 - root - INFO -    econv1_weight: (8, 4, 7, 7), 1568, req = write
+2023-05-20 08:37:58,377 - root - INFO -    econv1_bias: (8,), 8, req = write
+2023-05-20 08:37:58,377 - root - INFO -    ebrnn1_0_i2h_weight: (192, 8, 3, 3), 13824, req = write
+2023-05-20 08:37:58,377 - root - INFO -    ebrnn1_0_i2h_bias: (192,), 192, req = write
+2023-05-20 08:37:58,378 - root - INFO -    ebrnn1_0_i2f_conv1_weight: (32, 8, 5, 5), 6400, req = write
+2023-05-20 08:37:58,378 - root - INFO -    ebrnn1_0_i2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:37:58,378 - root - INFO -    ebrnn1_0_h2f_conv1_weight: (32, 64, 5, 5), 51200, req = write
+2023-05-20 08:37:58,378 - root - INFO -    ebrnn1_0_h2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:37:58,378 - root - INFO -    ebrnn1_0_f_out_weight: (26, 32, 5, 5), 20800, req = write
+2023-05-20 08:37:58,379 - root - INFO -    ebrnn1_0_f_out_bias: (26,), 26, req = write
+2023-05-20 08:37:58,379 - root - INFO -    ebrnn1_0_h2h_weight: (192, 832, 1, 1), 159744, req = write
+2023-05-20 08:37:58,379 - root - INFO -    ebrnn1_0_h2h_bias: (192,), 192, req = write
+2023-05-20 08:37:58,379 - root - INFO -    edown1_conv_weight: (192, 64, 5, 5), 307200, req = write
+2023-05-20 08:37:58,380 - root - INFO -    edown1_conv_bias: (192,), 192, req = write
+2023-05-20 08:37:58,380 - root - INFO -    ebrnn2_0_i2h_weight: (576, 192, 3, 3), 995328, req = write
+2023-05-20 08:37:58,380 - root - INFO -    ebrnn2_0_i2h_bias: (576,), 576, req = write
+2023-05-20 08:37:58,380 - root - INFO -    ebrnn2_0_i2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:37:58,381 - root - INFO -    ebrnn2_0_i2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:37:58,381 - root - INFO -    ebrnn2_0_h2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:37:58,381 - root - INFO -    ebrnn2_0_h2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:37:58,381 - root - INFO -    ebrnn2_0_f_out_weight: (26, 32, 5, 5), 20800, req = write
+2023-05-20 08:37:58,381 - root - INFO -    ebrnn2_0_f_out_bias: (26,), 26, req = write
+2023-05-20 08:37:58,382 - root - INFO -    ebrnn2_0_h2h_weight: (576, 2496, 1, 1), 1437696, req = write
+2023-05-20 08:37:58,382 - root - INFO -    ebrnn2_0_h2h_bias: (576,), 576, req = write
+2023-05-20 08:37:58,382 - root - INFO -    edown2_conv_weight: (192, 192, 3, 3), 331776, req = write
+2023-05-20 08:37:58,382 - root - INFO -    edown2_conv_bias: (192,), 192, req = write
+2023-05-20 08:37:58,383 - root - INFO -    ebrnn3_0_i2h_weight: (576, 192, 3, 3), 995328, req = write
+2023-05-20 08:37:58,383 - root - INFO -    ebrnn3_0_i2h_bias: (576,), 576, req = write
+2023-05-20 08:37:58,383 - root - INFO -    ebrnn3_0_i2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:37:58,383 - root - INFO -    ebrnn3_0_i2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:37:58,383 - root - INFO -    ebrnn3_0_h2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:37:58,384 - root - INFO -    ebrnn3_0_h2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:37:58,384 - root - INFO -    ebrnn3_0_f_out_weight: (18, 32, 5, 5), 14400, req = write
+2023-05-20 08:37:58,384 - root - INFO -    ebrnn3_0_f_out_bias: (18,), 18, req = write
+2023-05-20 08:37:58,384 - root - INFO -    ebrnn3_0_h2h_weight: (576, 1728, 1, 1), 995328, req = write
+2023-05-20 08:37:58,385 - root - INFO -    ebrnn3_0_h2h_bias: (576,), 576, req = write
+2023-05-20 08:37:58,385 - root - INFO - Aux States: None
+2023-05-20 08:37:58,385 - root - INFO - Total Param Num (exclude fixed ones): 5969134
+2023-05-20 08:37:58,385 - root - INFO - Total Fixed Param Num: 0
+2023-05-20 08:37:58,385 - root - INFO - Total Aux Param Num: 0
+2023-05-20 08:37:58,385 - root - INFO - Summary of forecaster_net
+2023-05-20 08:37:58,385 - root - INFO - Data:
+2023-05-20 08:37:58,386 - root - INFO -    fbrnn1_begin_state_h: (4, 64, 96, 96), 2359296
+2023-05-20 08:37:58,386 - root - INFO -    fbrnn2_begin_state_h: (4, 192, 32, 32), 786432
+2023-05-20 08:37:58,386 - root - INFO -    fbrnn3_begin_state_h: (4, 192, 16, 16), 196608
+2023-05-20 08:37:58,386 - root - INFO - State: None
+2023-05-20 08:37:58,386 - root - INFO - Params:
+2023-05-20 08:37:58,386 - root - INFO -    fbrnn3_0_h2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:37:58,387 - root - INFO -    fbrnn3_0_h2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:37:58,387 - root - INFO -    fbrnn3_0_f_out_weight: (18, 32, 5, 5), 14400, req = write
+2023-05-20 08:37:58,387 - root - INFO -    fbrnn3_0_f_out_bias: (18,), 18, req = write
+2023-05-20 08:37:58,387 - root - INFO -    fbrnn3_0_h2h_weight: (576, 1728, 1, 1), 995328, req = write
+2023-05-20 08:37:58,388 - root - INFO -    fbrnn3_0_h2h_bias: (576,), 576, req = write
+2023-05-20 08:37:58,388 - root - INFO -    fup2_deconv_weight: (192, 192, 4, 4), 589824, req = write
+2023-05-20 08:37:58,388 - root - INFO -    fbrnn2_0_i2h_weight: (576, 192, 3, 3), 995328, req = write
+2023-05-20 08:37:58,388 - root - INFO -    fbrnn2_0_i2h_bias: (576,), 576, req = write
+2023-05-20 08:37:58,389 - root - INFO -    fbrnn2_0_i2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:37:58,389 - root - INFO -    fbrnn2_0_i2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:37:58,389 - root - INFO -    fbrnn2_0_h2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:37:58,389 - root - INFO -    fbrnn2_0_h2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:37:58,389 - root - INFO -    fbrnn2_0_f_out_weight: (26, 32, 5, 5), 20800, req = write
+2023-05-20 08:37:58,390 - root - INFO -    fbrnn2_0_f_out_bias: (26,), 26, req = write
+2023-05-20 08:37:58,390 - root - INFO -    fbrnn2_0_h2h_weight: (576, 2496, 1, 1), 1437696, req = write
+2023-05-20 08:37:58,390 - root - INFO -    fbrnn2_0_h2h_bias: (576,), 576, req = write
+2023-05-20 08:37:58,390 - root - INFO -    fup1_deconv_weight: (192, 192, 5, 5), 921600, req = write
+2023-05-20 08:37:58,391 - root - INFO -    fbrnn1_0_i2h_weight: (192, 192, 3, 3), 331776, req = write
+2023-05-20 08:37:58,391 - root - INFO -    fbrnn1_0_i2h_bias: (192,), 192, req = write
+2023-05-20 08:37:58,391 - root - INFO -    fbrnn1_0_i2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:37:58,391 - root - INFO -    fbrnn1_0_i2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:37:58,391 - root - INFO -    fbrnn1_0_h2f_conv1_weight: (32, 64, 5, 5), 51200, req = write
+2023-05-20 08:37:58,392 - root - INFO -    fbrnn1_0_h2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:37:58,392 - root - INFO -    fbrnn1_0_f_out_weight: (26, 32, 5, 5), 20800, req = write
+2023-05-20 08:37:58,392 - root - INFO -    fbrnn1_0_f_out_bias: (26,), 26, req = write
+2023-05-20 08:37:58,392 - root - INFO -    fbrnn1_0_h2h_weight: (192, 832, 1, 1), 159744, req = write
+2023-05-20 08:37:58,393 - root - INFO -    fbrnn1_0_h2h_bias: (192,), 192, req = write
+2023-05-20 08:37:58,393 - root - INFO -    fdeconv1_weight: (64, 8, 7, 7), 25088, req = write
+2023-05-20 08:37:58,393 - root - INFO -    conv_final_weight: (8, 8, 3, 3), 576, req = write
+2023-05-20 08:37:58,393 - root - INFO -    conv_final_bias: (8,), 8, req = write
+2023-05-20 08:37:58,393 - root - INFO -    out_weight: (1, 8, 1, 1), 8, req = write
+2023-05-20 08:37:58,394 - root - INFO -    out_bias: (1,), 1, req = write
+2023-05-20 08:37:58,394 - root - INFO - Aux States: None
+2023-05-20 08:37:58,394 - root - INFO - Total Param Num (exclude fixed ones): 6180919
+2023-05-20 08:37:58,394 - root - INFO - Total Fixed Param Num: 0
+2023-05-20 08:37:58,394 - root - INFO - Total Aux Param Num: 0
+2023-05-20 08:37:58,394 - root - INFO - Summary of loss_net
+2023-05-20 08:37:58,395 - root - INFO - Data:
+2023-05-20 08:37:58,395 - root - INFO -    pred: (20, 4, 1, 480, 480), 18432000
+2023-05-20 08:37:58,395 - root - INFO - State: None
+2023-05-20 08:37:58,395 - root - INFO - Param: None
+2023-05-20 08:37:58,395 - root - INFO - Aux States: None
+2023-05-20 08:37:58,395 - root - INFO - Total Param Num (exclude fixed ones): 0
+2023-05-20 08:37:58,395 - root - INFO - Total Fixed Param Num: 0
+2023-05-20 08:37:58,395 - root - INFO - Total Aux Param Num: 0
+2023-05-20 08:40:50,196 - root - INFO - Save YAML config file to ./cfg4.yml
+2023-05-20 08:40:50,215 - root - INFO - Initializing data iterator with filter threshold 0.28
+2023-05-20 08:40:50,216 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:40:50,217 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:40:50,217 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:40:50,218 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:40:50,218 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:40:50,219 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:40:50,219 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:40:50,220 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:40:50,220 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:40:50,221 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:40:50,221 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:40:50,222 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:40:50,222 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:40:50,222 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:40:50,223 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:40:50,223 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:40:50,224 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:40:50,224 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:40:52,596 - root - INFO - Summary of encoder_net
+2023-05-20 08:40:52,596 - root - INFO - Data:
+2023-05-20 08:40:52,596 - root - INFO -    data: (5, 4, 1, 480, 480), 4608000
+2023-05-20 08:40:52,597 - root - INFO -    ebrnn1_begin_state_h: (4, 64, 96, 96), 2359296
+2023-05-20 08:40:52,597 - root - INFO -    ebrnn2_begin_state_h: (4, 192, 32, 32), 786432
+2023-05-20 08:40:52,597 - root - INFO -    ebrnn3_begin_state_h: (4, 192, 16, 16), 196608
+2023-05-20 08:40:52,597 - root - INFO - State: None
+2023-05-20 08:40:52,597 - root - INFO - Params:
+2023-05-20 08:40:52,597 - root - INFO -    econv1_weight: (8, 4, 7, 7), 1568, req = write
+2023-05-20 08:40:52,597 - root - INFO -    econv1_bias: (8,), 8, req = write
+2023-05-20 08:40:52,597 - root - INFO -    ebrnn1_0_i2h_weight: (192, 8, 3, 3), 13824, req = write
+2023-05-20 08:40:52,598 - root - INFO -    ebrnn1_0_i2h_bias: (192,), 192, req = write
+2023-05-20 08:40:52,598 - root - INFO -    ebrnn1_0_i2f_conv1_weight: (32, 8, 5, 5), 6400, req = write
+2023-05-20 08:40:52,598 - root - INFO -    ebrnn1_0_i2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:40:52,598 - root - INFO -    ebrnn1_0_h2f_conv1_weight: (32, 64, 5, 5), 51200, req = write
+2023-05-20 08:40:52,598 - root - INFO -    ebrnn1_0_h2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:40:52,599 - root - INFO -    ebrnn1_0_f_out_weight: (26, 32, 5, 5), 20800, req = write
+2023-05-20 08:40:52,599 - root - INFO -    ebrnn1_0_f_out_bias: (26,), 26, req = write
+2023-05-20 08:40:52,599 - root - INFO -    ebrnn1_0_h2h_weight: (192, 832, 1, 1), 159744, req = write
+2023-05-20 08:40:52,599 - root - INFO -    ebrnn1_0_h2h_bias: (192,), 192, req = write
+2023-05-20 08:40:52,600 - root - INFO -    edown1_conv_weight: (192, 64, 5, 5), 307200, req = write
+2023-05-20 08:40:52,600 - root - INFO -    edown1_conv_bias: (192,), 192, req = write
+2023-05-20 08:40:52,600 - root - INFO -    ebrnn2_0_i2h_weight: (576, 192, 3, 3), 995328, req = write
+2023-05-20 08:40:52,600 - root - INFO -    ebrnn2_0_i2h_bias: (576,), 576, req = write
+2023-05-20 08:40:52,600 - root - INFO -    ebrnn2_0_i2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:40:52,601 - root - INFO -    ebrnn2_0_i2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:40:52,601 - root - INFO -    ebrnn2_0_h2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:40:52,601 - root - INFO -    ebrnn2_0_h2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:40:52,601 - root - INFO -    ebrnn2_0_f_out_weight: (26, 32, 5, 5), 20800, req = write
+2023-05-20 08:40:52,601 - root - INFO -    ebrnn2_0_f_out_bias: (26,), 26, req = write
+2023-05-20 08:40:52,602 - root - INFO -    ebrnn2_0_h2h_weight: (576, 2496, 1, 1), 1437696, req = write
+2023-05-20 08:40:52,602 - root - INFO -    ebrnn2_0_h2h_bias: (576,), 576, req = write
+2023-05-20 08:40:52,602 - root - INFO -    edown2_conv_weight: (192, 192, 3, 3), 331776, req = write
+2023-05-20 08:40:52,602 - root - INFO -    edown2_conv_bias: (192,), 192, req = write
+2023-05-20 08:40:52,602 - root - INFO -    ebrnn3_0_i2h_weight: (576, 192, 3, 3), 995328, req = write
+2023-05-20 08:40:52,603 - root - INFO -    ebrnn3_0_i2h_bias: (576,), 576, req = write
+2023-05-20 08:40:52,603 - root - INFO -    ebrnn3_0_i2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:40:52,603 - root - INFO -    ebrnn3_0_i2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:40:52,603 - root - INFO -    ebrnn3_0_h2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:40:52,604 - root - INFO -    ebrnn3_0_h2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:40:52,604 - root - INFO -    ebrnn3_0_f_out_weight: (18, 32, 5, 5), 14400, req = write
+2023-05-20 08:40:52,604 - root - INFO -    ebrnn3_0_f_out_bias: (18,), 18, req = write
+2023-05-20 08:40:52,604 - root - INFO -    ebrnn3_0_h2h_weight: (576, 1728, 1, 1), 995328, req = write
+2023-05-20 08:40:52,605 - root - INFO -    ebrnn3_0_h2h_bias: (576,), 576, req = write
+2023-05-20 08:40:52,605 - root - INFO - Aux States: None
+2023-05-20 08:40:52,605 - root - INFO - Total Param Num (exclude fixed ones): 5969134
+2023-05-20 08:40:52,605 - root - INFO - Total Fixed Param Num: 0
+2023-05-20 08:40:52,605 - root - INFO - Total Aux Param Num: 0
+2023-05-20 08:40:52,605 - root - INFO - Summary of forecaster_net
+2023-05-20 08:40:52,605 - root - INFO - Data:
+2023-05-20 08:40:52,605 - root - INFO -    fbrnn1_begin_state_h: (4, 64, 96, 96), 2359296
+2023-05-20 08:40:52,606 - root - INFO -    fbrnn2_begin_state_h: (4, 192, 32, 32), 786432
+2023-05-20 08:40:52,606 - root - INFO -    fbrnn3_begin_state_h: (4, 192, 16, 16), 196608
+2023-05-20 08:40:52,606 - root - INFO - State: None
+2023-05-20 08:40:52,606 - root - INFO - Params:
+2023-05-20 08:40:52,606 - root - INFO -    fbrnn3_0_h2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:40:52,606 - root - INFO -    fbrnn3_0_h2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:40:52,607 - root - INFO -    fbrnn3_0_f_out_weight: (18, 32, 5, 5), 14400, req = write
+2023-05-20 08:40:52,607 - root - INFO -    fbrnn3_0_f_out_bias: (18,), 18, req = write
+2023-05-20 08:40:52,607 - root - INFO -    fbrnn3_0_h2h_weight: (576, 1728, 1, 1), 995328, req = write
+2023-05-20 08:40:52,607 - root - INFO -    fbrnn3_0_h2h_bias: (576,), 576, req = write
+2023-05-20 08:40:52,607 - root - INFO -    fup2_deconv_weight: (192, 192, 4, 4), 589824, req = write
+2023-05-20 08:40:52,608 - root - INFO -    fbrnn2_0_i2h_weight: (576, 192, 3, 3), 995328, req = write
+2023-05-20 08:40:52,608 - root - INFO -    fbrnn2_0_i2h_bias: (576,), 576, req = write
+2023-05-20 08:40:52,608 - root - INFO -    fbrnn2_0_i2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:40:52,608 - root - INFO -    fbrnn2_0_i2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:40:52,609 - root - INFO -    fbrnn2_0_h2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:40:52,609 - root - INFO -    fbrnn2_0_h2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:40:52,609 - root - INFO -    fbrnn2_0_f_out_weight: (26, 32, 5, 5), 20800, req = write
+2023-05-20 08:40:52,609 - root - INFO -    fbrnn2_0_f_out_bias: (26,), 26, req = write
+2023-05-20 08:40:52,609 - root - INFO -    fbrnn2_0_h2h_weight: (576, 2496, 1, 1), 1437696, req = write
+2023-05-20 08:40:52,610 - root - INFO -    fbrnn2_0_h2h_bias: (576,), 576, req = write
+2023-05-20 08:40:52,610 - root - INFO -    fup1_deconv_weight: (192, 192, 5, 5), 921600, req = write
+2023-05-20 08:40:52,610 - root - INFO -    fbrnn1_0_i2h_weight: (192, 192, 3, 3), 331776, req = write
+2023-05-20 08:40:52,610 - root - INFO -    fbrnn1_0_i2h_bias: (192,), 192, req = write
+2023-05-20 08:40:52,610 - root - INFO -    fbrnn1_0_i2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:40:52,611 - root - INFO -    fbrnn1_0_i2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:40:52,611 - root - INFO -    fbrnn1_0_h2f_conv1_weight: (32, 64, 5, 5), 51200, req = write
+2023-05-20 08:40:52,611 - root - INFO -    fbrnn1_0_h2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:40:52,611 - root - INFO -    fbrnn1_0_f_out_weight: (26, 32, 5, 5), 20800, req = write
+2023-05-20 08:40:52,612 - root - INFO -    fbrnn1_0_f_out_bias: (26,), 26, req = write
+2023-05-20 08:40:52,612 - root - INFO -    fbrnn1_0_h2h_weight: (192, 832, 1, 1), 159744, req = write
+2023-05-20 08:40:52,612 - root - INFO -    fbrnn1_0_h2h_bias: (192,), 192, req = write
+2023-05-20 08:40:52,612 - root - INFO -    fdeconv1_weight: (64, 8, 7, 7), 25088, req = write
+2023-05-20 08:40:52,612 - root - INFO -    conv_final_weight: (8, 8, 3, 3), 576, req = write
+2023-05-20 08:40:52,613 - root - INFO -    conv_final_bias: (8,), 8, req = write
+2023-05-20 08:40:52,613 - root - INFO -    out_weight: (1, 8, 1, 1), 8, req = write
+2023-05-20 08:40:52,613 - root - INFO -    out_bias: (1,), 1, req = write
+2023-05-20 08:40:52,613 - root - INFO - Aux States: None
+2023-05-20 08:40:52,613 - root - INFO - Total Param Num (exclude fixed ones): 6180919
+2023-05-20 08:40:52,613 - root - INFO - Total Fixed Param Num: 0
+2023-05-20 08:40:52,614 - root - INFO - Total Aux Param Num: 0
+2023-05-20 08:40:52,614 - root - INFO - Summary of loss_net
+2023-05-20 08:40:52,614 - root - INFO - Data:
+2023-05-20 08:40:52,614 - root - INFO -    pred: (20, 4, 1, 480, 480), 18432000
+2023-05-20 08:40:52,614 - root - INFO - State: None
+2023-05-20 08:40:52,614 - root - INFO - Param: None
+2023-05-20 08:40:52,614 - root - INFO - Aux States: None
+2023-05-20 08:40:52,614 - root - INFO - Total Param Num (exclude fixed ones): 0
+2023-05-20 08:40:52,614 - root - INFO - Total Fixed Param Num: 0
+2023-05-20 08:40:52,615 - root - INFO - Total Aux Param Num: 0
+2023-05-20 08:45:16,549 - root - INFO - Save YAML config file to ./cfg5.yml
+2023-05-20 08:45:16,569 - root - INFO - Initializing data iterator with filter threshold 0.28
+2023-05-20 08:45:16,570 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:45:16,570 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:45:16,571 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:45:16,571 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:45:16,572 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:45:16,572 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:45:16,572 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:45:16,573 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:45:16,573 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:45:16,574 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:45:16,575 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:45:16,575 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:45:16,576 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:45:16,576 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:45:16,577 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:45:16,577 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:45:16,578 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:45:16,578 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:45:18,958 - root - INFO - Summary of encoder_net
+2023-05-20 08:45:18,959 - root - INFO - Data:
+2023-05-20 08:45:18,959 - root - INFO -    data: (5, 4, 1, 480, 480), 4608000
+2023-05-20 08:45:18,959 - root - INFO -    ebrnn1_begin_state_h: (4, 64, 96, 96), 2359296
+2023-05-20 08:45:18,959 - root - INFO -    ebrnn2_begin_state_h: (4, 192, 32, 32), 786432
+2023-05-20 08:45:18,959 - root - INFO -    ebrnn3_begin_state_h: (4, 192, 16, 16), 196608
+2023-05-20 08:45:18,960 - root - INFO - State: None
+2023-05-20 08:45:18,960 - root - INFO - Params:
+2023-05-20 08:45:18,960 - root - INFO -    econv1_weight: (8, 4, 7, 7), 1568, req = write
+2023-05-20 08:45:18,960 - root - INFO -    econv1_bias: (8,), 8, req = write
+2023-05-20 08:45:18,960 - root - INFO -    ebrnn1_0_i2h_weight: (192, 8, 3, 3), 13824, req = write
+2023-05-20 08:45:18,961 - root - INFO -    ebrnn1_0_i2h_bias: (192,), 192, req = write
+2023-05-20 08:45:18,961 - root - INFO -    ebrnn1_0_i2f_conv1_weight: (32, 8, 5, 5), 6400, req = write
+2023-05-20 08:45:18,961 - root - INFO -    ebrnn1_0_i2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:45:18,961 - root - INFO -    ebrnn1_0_h2f_conv1_weight: (32, 64, 5, 5), 51200, req = write
+2023-05-20 08:45:18,961 - root - INFO -    ebrnn1_0_h2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:45:18,961 - root - INFO -    ebrnn1_0_f_out_weight: (26, 32, 5, 5), 20800, req = write
+2023-05-20 08:45:18,962 - root - INFO -    ebrnn1_0_f_out_bias: (26,), 26, req = write
+2023-05-20 08:45:18,962 - root - INFO -    ebrnn1_0_h2h_weight: (192, 832, 1, 1), 159744, req = write
+2023-05-20 08:45:18,962 - root - INFO -    ebrnn1_0_h2h_bias: (192,), 192, req = write
+2023-05-20 08:45:18,962 - root - INFO -    edown1_conv_weight: (192, 64, 5, 5), 307200, req = write
+2023-05-20 08:45:18,963 - root - INFO -    edown1_conv_bias: (192,), 192, req = write
+2023-05-20 08:45:18,963 - root - INFO -    ebrnn2_0_i2h_weight: (576, 192, 3, 3), 995328, req = write
+2023-05-20 08:45:18,963 - root - INFO -    ebrnn2_0_i2h_bias: (576,), 576, req = write
+2023-05-20 08:45:18,963 - root - INFO -    ebrnn2_0_i2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:45:18,963 - root - INFO -    ebrnn2_0_i2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:45:18,964 - root - INFO -    ebrnn2_0_h2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:45:18,964 - root - INFO -    ebrnn2_0_h2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:45:18,964 - root - INFO -    ebrnn2_0_f_out_weight: (26, 32, 5, 5), 20800, req = write
+2023-05-20 08:45:18,964 - root - INFO -    ebrnn2_0_f_out_bias: (26,), 26, req = write
+2023-05-20 08:45:18,964 - root - INFO -    ebrnn2_0_h2h_weight: (576, 2496, 1, 1), 1437696, req = write
+2023-05-20 08:45:18,965 - root - INFO -    ebrnn2_0_h2h_bias: (576,), 576, req = write
+2023-05-20 08:45:18,965 - root - INFO -    edown2_conv_weight: (192, 192, 3, 3), 331776, req = write
+2023-05-20 08:45:18,965 - root - INFO -    edown2_conv_bias: (192,), 192, req = write
+2023-05-20 08:45:18,965 - root - INFO -    ebrnn3_0_i2h_weight: (576, 192, 3, 3), 995328, req = write
+2023-05-20 08:45:18,966 - root - INFO -    ebrnn3_0_i2h_bias: (576,), 576, req = write
+2023-05-20 08:45:18,966 - root - INFO -    ebrnn3_0_i2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:45:18,966 - root - INFO -    ebrnn3_0_i2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:45:18,966 - root - INFO -    ebrnn3_0_h2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:45:18,966 - root - INFO -    ebrnn3_0_h2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:45:18,967 - root - INFO -    ebrnn3_0_f_out_weight: (18, 32, 5, 5), 14400, req = write
+2023-05-20 08:45:18,967 - root - INFO -    ebrnn3_0_f_out_bias: (18,), 18, req = write
+2023-05-20 08:45:18,967 - root - INFO -    ebrnn3_0_h2h_weight: (576, 1728, 1, 1), 995328, req = write
+2023-05-20 08:45:18,967 - root - INFO -    ebrnn3_0_h2h_bias: (576,), 576, req = write
+2023-05-20 08:45:18,968 - root - INFO - Aux States: None
+2023-05-20 08:45:18,968 - root - INFO - Total Param Num (exclude fixed ones): 5969134
+2023-05-20 08:45:18,968 - root - INFO - Total Fixed Param Num: 0
+2023-05-20 08:45:18,968 - root - INFO - Total Aux Param Num: 0
+2023-05-20 08:45:18,968 - root - INFO - Summary of forecaster_net
+2023-05-20 08:45:18,968 - root - INFO - Data:
+2023-05-20 08:45:18,968 - root - INFO -    fbrnn1_begin_state_h: (4, 64, 96, 96), 2359296
+2023-05-20 08:45:18,969 - root - INFO -    fbrnn2_begin_state_h: (4, 192, 32, 32), 786432
+2023-05-20 08:45:18,969 - root - INFO -    fbrnn3_begin_state_h: (4, 192, 16, 16), 196608
+2023-05-20 08:45:18,969 - root - INFO - State: None
+2023-05-20 08:45:18,969 - root - INFO - Params:
+2023-05-20 08:45:18,969 - root - INFO -    fbrnn3_0_h2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:45:18,969 - root - INFO -    fbrnn3_0_h2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:45:18,970 - root - INFO -    fbrnn3_0_f_out_weight: (18, 32, 5, 5), 14400, req = write
+2023-05-20 08:45:18,970 - root - INFO -    fbrnn3_0_f_out_bias: (18,), 18, req = write
+2023-05-20 08:45:18,970 - root - INFO -    fbrnn3_0_h2h_weight: (576, 1728, 1, 1), 995328, req = write
+2023-05-20 08:45:18,970 - root - INFO -    fbrnn3_0_h2h_bias: (576,), 576, req = write
+2023-05-20 08:45:18,970 - root - INFO -    fup2_deconv_weight: (192, 192, 4, 4), 589824, req = write
+2023-05-20 08:45:18,971 - root - INFO -    fbrnn2_0_i2h_weight: (576, 192, 3, 3), 995328, req = write
+2023-05-20 08:45:18,971 - root - INFO -    fbrnn2_0_i2h_bias: (576,), 576, req = write
+2023-05-20 08:45:18,971 - root - INFO -    fbrnn2_0_i2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:45:18,971 - root - INFO -    fbrnn2_0_i2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:45:18,971 - root - INFO -    fbrnn2_0_h2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:45:18,971 - root - INFO -    fbrnn2_0_h2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:45:18,972 - root - INFO -    fbrnn2_0_f_out_weight: (26, 32, 5, 5), 20800, req = write
+2023-05-20 08:45:18,972 - root - INFO -    fbrnn2_0_f_out_bias: (26,), 26, req = write
+2023-05-20 08:45:18,972 - root - INFO -    fbrnn2_0_h2h_weight: (576, 2496, 1, 1), 1437696, req = write
+2023-05-20 08:45:18,972 - root - INFO -    fbrnn2_0_h2h_bias: (576,), 576, req = write
+2023-05-20 08:45:18,972 - root - INFO -    fup1_deconv_weight: (192, 192, 5, 5), 921600, req = write
+2023-05-20 08:45:18,972 - root - INFO -    fbrnn1_0_i2h_weight: (192, 192, 3, 3), 331776, req = write
+2023-05-20 08:45:18,973 - root - INFO -    fbrnn1_0_i2h_bias: (192,), 192, req = write
+2023-05-20 08:45:18,973 - root - INFO -    fbrnn1_0_i2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:45:18,973 - root - INFO -    fbrnn1_0_i2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:45:18,973 - root - INFO -    fbrnn1_0_h2f_conv1_weight: (32, 64, 5, 5), 51200, req = write
+2023-05-20 08:45:18,973 - root - INFO -    fbrnn1_0_h2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:45:18,974 - root - INFO -    fbrnn1_0_f_out_weight: (26, 32, 5, 5), 20800, req = write
+2023-05-20 08:45:18,974 - root - INFO -    fbrnn1_0_f_out_bias: (26,), 26, req = write
+2023-05-20 08:45:18,974 - root - INFO -    fbrnn1_0_h2h_weight: (192, 832, 1, 1), 159744, req = write
+2023-05-20 08:45:18,974 - root - INFO -    fbrnn1_0_h2h_bias: (192,), 192, req = write
+2023-05-20 08:45:18,974 - root - INFO -    fdeconv1_weight: (64, 8, 7, 7), 25088, req = write
+2023-05-20 08:45:18,975 - root - INFO -    conv_final_weight: (8, 8, 3, 3), 576, req = write
+2023-05-20 08:45:18,975 - root - INFO -    conv_final_bias: (8,), 8, req = write
+2023-05-20 08:45:18,975 - root - INFO -    out_weight: (1, 8, 1, 1), 8, req = write
+2023-05-20 08:45:18,975 - root - INFO -    out_bias: (1,), 1, req = write
+2023-05-20 08:45:18,976 - root - INFO - Aux States: None
+2023-05-20 08:45:18,976 - root - INFO - Total Param Num (exclude fixed ones): 6180919
+2023-05-20 08:45:18,976 - root - INFO - Total Fixed Param Num: 0
+2023-05-20 08:45:18,976 - root - INFO - Total Aux Param Num: 0
+2023-05-20 08:45:18,976 - root - INFO - Summary of loss_net
+2023-05-20 08:45:18,976 - root - INFO - Data:
+2023-05-20 08:45:18,976 - root - INFO -    pred: (20, 4, 1, 480, 480), 18432000
+2023-05-20 08:45:18,977 - root - INFO - State: None
+2023-05-20 08:45:18,977 - root - INFO - Param: None
+2023-05-20 08:45:18,977 - root - INFO - Aux States: None
+2023-05-20 08:45:18,977 - root - INFO - Total Param Num (exclude fixed ones): 0
+2023-05-20 08:45:18,977 - root - INFO - Total Fixed Param Num: 0
+2023-05-20 08:45:18,977 - root - INFO - Total Aux Param Num: 0
+2023-05-20 08:45:31,686 - root - INFO - Save YAML config file to ./cfg6.yml
+2023-05-20 08:45:31,705 - root - INFO - Initializing data iterator with filter threshold 0.28
+2023-05-20 08:45:31,706 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:45:31,707 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:45:31,707 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:45:31,707 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:45:31,708 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:45:31,708 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:45:31,709 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:45:31,709 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:45:31,710 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:45:31,711 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:45:31,711 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:45:31,712 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:45:31,712 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:45:31,713 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:45:31,713 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:45:31,714 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:45:31,714 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:45:31,715 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:45:34,051 - root - INFO - Summary of encoder_net
+2023-05-20 08:45:34,051 - root - INFO - Data:
+2023-05-20 08:45:34,051 - root - INFO -    data: (5, 4, 1, 480, 480), 4608000
+2023-05-20 08:45:34,052 - root - INFO -    ebrnn1_begin_state_h: (4, 64, 96, 96), 2359296
+2023-05-20 08:45:34,052 - root - INFO -    ebrnn2_begin_state_h: (4, 192, 32, 32), 786432
+2023-05-20 08:45:34,052 - root - INFO -    ebrnn3_begin_state_h: (4, 192, 16, 16), 196608
+2023-05-20 08:45:34,052 - root - INFO - State: None
+2023-05-20 08:45:34,052 - root - INFO - Params:
+2023-05-20 08:45:34,052 - root - INFO -    econv1_weight: (8, 4, 7, 7), 1568, req = write
+2023-05-20 08:45:34,053 - root - INFO -    econv1_bias: (8,), 8, req = write
+2023-05-20 08:45:34,053 - root - INFO -    ebrnn1_0_i2h_weight: (192, 8, 3, 3), 13824, req = write
+2023-05-20 08:45:34,053 - root - INFO -    ebrnn1_0_i2h_bias: (192,), 192, req = write
+2023-05-20 08:45:34,053 - root - INFO -    ebrnn1_0_i2f_conv1_weight: (32, 8, 5, 5), 6400, req = write
+2023-05-20 08:45:34,054 - root - INFO -    ebrnn1_0_i2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:45:34,054 - root - INFO -    ebrnn1_0_h2f_conv1_weight: (32, 64, 5, 5), 51200, req = write
+2023-05-20 08:45:34,054 - root - INFO -    ebrnn1_0_h2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:45:34,054 - root - INFO -    ebrnn1_0_f_out_weight: (26, 32, 5, 5), 20800, req = write
+2023-05-20 08:45:34,054 - root - INFO -    ebrnn1_0_f_out_bias: (26,), 26, req = write
+2023-05-20 08:45:34,055 - root - INFO -    ebrnn1_0_h2h_weight: (192, 832, 1, 1), 159744, req = write
+2023-05-20 08:45:34,055 - root - INFO -    ebrnn1_0_h2h_bias: (192,), 192, req = write
+2023-05-20 08:45:34,055 - root - INFO -    edown1_conv_weight: (192, 64, 5, 5), 307200, req = write
+2023-05-20 08:45:34,055 - root - INFO -    edown1_conv_bias: (192,), 192, req = write
+2023-05-20 08:45:34,056 - root - INFO -    ebrnn2_0_i2h_weight: (576, 192, 3, 3), 995328, req = write
+2023-05-20 08:45:34,056 - root - INFO -    ebrnn2_0_i2h_bias: (576,), 576, req = write
+2023-05-20 08:45:34,056 - root - INFO -    ebrnn2_0_i2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:45:34,056 - root - INFO -    ebrnn2_0_i2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:45:34,056 - root - INFO -    ebrnn2_0_h2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:45:34,057 - root - INFO -    ebrnn2_0_h2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:45:34,057 - root - INFO -    ebrnn2_0_f_out_weight: (26, 32, 5, 5), 20800, req = write
+2023-05-20 08:45:34,057 - root - INFO -    ebrnn2_0_f_out_bias: (26,), 26, req = write
+2023-05-20 08:45:34,057 - root - INFO -    ebrnn2_0_h2h_weight: (576, 2496, 1, 1), 1437696, req = write
+2023-05-20 08:45:34,058 - root - INFO -    ebrnn2_0_h2h_bias: (576,), 576, req = write
+2023-05-20 08:45:34,058 - root - INFO -    edown2_conv_weight: (192, 192, 3, 3), 331776, req = write
+2023-05-20 08:45:34,058 - root - INFO -    edown2_conv_bias: (192,), 192, req = write
+2023-05-20 08:45:34,058 - root - INFO -    ebrnn3_0_i2h_weight: (576, 192, 3, 3), 995328, req = write
+2023-05-20 08:45:34,058 - root - INFO -    ebrnn3_0_i2h_bias: (576,), 576, req = write
+2023-05-20 08:45:34,059 - root - INFO -    ebrnn3_0_i2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:45:34,059 - root - INFO -    ebrnn3_0_i2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:45:34,059 - root - INFO -    ebrnn3_0_h2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:45:34,059 - root - INFO -    ebrnn3_0_h2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:45:34,060 - root - INFO -    ebrnn3_0_f_out_weight: (18, 32, 5, 5), 14400, req = write
+2023-05-20 08:45:34,060 - root - INFO -    ebrnn3_0_f_out_bias: (18,), 18, req = write
+2023-05-20 08:45:34,060 - root - INFO -    ebrnn3_0_h2h_weight: (576, 1728, 1, 1), 995328, req = write
+2023-05-20 08:45:34,060 - root - INFO -    ebrnn3_0_h2h_bias: (576,), 576, req = write
+2023-05-20 08:45:34,060 - root - INFO - Aux States: None
+2023-05-20 08:45:34,060 - root - INFO - Total Param Num (exclude fixed ones): 5969134
+2023-05-20 08:45:34,061 - root - INFO - Total Fixed Param Num: 0
+2023-05-20 08:45:34,061 - root - INFO - Total Aux Param Num: 0
+2023-05-20 08:45:34,061 - root - INFO - Summary of forecaster_net
+2023-05-20 08:45:34,061 - root - INFO - Data:
+2023-05-20 08:45:34,061 - root - INFO -    fbrnn1_begin_state_h: (4, 64, 96, 96), 2359296
+2023-05-20 08:45:34,061 - root - INFO -    fbrnn2_begin_state_h: (4, 192, 32, 32), 786432
+2023-05-20 08:45:34,062 - root - INFO -    fbrnn3_begin_state_h: (4, 192, 16, 16), 196608
+2023-05-20 08:45:34,062 - root - INFO - State: None
+2023-05-20 08:45:34,062 - root - INFO - Params:
+2023-05-20 08:45:34,062 - root - INFO -    fbrnn3_0_h2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:45:34,062 - root - INFO -    fbrnn3_0_h2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:45:34,062 - root - INFO -    fbrnn3_0_f_out_weight: (18, 32, 5, 5), 14400, req = write
+2023-05-20 08:45:34,063 - root - INFO -    fbrnn3_0_f_out_bias: (18,), 18, req = write
+2023-05-20 08:45:34,063 - root - INFO -    fbrnn3_0_h2h_weight: (576, 1728, 1, 1), 995328, req = write
+2023-05-20 08:45:34,063 - root - INFO -    fbrnn3_0_h2h_bias: (576,), 576, req = write
+2023-05-20 08:45:34,063 - root - INFO -    fup2_deconv_weight: (192, 192, 4, 4), 589824, req = write
+2023-05-20 08:45:34,064 - root - INFO -    fbrnn2_0_i2h_weight: (576, 192, 3, 3), 995328, req = write
+2023-05-20 08:45:34,064 - root - INFO -    fbrnn2_0_i2h_bias: (576,), 576, req = write
+2023-05-20 08:45:34,064 - root - INFO -    fbrnn2_0_i2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:45:34,064 - root - INFO -    fbrnn2_0_i2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:45:34,064 - root - INFO -    fbrnn2_0_h2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:45:34,065 - root - INFO -    fbrnn2_0_h2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:45:34,065 - root - INFO -    fbrnn2_0_f_out_weight: (26, 32, 5, 5), 20800, req = write
+2023-05-20 08:45:34,065 - root - INFO -    fbrnn2_0_f_out_bias: (26,), 26, req = write
+2023-05-20 08:45:34,065 - root - INFO -    fbrnn2_0_h2h_weight: (576, 2496, 1, 1), 1437696, req = write
+2023-05-20 08:45:34,066 - root - INFO -    fbrnn2_0_h2h_bias: (576,), 576, req = write
+2023-05-20 08:45:34,066 - root - INFO -    fup1_deconv_weight: (192, 192, 5, 5), 921600, req = write
+2023-05-20 08:45:34,066 - root - INFO -    fbrnn1_0_i2h_weight: (192, 192, 3, 3), 331776, req = write
+2023-05-20 08:45:34,066 - root - INFO -    fbrnn1_0_i2h_bias: (192,), 192, req = write
+2023-05-20 08:45:34,066 - root - INFO -    fbrnn1_0_i2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:45:34,067 - root - INFO -    fbrnn1_0_i2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:45:34,067 - root - INFO -    fbrnn1_0_h2f_conv1_weight: (32, 64, 5, 5), 51200, req = write
+2023-05-20 08:45:34,067 - root - INFO -    fbrnn1_0_h2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:45:34,067 - root - INFO -    fbrnn1_0_f_out_weight: (26, 32, 5, 5), 20800, req = write
+2023-05-20 08:45:34,067 - root - INFO -    fbrnn1_0_f_out_bias: (26,), 26, req = write
+2023-05-20 08:45:34,068 - root - INFO -    fbrnn1_0_h2h_weight: (192, 832, 1, 1), 159744, req = write
+2023-05-20 08:45:34,068 - root - INFO -    fbrnn1_0_h2h_bias: (192,), 192, req = write
+2023-05-20 08:45:34,068 - root - INFO -    fdeconv1_weight: (64, 8, 7, 7), 25088, req = write
+2023-05-20 08:45:34,068 - root - INFO -    conv_final_weight: (8, 8, 3, 3), 576, req = write
+2023-05-20 08:45:34,069 - root - INFO -    conv_final_bias: (8,), 8, req = write
+2023-05-20 08:45:34,069 - root - INFO -    out_weight: (1, 8, 1, 1), 8, req = write
+2023-05-20 08:45:34,069 - root - INFO -    out_bias: (1,), 1, req = write
+2023-05-20 08:45:34,069 - root - INFO - Aux States: None
+2023-05-20 08:45:34,069 - root - INFO - Total Param Num (exclude fixed ones): 6180919
+2023-05-20 08:45:34,069 - root - INFO - Total Fixed Param Num: 0
+2023-05-20 08:45:34,069 - root - INFO - Total Aux Param Num: 0
+2023-05-20 08:45:34,070 - root - INFO - Summary of loss_net
+2023-05-20 08:45:34,070 - root - INFO - Data:
+2023-05-20 08:45:34,070 - root - INFO -    pred: (20, 4, 1, 480, 480), 18432000
+2023-05-20 08:45:34,070 - root - INFO - State: None
+2023-05-20 08:45:34,070 - root - INFO - Param: None
+2023-05-20 08:45:34,070 - root - INFO - Aux States: None
+2023-05-20 08:45:34,070 - root - INFO - Total Param Num (exclude fixed ones): 0
+2023-05-20 08:45:34,070 - root - INFO - Total Fixed Param Num: 0
+2023-05-20 08:45:34,071 - root - INFO - Total Aux Param Num: 0
+2023-05-20 08:46:19,630 - root - INFO - Save YAML config file to ./cfg7.yml
+2023-05-20 08:46:19,649 - root - INFO - Initializing data iterator with filter threshold 0.28
+2023-05-20 08:46:19,650 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:46:19,651 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:46:19,651 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:46:19,652 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:46:19,652 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:46:19,653 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:46:19,653 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:46:19,654 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:46:19,654 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:46:19,655 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:46:19,656 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:46:19,656 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:46:19,656 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:46:19,657 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:46:19,657 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:46:19,658 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:46:19,658 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:46:19,659 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 08:46:22,041 - root - INFO - Summary of encoder_net
+2023-05-20 08:46:22,041 - root - INFO - Data:
+2023-05-20 08:46:22,041 - root - INFO -    data: (5, 4, 1, 480, 480), 4608000
+2023-05-20 08:46:22,042 - root - INFO -    ebrnn1_begin_state_h: (4, 64, 96, 96), 2359296
+2023-05-20 08:46:22,042 - root - INFO -    ebrnn2_begin_state_h: (4, 192, 32, 32), 786432
+2023-05-20 08:46:22,042 - root - INFO -    ebrnn3_begin_state_h: (4, 192, 16, 16), 196608
+2023-05-20 08:46:22,042 - root - INFO - State: None
+2023-05-20 08:46:22,042 - root - INFO - Params:
+2023-05-20 08:46:22,042 - root - INFO -    econv1_weight: (8, 4, 7, 7), 1568, req = write
+2023-05-20 08:46:22,043 - root - INFO -    econv1_bias: (8,), 8, req = write
+2023-05-20 08:46:22,043 - root - INFO -    ebrnn1_0_i2h_weight: (192, 8, 3, 3), 13824, req = write
+2023-05-20 08:46:22,043 - root - INFO -    ebrnn1_0_i2h_bias: (192,), 192, req = write
+2023-05-20 08:46:22,043 - root - INFO -    ebrnn1_0_i2f_conv1_weight: (32, 8, 5, 5), 6400, req = write
+2023-05-20 08:46:22,043 - root - INFO -    ebrnn1_0_i2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:46:22,044 - root - INFO -    ebrnn1_0_h2f_conv1_weight: (32, 64, 5, 5), 51200, req = write
+2023-05-20 08:46:22,044 - root - INFO -    ebrnn1_0_h2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:46:22,044 - root - INFO -    ebrnn1_0_f_out_weight: (26, 32, 5, 5), 20800, req = write
+2023-05-20 08:46:22,044 - root - INFO -    ebrnn1_0_f_out_bias: (26,), 26, req = write
+2023-05-20 08:46:22,045 - root - INFO -    ebrnn1_0_h2h_weight: (192, 832, 1, 1), 159744, req = write
+2023-05-20 08:46:22,045 - root - INFO -    ebrnn1_0_h2h_bias: (192,), 192, req = write
+2023-05-20 08:46:22,045 - root - INFO -    edown1_conv_weight: (192, 64, 5, 5), 307200, req = write
+2023-05-20 08:46:22,045 - root - INFO -    edown1_conv_bias: (192,), 192, req = write
+2023-05-20 08:46:22,045 - root - INFO -    ebrnn2_0_i2h_weight: (576, 192, 3, 3), 995328, req = write
+2023-05-20 08:46:22,046 - root - INFO -    ebrnn2_0_i2h_bias: (576,), 576, req = write
+2023-05-20 08:46:22,046 - root - INFO -    ebrnn2_0_i2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:46:22,046 - root - INFO -    ebrnn2_0_i2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:46:22,046 - root - INFO -    ebrnn2_0_h2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:46:22,047 - root - INFO -    ebrnn2_0_h2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:46:22,047 - root - INFO -    ebrnn2_0_f_out_weight: (26, 32, 5, 5), 20800, req = write
+2023-05-20 08:46:22,047 - root - INFO -    ebrnn2_0_f_out_bias: (26,), 26, req = write
+2023-05-20 08:46:22,047 - root - INFO -    ebrnn2_0_h2h_weight: (576, 2496, 1, 1), 1437696, req = write
+2023-05-20 08:46:22,047 - root - INFO -    ebrnn2_0_h2h_bias: (576,), 576, req = write
+2023-05-20 08:46:22,048 - root - INFO -    edown2_conv_weight: (192, 192, 3, 3), 331776, req = write
+2023-05-20 08:46:22,048 - root - INFO -    edown2_conv_bias: (192,), 192, req = write
+2023-05-20 08:46:22,048 - root - INFO -    ebrnn3_0_i2h_weight: (576, 192, 3, 3), 995328, req = write
+2023-05-20 08:46:22,048 - root - INFO -    ebrnn3_0_i2h_bias: (576,), 576, req = write
+2023-05-20 08:46:22,049 - root - INFO -    ebrnn3_0_i2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:46:22,049 - root - INFO -    ebrnn3_0_i2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:46:22,049 - root - INFO -    ebrnn3_0_h2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:46:22,049 - root - INFO -    ebrnn3_0_h2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:46:22,049 - root - INFO -    ebrnn3_0_f_out_weight: (18, 32, 5, 5), 14400, req = write
+2023-05-20 08:46:22,050 - root - INFO -    ebrnn3_0_f_out_bias: (18,), 18, req = write
+2023-05-20 08:46:22,050 - root - INFO -    ebrnn3_0_h2h_weight: (576, 1728, 1, 1), 995328, req = write
+2023-05-20 08:46:22,050 - root - INFO -    ebrnn3_0_h2h_bias: (576,), 576, req = write
+2023-05-20 08:46:22,050 - root - INFO - Aux States: None
+2023-05-20 08:46:22,050 - root - INFO - Total Param Num (exclude fixed ones): 5969134
+2023-05-20 08:46:22,051 - root - INFO - Total Fixed Param Num: 0
+2023-05-20 08:46:22,051 - root - INFO - Total Aux Param Num: 0
+2023-05-20 08:46:22,051 - root - INFO - Summary of forecaster_net
+2023-05-20 08:46:22,051 - root - INFO - Data:
+2023-05-20 08:46:22,051 - root - INFO -    fbrnn1_begin_state_h: (4, 64, 96, 96), 2359296
+2023-05-20 08:46:22,051 - root - INFO -    fbrnn2_begin_state_h: (4, 192, 32, 32), 786432
+2023-05-20 08:46:22,052 - root - INFO -    fbrnn3_begin_state_h: (4, 192, 16, 16), 196608
+2023-05-20 08:46:22,052 - root - INFO - State: None
+2023-05-20 08:46:22,052 - root - INFO - Params:
+2023-05-20 08:46:22,052 - root - INFO -    fbrnn3_0_h2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:46:22,052 - root - INFO -    fbrnn3_0_h2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:46:22,053 - root - INFO -    fbrnn3_0_f_out_weight: (18, 32, 5, 5), 14400, req = write
+2023-05-20 08:46:22,053 - root - INFO -    fbrnn3_0_f_out_bias: (18,), 18, req = write
+2023-05-20 08:46:22,053 - root - INFO -    fbrnn3_0_h2h_weight: (576, 1728, 1, 1), 995328, req = write
+2023-05-20 08:46:22,053 - root - INFO -    fbrnn3_0_h2h_bias: (576,), 576, req = write
+2023-05-20 08:46:22,053 - root - INFO -    fup2_deconv_weight: (192, 192, 4, 4), 589824, req = write
+2023-05-20 08:46:22,054 - root - INFO -    fbrnn2_0_i2h_weight: (576, 192, 3, 3), 995328, req = write
+2023-05-20 08:46:22,054 - root - INFO -    fbrnn2_0_i2h_bias: (576,), 576, req = write
+2023-05-20 08:46:22,054 - root - INFO -    fbrnn2_0_i2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:46:22,054 - root - INFO -    fbrnn2_0_i2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:46:22,055 - root - INFO -    fbrnn2_0_h2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:46:22,055 - root - INFO -    fbrnn2_0_h2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:46:22,055 - root - INFO -    fbrnn2_0_f_out_weight: (26, 32, 5, 5), 20800, req = write
+2023-05-20 08:46:22,055 - root - INFO -    fbrnn2_0_f_out_bias: (26,), 26, req = write
+2023-05-20 08:46:22,055 - root - INFO -    fbrnn2_0_h2h_weight: (576, 2496, 1, 1), 1437696, req = write
+2023-05-20 08:46:22,056 - root - INFO -    fbrnn2_0_h2h_bias: (576,), 576, req = write
+2023-05-20 08:46:22,056 - root - INFO -    fup1_deconv_weight: (192, 192, 5, 5), 921600, req = write
+2023-05-20 08:46:22,056 - root - INFO -    fbrnn1_0_i2h_weight: (192, 192, 3, 3), 331776, req = write
+2023-05-20 08:46:22,056 - root - INFO -    fbrnn1_0_i2h_bias: (192,), 192, req = write
+2023-05-20 08:46:22,057 - root - INFO -    fbrnn1_0_i2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-20 08:46:22,057 - root - INFO -    fbrnn1_0_i2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:46:22,057 - root - INFO -    fbrnn1_0_h2f_conv1_weight: (32, 64, 5, 5), 51200, req = write
+2023-05-20 08:46:22,057 - root - INFO -    fbrnn1_0_h2f_conv1_bias: (32,), 32, req = write
+2023-05-20 08:46:22,057 - root - INFO -    fbrnn1_0_f_out_weight: (26, 32, 5, 5), 20800, req = write
+2023-05-20 08:46:22,058 - root - INFO -    fbrnn1_0_f_out_bias: (26,), 26, req = write
+2023-05-20 08:46:22,058 - root - INFO -    fbrnn1_0_h2h_weight: (192, 832, 1, 1), 159744, req = write
+2023-05-20 08:46:22,058 - root - INFO -    fbrnn1_0_h2h_bias: (192,), 192, req = write
+2023-05-20 08:46:22,058 - root - INFO -    fdeconv1_weight: (64, 8, 7, 7), 25088, req = write
+2023-05-20 08:46:22,058 - root - INFO -    conv_final_weight: (8, 8, 3, 3), 576, req = write
+2023-05-20 08:46:22,059 - root - INFO -    conv_final_bias: (8,), 8, req = write
+2023-05-20 08:46:22,059 - root - INFO -    out_weight: (1, 8, 1, 1), 8, req = write
+2023-05-20 08:46:22,059 - root - INFO -    out_bias: (1,), 1, req = write
+2023-05-20 08:46:22,059 - root - INFO - Aux States: None
+2023-05-20 08:46:22,059 - root - INFO - Total Param Num (exclude fixed ones): 6180919
+2023-05-20 08:46:22,059 - root - INFO - Total Fixed Param Num: 0
+2023-05-20 08:46:22,059 - root - INFO - Total Aux Param Num: 0
+2023-05-20 08:46:22,060 - root - INFO - Summary of loss_net
+2023-05-20 08:46:22,060 - root - INFO - Data:
+2023-05-20 08:46:22,060 - root - INFO -    pred: (20, 4, 1, 480, 480), 18432000
+2023-05-20 08:46:22,060 - root - INFO - State: None
+2023-05-20 08:46:22,060 - root - INFO - Param: None
+2023-05-20 08:46:22,060 - root - INFO - Aux States: None
+2023-05-20 08:46:22,060 - root - INFO - Total Param Num (exclude fixed ones): 0
+2023-05-20 08:46:22,060 - root - INFO - Total Fixed Param Num: 0
+2023-05-20 08:46:22,060 - root - INFO - Total Aux Param Num: 0
+2023-05-20 17:59:09,666 - root - INFO - Save YAML config file to ./cfg8.yml
+2023-05-20 17:59:09,729 - root - INFO - Initializing data iterator with filter threshold 0.28
+2023-05-20 17:59:09,734 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 17:59:09,734 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 17:59:09,735 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 17:59:09,735 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 17:59:09,736 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 17:59:09,737 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 17:59:09,737 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 17:59:09,738 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 17:59:09,738 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 17:59:09,740 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 17:59:09,740 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 17:59:09,741 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 17:59:09,741 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 17:59:09,741 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 17:59:09,742 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 17:59:09,743 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 17:59:09,743 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 17:59:09,743 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 17:59:48,694 - root - INFO - Save YAML config file to ./cfg9.yml
+2023-05-20 17:59:48,713 - root - INFO - Initializing data iterator with filter threshold 0.28
+2023-05-20 17:59:48,715 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 17:59:48,716 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 17:59:48,716 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 17:59:48,717 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 17:59:48,717 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 17:59:48,718 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 17:59:48,718 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 17:59:48,719 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 17:59:48,720 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 17:59:48,721 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 17:59:48,722 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 17:59:48,722 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 17:59:48,722 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 17:59:48,723 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 17:59:48,723 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 17:59:48,724 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 17:59:48,725 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 17:59:48,725 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:04:14,497 - root - INFO - Save YAML config file to ./cfg10.yml
+2023-05-20 18:04:14,517 - root - INFO - Initializing data iterator with filter threshold 0.28
+2023-05-20 18:04:14,518 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:04:14,519 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:04:14,519 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:04:14,520 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:04:14,521 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:04:14,521 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:04:14,522 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:04:14,522 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:04:14,523 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:04:14,524 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:04:14,525 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:04:14,526 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:04:14,526 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:04:14,527 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:04:14,527 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:04:14,528 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:04:14,529 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:04:14,529 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:04:35,653 - root - INFO - Save YAML config file to ./cfg11.yml
+2023-05-20 18:04:35,672 - root - INFO - Initializing data iterator with filter threshold 0.28
+2023-05-20 18:04:35,674 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:04:35,674 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:04:35,675 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:04:35,676 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:04:35,676 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:04:35,677 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:04:35,677 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:04:35,678 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:04:35,678 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:04:35,680 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:04:35,680 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:04:35,681 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:04:35,681 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:04:35,682 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:04:35,682 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:04:35,683 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:04:35,684 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:04:35,684 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:06:14,185 - root - INFO - Save YAML config file to ./cfg12.yml
+2023-05-20 18:06:14,205 - root - INFO - Initializing data iterator with filter threshold 0.28
+2023-05-20 18:06:14,206 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:06:14,207 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:06:14,207 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:06:14,208 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:06:14,209 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:06:14,209 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:06:14,210 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:06:14,210 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:06:14,211 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:06:14,212 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:06:14,212 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:06:14,213 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:06:14,214 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:06:14,214 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:06:14,215 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:06:14,215 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:06:14,216 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:06:14,216 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:08:30,435 - root - INFO - Save YAML config file to ./cfg13.yml
+2023-05-20 18:08:30,454 - root - INFO - Initializing data iterator with filter threshold 0.28
+2023-05-20 18:08:30,456 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:08:30,456 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:08:30,457 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:08:30,457 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:08:30,458 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:08:30,458 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:08:30,459 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:08:30,459 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:08:30,460 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:08:30,461 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:08:30,462 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:08:30,462 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:08:30,463 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:08:30,463 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:08:30,464 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:08:30,464 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:08:30,465 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:08:30,465 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:09:06,053 - root - INFO - Save YAML config file to ./cfg14.yml
+2023-05-20 18:09:06,073 - root - INFO - Initializing data iterator with filter threshold 0.28
+2023-05-20 18:09:06,075 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:09:06,075 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:09:06,076 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:09:06,076 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:09:06,077 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:09:06,077 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:09:06,078 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:09:06,078 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:09:06,079 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:09:06,080 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:09:06,081 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:09:06,081 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:09:06,082 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:09:06,082 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:09:06,083 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:09:06,084 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:09:06,084 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:09:06,085 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:09:42,818 - root - INFO - Save YAML config file to ./cfg15.yml
+2023-05-20 18:09:42,838 - root - INFO - Initializing data iterator with filter threshold 0.28
+2023-05-20 18:09:42,840 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:09:42,840 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:09:42,841 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:09:42,841 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:09:42,842 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:09:42,842 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:09:42,843 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:09:42,843 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:09:42,844 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:09:42,845 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:09:42,846 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:09:42,846 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:09:42,847 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:09:42,847 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:09:42,848 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:09:42,849 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:09:42,849 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:09:42,850 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:14:25,040 - root - INFO - Save YAML config file to ./cfg16.yml
+2023-05-20 18:14:25,060 - root - INFO - Initializing data iterator with filter threshold 0.28
+2023-05-20 18:14:25,061 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:14:25,062 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:14:25,062 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:14:25,063 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:14:25,064 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:14:25,064 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:14:25,065 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:14:25,065 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:14:25,066 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:14:25,067 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:14:25,068 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:14:25,068 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:14:25,069 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:14:25,069 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:14:25,070 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:14:25,070 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:14:25,071 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:14:25,071 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:15:13,715 - root - INFO - Save YAML config file to ./cfg17.yml
+2023-05-20 18:15:13,736 - root - INFO - Initializing data iterator with filter threshold 0.28
+2023-05-20 18:15:13,738 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:15:13,738 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:15:13,739 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:15:13,740 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:15:13,740 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:15:13,741 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:15:13,741 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:15:13,742 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:15:13,742 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:15:13,744 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:15:13,745 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:15:13,745 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:15:13,746 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:15:13,746 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:15:13,747 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:15:13,748 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:15:13,748 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:15:13,749 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:17:04,880 - root - INFO - Save YAML config file to ./cfg18.yml
+2023-05-20 18:17:04,900 - root - INFO - Initializing data iterator with filter threshold 0.28
+2023-05-20 18:17:04,902 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:17:04,903 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:17:04,903 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:17:04,904 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:17:04,904 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:17:04,905 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:17:04,905 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:17:04,906 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:17:04,907 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:17:04,908 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:17:04,908 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:17:04,909 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:17:04,909 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:17:04,910 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:17:04,910 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:17:04,911 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:17:04,911 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:17:04,912 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:18:51,077 - root - INFO - Save YAML config file to ./cfg19.yml
+2023-05-20 18:19:12,153 - root - INFO - Save YAML config file to ./cfg20.yml
+2023-05-20 18:19:28,280 - root - INFO - Save YAML config file to ./cfg21.yml
+2023-05-20 18:19:28,300 - root - INFO - Initializing data iterator with filter threshold 0.28
+2023-05-20 18:19:28,302 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:19:28,302 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:19:28,303 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:19:28,303 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:19:28,304 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:19:28,304 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:19:28,305 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:19:28,305 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:19:28,306 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:19:28,307 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:19:28,307 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:19:28,308 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:19:28,308 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:19:28,309 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:19:28,309 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:19:28,310 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:19:28,310 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:19:28,311 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:21:36,184 - root - INFO - Save YAML config file to ./cfg22.yml
+2023-05-20 18:21:36,204 - root - INFO - Initializing data iterator with filter threshold 0.28
+2023-05-20 18:21:36,205 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:21:36,206 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:21:36,207 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:21:36,207 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:21:36,208 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:21:36,208 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:21:36,209 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:21:36,209 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:21:36,210 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:21:36,211 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:21:36,212 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:21:36,212 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:21:36,213 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:21:36,213 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:21:36,214 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:21:36,214 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:21:36,215 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:21:36,216 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:22:17,801 - root - INFO - Save YAML config file to ./cfg23.yml
+2023-05-20 18:22:17,820 - root - INFO - Initializing data iterator with filter threshold 0.28
+2023-05-20 18:22:17,822 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:22:17,823 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:22:17,823 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:22:17,824 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:22:17,824 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:22:17,825 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:22:17,825 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:22:17,826 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:22:17,826 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:22:17,828 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:22:17,828 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:22:17,828 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:22:17,829 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:22:17,830 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:22:17,830 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:22:17,831 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:22:17,831 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:22:17,832 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:24:44,644 - root - INFO - Save YAML config file to ./cfg24.yml
+2023-05-20 18:24:44,664 - root - INFO - Initializing data iterator with filter threshold 0.28
+2023-05-20 18:24:44,665 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:24:44,666 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:24:44,666 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:24:44,667 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:24:44,668 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:24:44,668 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:24:44,669 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:24:44,669 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:24:44,670 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:24:44,671 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:24:44,672 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:24:44,672 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:24:44,673 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:24:44,673 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:24:44,674 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:24:44,675 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:24:44,675 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:24:44,676 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:25:27,582 - root - INFO - Save YAML config file to ./cfg25.yml
+2023-05-20 18:25:27,601 - root - INFO - Initializing data iterator with filter threshold 0.28
+2023-05-20 18:25:27,603 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:25:27,604 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:25:27,604 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:25:27,605 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:25:27,605 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:25:27,606 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:25:27,607 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:25:27,607 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:25:27,608 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:25:27,609 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:25:27,609 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:25:27,610 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:25:27,611 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:25:27,611 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:25:27,612 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:25:27,612 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:25:27,613 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:25:27,613 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:32:46,027 - root - INFO - Save YAML config file to ./cfg26.yml
+2023-05-20 18:32:46,047 - root - INFO - Initializing data iterator with filter threshold 0.28
+2023-05-20 18:32:46,049 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:32:46,049 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:32:46,050 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:32:46,050 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:32:46,051 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:32:46,051 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:32:46,052 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:32:46,052 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:32:46,053 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:32:46,054 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:32:46,055 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:32:46,055 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:32:46,056 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:32:46,056 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:32:46,057 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:32:46,058 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:32:46,058 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-20 18:32:46,059 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
