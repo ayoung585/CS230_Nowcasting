@@ -10,6 +10,9 @@ from nowcasting.utils import safe_eval, load_params
 def DFN(data, local_kernels, K, batch_size):
     """[NIPS2016] Dynamic Filter Network
 
+    In a traditional convolutional layer, the learned filters stay fixed after training. 
+    In contrast, the Dynamic Filter Network generate filters dynamically conditioned on an input.
+
     Parameters
     ----------
     data : mx.sym.symbol
@@ -45,7 +48,25 @@ def DFN(data, local_kernels, K, batch_size):
     return output
 
 
+
 def get_encoder_forecaster_rnn_blocks(batch_size):
+    """
+    Get the rnn block that we want for the encoder-forecaster structure.
+    Using TrajGRU for now since it's more effective. 
+    ConvRNN available in the original HKO-7 github repo.
+    For encoder-forecaster structure, 
+    see https://proceedings.neurips.cc/paper_files/paper/2017/file/a6db4ed04f1621a119799fd3d7545d3d-Paper.pdf
+
+    Parameters
+    ----------
+    batch_size : int
+        size of the minibatch
+    Returns
+    -------
+    encoder_rnn_blocks : list of TrajGRU rnn blocks
+    forecaster_rnn_blocks : list of TrajGRU rnn blocks
+    gan_rnn_blocks : list of TrajGRU rnn blocks
+    """
     encoder_rnn_blocks = []
     forecaster_rnn_blocks = []
     gan_rnn_blocks = []
@@ -56,6 +77,8 @@ def get_encoder_forecaster_rnn_blocks(batch_size):
         for i in range(len(CONFIG.NUM_FILTER)):
             name = "%s%d" % (block_prefix, i + 1)
             if CONFIG.LAYER_TYPE[i] == "TrajGRU":
+                # BaseStackRNN see nowcasting/operators/base_rnn.py
+                # TrajGRU see nowcasting/operators/traj_rnn.py
                 rnn_block = BaseStackRNN(base_rnn_class=TrajGRU,
                                          stack_num=CONFIG.STACK_NUM[i],
                                          name=name,
