@@ -1,6 +1,22 @@
 Nowcasting Deep Learning Model for TAASRAD19 dataset
 -----
 
+To activate the nowcasting virtualenv:
+```
+source nowcasting/bin/activate
+```
+## To change to 480x480 files:
+```
+cd /home/ubuntu/data/TAASRAD19/
+ln -s hdf_archives_480x480 hdf_archives
+```
+
+## To change to downsampled (240x240) files:
+```
+cd /home/ubuntu/data/TAASRAD19/
+ln -s hdf_archives_240x240 hdf_archives
+```
+
 Deep Learning Nowcasting Model for TAASRAD19 dataset.
 The model code is a based on the original release from: https://github.com/sxjscience/HKO-7
 
@@ -27,8 +43,8 @@ Training the model using the included configuration requires either one GPU with
 To train and validate the model on the years 2010 to 2016 with two GPUs run:
 ```
 python train.py \
-    --data_dir  /home/ubuntu/home/TAASRAD19/ \
-    --save_dir  . \
+    --data_dir  /home/ubuntu/data/TAASRAD19 \
+    --save_dir  /home/ubuntu/gitrepo/CS230_Nowcasting/deep_learning_nowcasting/trainOutput \
     --cfg  configurations/trajgru_55_55_33_1_64_1_192_1_192_13_13_9_b4.yml \
     --ctx  gpu \
     --date_start 2010-06-01 \
@@ -44,12 +60,12 @@ python predict.py \
     --model_cfg  pretrained_model/cfg0.yml \
     --model_dir  pretrained_model \
     --model_iter 99999 \
-    --save_dir  . \
-    --data_dir  /home/ubuntu/home/TAASRAD19/ \
+    --save_dir  /home/ubuntu/data/modelOut \
+    --data_dir  /home/ubuntu/data/TAASRAD19 \
     --date_start 2019-08-19 \
     --date_end   2019-08-20 \
     --ctx gpu \
-    --batch_size 2
+    --batch_size 4
 ```
 
 Use `python predict.py --help` to see all options
