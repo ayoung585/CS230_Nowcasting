@@ -153,3 +153,24 @@ While creating new venv, noticed that the disk was completely full. Upgraded dis
 - To see what package is already installed: ```pip3 list```
 
 Virtual environment can help us manage our packages. If you want your own environment with your desired packages, you can simply create your own virtual environment with ```virtualenv /tmp/<environment name>``` and then install the packages you want.
+
+## Other helpful stuff:
+
+check cuda version: 
+```
+nvcc-version
+```
+
+to keep track of nividia-smi interface:
+```
+watch -n0.1 nvidia-smi
+```
+
+To activate the environment, go to /home/ubuntu, then:
+
+source nowcasting/bin/activate
+
+
+## notes from running the training:
+
+using all years from 2010-2017 is prohibitively difficult: too much data, runs too slowly. 5+ min per day of data, so will take hours per iteration. Need each iteration to take less than 20 minutes!!! Cost $3/hr, budget roughly 50 experiments/iterations to try. Other chunk of time needed is for generating actual data!
