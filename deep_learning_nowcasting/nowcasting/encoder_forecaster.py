@@ -76,13 +76,41 @@ def get_encoder_forecaster_rnn_blocks(batch_size):
                               (gan_rnn_blocks, "dbrnn")]:
         for i in range(len(CONFIG.NUM_FILTER)):
             name = "%s%d" % (block_prefix, i + 1)
-            if CONFIG.LAYER_TYPE[i] == "TrajGRU":
+            if CONFIG.LAYER_TYPE[i] == "ConvGRU":
+                rnn_block = BaseStackRNN(base_rnn_class=ConvGRU,
+                                         stack_num=CONFIG.STACK_NUM[i],
+                                         name=name,
+                                         residual_connection=CONFIG.RES_CONNECTION,
+                                         num_filter=CONFIG.NUM_FILTER[i],
+                                         b_h_w=(batch_size,
+                                                cfg.MODEL.ENCODER_FORECASTER.FEATMAP_SIZE[i],
+                                                cfg.MODEL.ENCODER_FORECASTER.FEATMAP_SIZE[i]),
+                                         h2h_kernel=CONFIG.H2H_KERNEL[i],
+                                         h2h_dilate=CONFIG.H2H_DILATE[i],
+                                         i2h_kernel=CONFIG.I2H_KERNEL[i],
+                                         i2h_pad=CONFIG.I2H_PAD[i],
+                                         act_type=cfg.MODEL.RNN_ACT_TYPE)  
+            elif CONFIG.LAYER_TYPE[i] == "TrajGRU":
                 # BaseStackRNN see nowcasting/operators/base_rnn.py
                 # TrajGRU see nowcasting/operators/traj_rnn.py
                 rnn_block = BaseStackRNN(base_rnn_class=TrajGRU,
                                          stack_num=CONFIG.STACK_NUM[i],
                                          name=name,
                                          L=CONFIG.L[i],
+                                         residual_connection=CONFIG.RES_CONNECTION,
+                                         num_filter=CONFIG.NUM_FILTER[i],
+                                         b_h_w=(batch_size,
+                                                cfg.MODEL.ENCODER_FORECASTER.FEATMAP_SIZE[i],
+                                                cfg.MODEL.ENCODER_FORECASTER.FEATMAP_SIZE[i]),
+                                         h2h_kernel=CONFIG.H2H_KERNEL[i],
+                                         h2h_dilate=CONFIG.H2H_DILATE[i],
+                                         i2h_kernel=CONFIG.I2H_KERNEL[i],
+                                         i2h_pad=CONFIG.I2H_PAD[i],
+                                         act_type=cfg.MODEL.RNN_ACT_TYPE)
+            elif CONFIG.LAYER_TYPE[i] == "ConvLSTM":
+                rnn_block = BaseStackRNN(base_rnn_class=ConvLSTM,
+                                         stack_num=CONFIG.STACK_NUM[i],
+                                         name=name,
                                          residual_connection=CONFIG.RES_CONNECTION,
                                          num_filter=CONFIG.NUM_FILTER[i],
                                          b_h_w=(batch_size,

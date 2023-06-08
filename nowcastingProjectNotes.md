@@ -5,19 +5,14 @@
 The basic model we will work with takes an HDF5 file consisting of radar images of precipitation sequences and outputs a prediction of the future precipitation.
 
 From a single rain sequence, you can see noise artifacts (due to mountain peaks reflecting radar signal):
-![](RadarSeq20161101_0.gif)
+![](imgsAndGifs/RadarSeq20161101_0.gif)
 
 Therefore, the publishers apply an outlier mask as part of the data preprocessing, as below.
 
-![](mask.png)
+![](imgsAndGifs/mask.png)
 
-Next, they apply this mask to the MXNet nowcasting model.
-
-For data visualization, they use UMAP.
-
-### DGMR
-
-[Looking at the paper and code, I'm thinking we should skip this one and focus on just the TAASRAD19's native baseline model, as shown here. It seems to work decently well. Then, we can find some add'l loss function or extra data processing step to add "novelty"]
+One potential source of novelty is to update the mask.png file to account for regions of extreme radar beam blockage. 
+![](imgsAndGifs/new_mask.png)
 
 ## Interacting with data
 
@@ -174,3 +169,29 @@ source nowcasting/bin/activate
 ## notes from running the training:
 
 using all years from 2010-2017 is prohibitively difficult: too much data, runs too slowly. 5+ min per day of data, so will take hours per iteration. Need each iteration to take less than 20 minutes!!! Cost $3/hr, budget roughly 50 experiments/iterations to try. Other chunk of time needed is for generating actual data!
+
+## Experiments run 6/7/23:
+CG = ConvGRU
+
+TG = TrajGRU
+
+CL  = ConvLSTM
+
+PATH for train output: /home/ubuntu/gitrepo/CS230_Nowcasting/deep_learning_nowcasting
+
+PATH for model output: /home/ubuntu/data/modelOut/
+
+### [TG,TG,TG] [v2Mask] ITER = 9
+/trainOutput/baselineOutputwNewMask
+/home/ubuntu/data/modelOut/TGTGTG_v2Mask
+
+### [TG,TG,TG] [v2Mask] ITER = 50???
+/trainOutput/blOutNewMask_iterx
+<!-- /home/ubuntu/data/modelOut/TGTGTG_v2Mask -->
+
+### [TG,TG,TG] [v1Mask] ITER = 9
+/trainOutput/baselineOutput_v1Mask
+<!-- /home/ubuntu/data/modelOut/TGTGTG_v2Mask -->
+
+### [CG,CG,CG] [v2Mask]
+/trainOutput/convGRU_3x

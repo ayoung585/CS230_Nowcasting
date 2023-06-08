@@ -56,8 +56,8 @@ class DateWriter(object):
         self._save()
 
 
-# def radar_circle_mask(img_size=480):
-def radar_circle_mask(img_size=240):
+def radar_circle_mask(img_size=480):
+# def radar_circle_mask(img_size=240):
     radius = img_size / 2
     X, Y = np.ogrid[:img_size, :img_size]
     mask = np.sqrt(np.square(X - img_size / 2) + np.square(
@@ -116,6 +116,7 @@ def main(args):
         pred_frame = np.around(np.squeeze(pred_frame), decimals=3).astype(np.float32)
         out_frame = np.around(np.squeeze(out_frame), decimals=3).astype(np.float32)
         in_frame = np.around(np.squeeze(in_frame), decimals=3).astype(np.float32)
+        print(f'mask out shape is {mask_out.shape}')
 
         pred_frame[~mask_out] = np.nan
         out_frame[~mask_out] = np.nan

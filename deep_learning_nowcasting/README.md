@@ -44,11 +44,37 @@ To train and validate the model on the years 2010 to 2016 with two GPUs run:
 ```
 python train.py \
     --data_dir  /home/ubuntu/data/TAASRAD19 \
-    --save_dir  /home/ubuntu/gitrepo/CS230_Nowcasting/deep_learning_nowcasting/trainOutput \
+    --save_dir  /home/ubuntu/gitrepo/CS230_Nowcasting/deep_learning_nowcasting/trainOutput/baselineOutputwNewMask \
     --cfg  configurations/trajgru_55_55_33_1_64_1_192_1_192_13_13_9_b4.yml \
     --ctx  gpu \
     --date_start 2010-06-01 \
-    --date_end   2017-01-01
+    --date_end   2012-06-01
+
+python train.py \
+    --data_dir  /home/ubuntu/data/TAASRAD19 \
+    --save_dir  /home/ubuntu/gitrepo/CS230_Nowcasting/deep_learning_nowcasting/trainOutput/convGRU_3x \
+    --cfg  configurations/trajConvgru_55_55_33_1_64_1_192_1_192_13_13_9_b4.yml \
+    --ctx  gpu \
+    --date_start 2010-06-01 \
+    --date_end   2012-06-01
+
+python train.py \
+    --data_dir  /home/ubuntu/data/TAASRAD19 \
+    --save_dir  /home/ubuntu/gitrepo/CS230_Nowcasting/deep_learning_nowcasting/trainOutput/TG_CG_CG_v2Mask \
+    --cfg  configurations/TG_TG_TG.yml \
+    --ctx  gpu \
+    --date_start 2010-06-01 \
+    --date_end   2012-06-01
+
+  python train.py \
+    --data_dir  /home/ubuntu/data/TAASRAD19 \
+    --save_dir  /home/ubuntu/gitrepo/CS230_Nowcasting/deep_learning_nowcasting/trainOutput/TG_CL_TG_v2Mask_2 \
+    --cfg  configurations/trajConvlstm_55_55_33_1_64_1_192_1_192_13_13_9_b4.yml \
+    --ctx  gpu \
+    --date_start 2010-06-01 \
+    --date_end   2012-06-01
+  
+
 ```
 
 Use `python train.py --help` to see all options
@@ -60,10 +86,76 @@ python predict.py \
     --model_cfg  pretrained_model/cfg0.yml \
     --model_dir  pretrained_model \
     --model_iter 99999 \
-    --save_dir  /home/ubuntu/data/modelOut \
+    --save_dir  /home/ubuntu/data/modelOut/newMask \
     --data_dir  /home/ubuntu/data/TAASRAD19 \
-    --date_start 2019-08-19 \
-    --date_end   2019-08-20 \
+    --date_start 2016-11-01 \
+    --date_end   2016-11-03 \
+    --ctx gpu \
+    --batch_size 4
+
+    python predict.py \
+    --model_cfg  pretrained_model/cfg0.yml \
+    --model_dir  pretrained_model \
+    --model_iter 99999 \
+    --save_dir  /home/ubuntu/data/modelOut/baselineOutput_v1Mask_iter99999\
+    --data_dir  /home/ubuntu/data/TAASRAD19 \
+    --date_start 2017-03-01 \
+    --date_end   2017-03-05 \
+    --ctx gpu \
+    --batch_size 4
+    
+    python predict.py \
+    --model_cfg  trainOutput/baselineOutput_v1Mask/cfg0.yml \
+    --model_dir  trainOutput/baselineOutput_v1Mask \
+    --model_iter 9 \
+    --save_dir  /home/ubuntu/data/modelOut/baselineOutput_v1Mask\
+    --data_dir  /home/ubuntu/data/TAASRAD19 \
+    --date_start 2017-03-01 \
+    --date_end   2017-03-05 \
+    --ctx gpu \
+    --batch_size 4
+
+    python predict.py \
+    --model_cfg  trainOutput/TGTGTG_v2Mask/cfg0.yml \
+    --model_dir  trainOutput/TGTGTG_v2Mask \
+    --model_iter 0 \
+    --save_dir  /home/ubuntu/data/modelOut/TGTGTG_v2Mask_Iter0 \
+    --data_dir  /home/ubuntu/data/TAASRAD19 \
+    --date_start 2017-03-01 \
+    --date_end   2017-03-05 \
+    --ctx gpu \
+    --batch_size 4
+
+    python predict.py \
+    --model_cfg  trainOutput/convGRU_3x/cfg0.yml \
+    --model_dir  trainOutput/convGRU_3x \
+    --model_iter 9 \
+    --save_dir  /home/ubuntu/data/modelOut/convGRU_3x_v2Mask_Iter9 \
+    --data_dir  /home/ubuntu/data/TAASRAD19 \
+    --date_start 2017-03-01 \
+    --date_end   2017-03-05 \
+    --ctx gpu \
+    --batch_size 4
+
+    python predict.py \
+    --model_cfg  trainOutput/TGCLTG_v2Mask/cfg0.yml \
+    --model_dir  trainOutput/TGCLTG_v2Mask \
+    --model_iter 9 \
+    --save_dir  /home/ubuntu/data/modelOut/TGCLTG_v2Mask_Iter9 \
+    --data_dir  /home/ubuntu/data/TAASRAD19 \
+    --date_start 2017-03-04 \
+    --date_end   2017-03-05 \
+    --ctx gpu \
+    --batch_size 4
+
+    python predict.py \
+    --model_cfg  trainOutput/TGCLTG_v2Mask_2/cfg0.yml \
+    --model_dir  trainOutput/TGCLTG_v2Mask_2 \
+    --model_iter 48 \
+    --save_dir  /home/ubuntu/data/modelOut/TGCLTG_v2Mask_Iter48 \
+    --data_dir  /home/ubuntu/data/TAASRAD19 \
+    --date_start 2017-03-04 \
+    --date_end   2017-03-05 \
     --ctx gpu \
     --batch_size 4
 ```

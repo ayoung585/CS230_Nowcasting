@@ -1,0 +1,902 @@
+All Logs will be saved to /home/ubuntu/gitrepo/CS230_Nowcasting/deep_learning_nowcasting/modelOut/train.log
+2023-05-25 03:43:59,603 - root - INFO - Save YAML config file to /home/ubuntu/gitrepo/CS230_Nowcasting/deep_learning_nowcasting/modelOut/cfg6.yml
+2023-05-25 03:43:59,667 - root - INFO - Initializing data iterator with filter threshold 0.28
+ebrnn1_0_ 96 96
+2023-05-25 03:43:59,671 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+ebrnn2_0_ 32 32
+2023-05-25 03:43:59,671 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+ebrnn3_0_ 16 16
+2023-05-25 03:43:59,672 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+fbrnn1_0_ 96 96
+2023-05-25 03:43:59,672 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+fbrnn2_0_ 32 32
+2023-05-25 03:43:59,672 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+fbrnn3_0_ 16 16
+2023-05-25 03:43:59,673 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+dbrnn1_0_ 96 96
+2023-05-25 03:43:59,673 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+dbrnn2_0_ 32 32
+2023-05-25 03:43:59,673 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+dbrnn3_0_ 16 16
+2023-05-25 03:43:59,674 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+ebrnn1_0_ 96 96
+2023-05-25 03:43:59,675 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+ebrnn2_0_ 32 32
+2023-05-25 03:43:59,675 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+ebrnn3_0_ 16 16
+2023-05-25 03:43:59,675 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+fbrnn1_0_ 96 96
+2023-05-25 03:43:59,676 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+fbrnn2_0_ 32 32
+2023-05-25 03:43:59,676 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+fbrnn3_0_ 16 16
+2023-05-25 03:43:59,676 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+dbrnn1_0_ 96 96
+2023-05-25 03:43:59,677 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+dbrnn2_0_ 32 32
+2023-05-25 03:43:59,677 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+dbrnn3_0_ 16 16
+2023-05-25 03:43:59,677 - root - INFO - TrajGRU: Initialize Grid Using Zeros!
+2023-05-25 03:44:06,689 - root - INFO - Summary of encoder_net
+2023-05-25 03:44:06,689 - root - INFO - Data:
+2023-05-25 03:44:06,689 - root - INFO -    data: (5, 4, 1, 480, 480), 4608000
+2023-05-25 03:44:06,689 - root - INFO -    ebrnn1_begin_state_h: (4, 64, 96, 96), 2359296
+2023-05-25 03:44:06,690 - root - INFO -    ebrnn2_begin_state_h: (4, 192, 32, 32), 786432
+2023-05-25 03:44:06,690 - root - INFO -    ebrnn3_begin_state_h: (4, 192, 16, 16), 196608
+2023-05-25 03:44:06,690 - root - INFO - State: None
+2023-05-25 03:44:06,690 - root - INFO - Params:
+2023-05-25 03:44:06,690 - root - INFO -    econv1_weight: (8, 4, 7, 7), 1568, req = write
+2023-05-25 03:44:06,690 - root - INFO -    econv1_bias: (8,), 8, req = write
+2023-05-25 03:44:06,690 - root - INFO -    ebrnn1_0_i2h_weight: (192, 8, 3, 3), 13824, req = write
+2023-05-25 03:44:06,690 - root - INFO -    ebrnn1_0_i2h_bias: (192,), 192, req = write
+2023-05-25 03:44:06,691 - root - INFO -    ebrnn1_0_i2f_conv1_weight: (32, 8, 5, 5), 6400, req = write
+2023-05-25 03:44:06,691 - root - INFO -    ebrnn1_0_i2f_conv1_bias: (32,), 32, req = write
+2023-05-25 03:44:06,691 - root - INFO -    ebrnn1_0_h2f_conv1_weight: (32, 64, 5, 5), 51200, req = write
+2023-05-25 03:44:06,691 - root - INFO -    ebrnn1_0_h2f_conv1_bias: (32,), 32, req = write
+2023-05-25 03:44:06,691 - root - INFO -    ebrnn1_0_f_out_weight: (26, 32, 5, 5), 20800, req = write
+2023-05-25 03:44:06,691 - root - INFO -    ebrnn1_0_f_out_bias: (26,), 26, req = write
+2023-05-25 03:44:06,691 - root - INFO -    ebrnn1_0_h2h_weight: (192, 832, 1, 1), 159744, req = write
+2023-05-25 03:44:06,691 - root - INFO -    ebrnn1_0_h2h_bias: (192,), 192, req = write
+2023-05-25 03:44:06,692 - root - INFO -    edown1_conv_weight: (192, 64, 5, 5), 307200, req = write
+2023-05-25 03:44:06,692 - root - INFO -    edown1_conv_bias: (192,), 192, req = write
+2023-05-25 03:44:06,692 - root - INFO -    ebrnn2_0_i2h_weight: (576, 192, 3, 3), 995328, req = write
+2023-05-25 03:44:06,692 - root - INFO -    ebrnn2_0_i2h_bias: (576,), 576, req = write
+2023-05-25 03:44:06,692 - root - INFO -    ebrnn2_0_i2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-25 03:44:06,692 - root - INFO -    ebrnn2_0_i2f_conv1_bias: (32,), 32, req = write
+2023-05-25 03:44:06,693 - root - INFO -    ebrnn2_0_h2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-25 03:44:06,693 - root - INFO -    ebrnn2_0_h2f_conv1_bias: (32,), 32, req = write
+2023-05-25 03:44:06,693 - root - INFO -    ebrnn2_0_f_out_weight: (26, 32, 5, 5), 20800, req = write
+2023-05-25 03:44:06,693 - root - INFO -    ebrnn2_0_f_out_bias: (26,), 26, req = write
+2023-05-25 03:44:06,693 - root - INFO -    ebrnn2_0_h2h_weight: (576, 2496, 1, 1), 1437696, req = write
+2023-05-25 03:44:06,694 - root - INFO -    ebrnn2_0_h2h_bias: (576,), 576, req = write
+2023-05-25 03:44:06,694 - root - INFO -    edown2_conv_weight: (192, 192, 3, 3), 331776, req = write
+2023-05-25 03:44:06,694 - root - INFO -    edown2_conv_bias: (192,), 192, req = write
+2023-05-25 03:44:06,694 - root - INFO -    ebrnn3_0_i2h_weight: (576, 192, 3, 3), 995328, req = write
+2023-05-25 03:44:06,694 - root - INFO -    ebrnn3_0_i2h_bias: (576,), 576, req = write
+2023-05-25 03:44:06,695 - root - INFO -    ebrnn3_0_i2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-25 03:44:06,695 - root - INFO -    ebrnn3_0_i2f_conv1_bias: (32,), 32, req = write
+2023-05-25 03:44:06,695 - root - INFO -    ebrnn3_0_h2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-25 03:44:06,695 - root - INFO -    ebrnn3_0_h2f_conv1_bias: (32,), 32, req = write
+2023-05-25 03:44:06,695 - root - INFO -    ebrnn3_0_f_out_weight: (18, 32, 5, 5), 14400, req = write
+2023-05-25 03:44:06,695 - root - INFO -    ebrnn3_0_f_out_bias: (18,), 18, req = write
+2023-05-25 03:44:06,696 - root - INFO -    ebrnn3_0_h2h_weight: (576, 1728, 1, 1), 995328, req = write
+2023-05-25 03:44:06,696 - root - INFO -    ebrnn3_0_h2h_bias: (576,), 576, req = write
+2023-05-25 03:44:06,696 - root - INFO - Aux States: None
+2023-05-25 03:44:06,696 - root - INFO - Total Param Num (exclude fixed ones): 5969134
+2023-05-25 03:44:06,696 - root - INFO - Total Fixed Param Num: 0
+2023-05-25 03:44:06,696 - root - INFO - Total Aux Param Num: 0
+2023-05-25 03:44:06,696 - root - INFO - Summary of forecaster_net
+2023-05-25 03:44:06,697 - root - INFO - Data:
+2023-05-25 03:44:06,697 - root - INFO -    fbrnn1_begin_state_h: (4, 64, 96, 96), 2359296
+2023-05-25 03:44:06,697 - root - INFO -    fbrnn2_begin_state_h: (4, 192, 32, 32), 786432
+2023-05-25 03:44:06,697 - root - INFO -    fbrnn3_begin_state_h: (4, 192, 16, 16), 196608
+2023-05-25 03:44:06,697 - root - INFO - State: None
+2023-05-25 03:44:06,697 - root - INFO - Params:
+2023-05-25 03:44:06,697 - root - INFO -    fbrnn3_0_h2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-25 03:44:06,697 - root - INFO -    fbrnn3_0_h2f_conv1_bias: (32,), 32, req = write
+2023-05-25 03:44:06,698 - root - INFO -    fbrnn3_0_f_out_weight: (18, 32, 5, 5), 14400, req = write
+2023-05-25 03:44:06,698 - root - INFO -    fbrnn3_0_f_out_bias: (18,), 18, req = write
+2023-05-25 03:44:06,698 - root - INFO -    fbrnn3_0_h2h_weight: (576, 1728, 1, 1), 995328, req = write
+2023-05-25 03:44:06,698 - root - INFO -    fbrnn3_0_h2h_bias: (576,), 576, req = write
+2023-05-25 03:44:06,698 - root - INFO -    fup2_deconv_weight: (192, 192, 4, 4), 589824, req = write
+2023-05-25 03:44:06,698 - root - INFO -    fbrnn2_0_i2h_weight: (576, 192, 3, 3), 995328, req = write
+2023-05-25 03:44:06,699 - root - INFO -    fbrnn2_0_i2h_bias: (576,), 576, req = write
+2023-05-25 03:44:06,699 - root - INFO -    fbrnn2_0_i2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-25 03:44:06,699 - root - INFO -    fbrnn2_0_i2f_conv1_bias: (32,), 32, req = write
+2023-05-25 03:44:06,699 - root - INFO -    fbrnn2_0_h2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-25 03:44:06,699 - root - INFO -    fbrnn2_0_h2f_conv1_bias: (32,), 32, req = write
+2023-05-25 03:44:06,699 - root - INFO -    fbrnn2_0_f_out_weight: (26, 32, 5, 5), 20800, req = write
+2023-05-25 03:44:06,700 - root - INFO -    fbrnn2_0_f_out_bias: (26,), 26, req = write
+2023-05-25 03:44:06,700 - root - INFO -    fbrnn2_0_h2h_weight: (576, 2496, 1, 1), 1437696, req = write
+2023-05-25 03:44:06,700 - root - INFO -    fbrnn2_0_h2h_bias: (576,), 576, req = write
+2023-05-25 03:44:06,700 - root - INFO -    fup1_deconv_weight: (192, 192, 5, 5), 921600, req = write
+2023-05-25 03:44:06,700 - root - INFO -    fbrnn1_0_i2h_weight: (192, 192, 3, 3), 331776, req = write
+2023-05-25 03:44:06,701 - root - INFO -    fbrnn1_0_i2h_bias: (192,), 192, req = write
+2023-05-25 03:44:06,701 - root - INFO -    fbrnn1_0_i2f_conv1_weight: (32, 192, 5, 5), 153600, req = write
+2023-05-25 03:44:06,701 - root - INFO -    fbrnn1_0_i2f_conv1_bias: (32,), 32, req = write
+2023-05-25 03:44:06,701 - root - INFO -    fbrnn1_0_h2f_conv1_weight: (32, 64, 5, 5), 51200, req = write
+2023-05-25 03:44:06,701 - root - INFO -    fbrnn1_0_h2f_conv1_bias: (32,), 32, req = write
+2023-05-25 03:44:06,702 - root - INFO -    fbrnn1_0_f_out_weight: (26, 32, 5, 5), 20800, req = write
+2023-05-25 03:44:06,702 - root - INFO -    fbrnn1_0_f_out_bias: (26,), 26, req = write
+2023-05-25 03:44:06,702 - root - INFO -    fbrnn1_0_h2h_weight: (192, 832, 1, 1), 159744, req = write
+2023-05-25 03:44:06,702 - root - INFO -    fbrnn1_0_h2h_bias: (192,), 192, req = write
+2023-05-25 03:44:06,702 - root - INFO -    fdeconv1_weight: (64, 8, 7, 7), 25088, req = write
+2023-05-25 03:44:06,702 - root - INFO -    conv_final_weight: (8, 8, 3, 3), 576, req = write
+2023-05-25 03:44:06,703 - root - INFO -    conv_final_bias: (8,), 8, req = write
+2023-05-25 03:44:06,703 - root - INFO -    out_weight: (1, 8, 1, 1), 8, req = write
+2023-05-25 03:44:06,703 - root - INFO -    out_bias: (1,), 1, req = write
+2023-05-25 03:44:06,703 - root - INFO - Aux States: None
+2023-05-25 03:44:06,703 - root - INFO - Total Param Num (exclude fixed ones): 6180919
+2023-05-25 03:44:06,703 - root - INFO - Total Fixed Param Num: 0
+2023-05-25 03:44:06,703 - root - INFO - Total Aux Param Num: 0
+2023-05-25 03:44:06,704 - root - INFO - Summary of loss_net
+2023-05-25 03:44:06,704 - root - INFO - Data:
+2023-05-25 03:44:06,704 - root - INFO -    pred: (20, 4, 1, 480, 480), 18432000
+2023-05-25 03:44:06,704 - root - INFO - State: None
+2023-05-25 03:44:06,704 - root - INFO - Param: None
+2023-05-25 03:44:06,704 - root - INFO - Aux States: None
+2023-05-25 03:44:06,704 - root - INFO - Total Param Num (exclude fixed ones): 0
+2023-05-25 03:44:06,704 - root - INFO - Total Fixed Param Num: 0
+2023-05-25 03:44:06,704 - root - INFO - Total Aux Param Num: 0
+start_datetime    2011-12-22 00:00:00
+end_datetime      2011-12-22 23:55:00
+run_length                        288
+avg_cell_value               0.844727
+tags                             rain
+Name: 201, dtype: object
+[03:44:09] src/operator/nn/./cudnn/./cudnn_algoreg-inl.h:97: Running performance tests to find the best convolution algorithm, this can take a while... (set the environment variable MXNET_CUDNN_AUTOTUNE_DEFAULT to 0 to disable)
+[03:44:11] src/operator/nn/./cudnn/./cudnn_algoreg-inl.h:97: Running performance tests to find the best convolution algorithm, this can take a while... (set the environment variable MXNET_CUDNN_AUTOTUNE_DEFAULT to 0 to disable)
+2023-05-25 03:44:14,687 - root - INFO - Iter:0, mse_output=148.644, mae_output=1822.16, gdl_output=3716.19, e_gnorm=0.181267, f_gnorm=2.16936
+2023-05-25 03:44:14,797 - root - INFO - Saved checkpoint to "/home/ubuntu/gitrepo/CS230_Nowcasting/deep_learning_nowcasting/modelOut/encoder_net-0000.params"
+2023-05-25 03:44:14,898 - root - INFO - Saved checkpoint to "/home/ubuntu/gitrepo/CS230_Nowcasting/deep_learning_nowcasting/modelOut/forecaster_net-0000.params"
+start_datetime    2011-11-05 08:00:00
+end_datetime      2011-11-05 11:00:00
+run_length                         37
+avg_cell_value               1.618164
+tags                        rain snow
+Name: 186, dtype: object
+2023-05-25 03:44:14,957 - root - INFO - Begin Evaluation, mode=fixed, finetune=False, sample_num=1, results will be saved to /home/ubuntu/gitrepo/CS230_Nowcasting/deep_learning_nowcasting/modelOut/iter1_valid
+[03:44:16] src/operator/nn/./cudnn/./cudnn_algoreg-inl.h:97: Running performance tests to find the best convolution algorithm, this can take a while... (set the environment variable MXNET_CUDNN_AUTOTUNE_DEFAULT to 0 to disable)
+start_datetime    2011-10-07 00:00:00
+end_datetime      2011-10-07 04:40:00
+run_length                         57
+avg_cell_value               7.191406
+tags                       rain storm
+Name: 169, dtype: object
+start_datetime    2011-09-19 00:00:00
+end_datetime      2011-09-19 23:55:00
+run_length                        288
+avg_cell_value               3.890625
+tags                        rain snow
+Name: 167, dtype: object
+start_datetime    2011-08-07 09:50:00
+end_datetime      2011-08-07 23:55:00
+run_length                        170
+avg_cell_value               2.771484
+tags                             rain
+Name: 151, dtype: object
+start_datetime    2011-08-07 00:00:00
+end_datetime      2011-08-07 09:40:00
+run_length                        117
+avg_cell_value               1.044922
+tags                             rain
+Name: 150, dtype: object
+start_datetime    2011-07-01 00:00:00
+end_datetime      2011-07-01 23:55:00
+run_length                        288
+avg_cell_value               0.519043
+tags                         downpour
+Name: 123, dtype: object
+start_datetime    2011-06-04 00:00:00
+end_datetime      2011-06-04 19:20:00
+run_length                        233
+avg_cell_value               1.172852
+tags                   storm downpour
+Name: 98, dtype: object
+start_datetime    2011-06-03 15:10:00
+end_datetime      2011-06-03 23:55:00
+run_length                        106
+avg_cell_value               1.493164
+tags                             rain
+Name: 97, dtype: object
+start_datetime    2011-05-28 00:00:00
+end_datetime      2011-05-28 17:20:00
+run_length                        209
+avg_cell_value               0.725586
+tags                             rain
+Name: 93, dtype: object
+start_datetime    2011-05-01 12:35:00
+end_datetime      2011-05-01 15:45:00
+run_length                         39
+avg_cell_value               2.751953
+tags                   storm downpour
+Name: 82, dtype: object
+start_datetime    2010-11-01 13:50:00
+end_datetime      2010-11-01 23:55:00
+run_length                        122
+avg_cell_value               3.693359
+tags                        rain snow
+Name: 1, dtype: object
+Exhausted!
+/home/ubuntu/gitrepo/CS230_Nowcasting/deep_learning_nowcasting/nowcasting/radar_evaluation.py:324: RuntimeWarning: invalid value encountered in true_divide
+  far = b / (a + b)
+2023-05-25 04:02:43,797 - root - INFO - Saving readable txt of RadarEvaluation to /home/ubuntu/gitrepo/CS230_Nowcasting/deep_learning_nowcasting/modelOut/iter1_valid/eval_all.txt
+2023-05-25 04:02:43,797 - root - INFO - Saving RadarEvaluation to /home/ubuntu/gitrepo/CS230_Nowcasting/deep_learning_nowcasting/modelOut/iter1_valid/eval_all.pkl
+2023-05-25 04:02:46,736 - root - INFO - Iter:1, mse_output=126.541, mae_output=1378.49, gdl_output=2915.61, e_gnorm=0.134547, f_gnorm=0.775326
+2023-05-25 04:02:46,781 - root - INFO - Saved checkpoint to "/home/ubuntu/gitrepo/CS230_Nowcasting/deep_learning_nowcasting/modelOut/encoder_net-0001.params"
+2023-05-25 04:02:46,842 - root - INFO - Saved checkpoint to "/home/ubuntu/gitrepo/CS230_Nowcasting/deep_learning_nowcasting/modelOut/forecaster_net-0001.params"
+start_datetime    2011-11-05 08:00:00
+end_datetime      2011-11-05 11:00:00
+run_length                         37
+avg_cell_value               1.618164
+tags                        rain snow
+Name: 186, dtype: object
+2023-05-25 04:02:46,900 - root - INFO - Begin Evaluation, mode=fixed, finetune=False, sample_num=1, results will be saved to /home/ubuntu/gitrepo/CS230_Nowcasting/deep_learning_nowcasting/modelOut/iter2_valid
+start_datetime    2011-10-07 00:00:00
+end_datetime      2011-10-07 04:40:00
+run_length                         57
+avg_cell_value               7.191406
+tags                       rain storm
+Name: 169, dtype: object
+start_datetime    2011-09-19 00:00:00
+end_datetime      2011-09-19 23:55:00
+run_length                        288
+avg_cell_value               3.890625
+tags                        rain snow
+Name: 167, dtype: object
+start_datetime    2011-08-07 09:50:00
+end_datetime      2011-08-07 23:55:00
+run_length                        170
+avg_cell_value               2.771484
+tags                             rain
+Name: 151, dtype: object
+start_datetime    2011-08-07 00:00:00
+end_datetime      2011-08-07 09:40:00
+run_length                        117
+avg_cell_value               1.044922
+tags                             rain
+Name: 150, dtype: object
+start_datetime    2011-07-01 00:00:00
+end_datetime      2011-07-01 23:55:00
+run_length                        288
+avg_cell_value               0.519043
+tags                         downpour
+Name: 123, dtype: object
+start_datetime    2011-06-04 00:00:00
+end_datetime      2011-06-04 19:20:00
+run_length                        233
+avg_cell_value               1.172852
+tags                   storm downpour
+Name: 98, dtype: object
+start_datetime    2011-06-03 15:10:00
+end_datetime      2011-06-03 23:55:00
+run_length                        106
+avg_cell_value               1.493164
+tags                             rain
+Name: 97, dtype: object
+start_datetime    2011-05-28 00:00:00
+end_datetime      2011-05-28 17:20:00
+run_length                        209
+avg_cell_value               0.725586
+tags                             rain
+Name: 93, dtype: object
+start_datetime    2011-05-01 12:35:00
+end_datetime      2011-05-01 15:45:00
+run_length                         39
+avg_cell_value               2.751953
+tags                   storm downpour
+Name: 82, dtype: object
+start_datetime    2010-11-01 13:50:00
+end_datetime      2010-11-01 23:55:00
+run_length                        122
+avg_cell_value               3.693359
+tags                        rain snow
+Name: 1, dtype: object
+Exhausted!
+2023-05-25 04:21:16,122 - root - INFO - Saving readable txt of RadarEvaluation to /home/ubuntu/gitrepo/CS230_Nowcasting/deep_learning_nowcasting/modelOut/iter2_valid/eval_all.txt
+2023-05-25 04:21:16,122 - root - INFO - Saving RadarEvaluation to /home/ubuntu/gitrepo/CS230_Nowcasting/deep_learning_nowcasting/modelOut/iter2_valid/eval_all.pkl
+2023-05-25 04:21:19,058 - root - INFO - Iter:2, mse_output=110.215, mae_output=1124.04, gdl_output=2395.42, e_gnorm=0.103713, f_gnorm=0.438061
+2023-05-25 04:21:19,095 - root - INFO - Saved checkpoint to "/home/ubuntu/gitrepo/CS230_Nowcasting/deep_learning_nowcasting/modelOut/encoder_net-0002.params"
+2023-05-25 04:21:19,150 - root - INFO - Saved checkpoint to "/home/ubuntu/gitrepo/CS230_Nowcasting/deep_learning_nowcasting/modelOut/forecaster_net-0002.params"
+start_datetime    2011-11-05 08:00:00
+end_datetime      2011-11-05 11:00:00
+run_length                         37
+avg_cell_value               1.618164
+tags                        rain snow
+Name: 186, dtype: object
+2023-05-25 04:21:19,210 - root - INFO - Begin Evaluation, mode=fixed, finetune=False, sample_num=1, results will be saved to /home/ubuntu/gitrepo/CS230_Nowcasting/deep_learning_nowcasting/modelOut/iter3_valid
+start_datetime    2011-10-07 00:00:00
+end_datetime      2011-10-07 04:40:00
+run_length                         57
+avg_cell_value               7.191406
+tags                       rain storm
+Name: 169, dtype: object
+start_datetime    2011-09-19 00:00:00
+end_datetime      2011-09-19 23:55:00
+run_length                        288
+avg_cell_value               3.890625
+tags                        rain snow
+Name: 167, dtype: object
+start_datetime    2011-08-07 09:50:00
+end_datetime      2011-08-07 23:55:00
+run_length                        170
+avg_cell_value               2.771484
+tags                             rain
+Name: 151, dtype: object
+start_datetime    2011-08-07 00:00:00
+end_datetime      2011-08-07 09:40:00
+run_length                        117
+avg_cell_value               1.044922
+tags                             rain
+Name: 150, dtype: object
+start_datetime    2011-07-01 00:00:00
+end_datetime      2011-07-01 23:55:00
+run_length                        288
+avg_cell_value               0.519043
+tags                         downpour
+Name: 123, dtype: object
+start_datetime    2011-06-04 00:00:00
+end_datetime      2011-06-04 19:20:00
+run_length                        233
+avg_cell_value               1.172852
+tags                   storm downpour
+Name: 98, dtype: object
+start_datetime    2011-06-03 15:10:00
+end_datetime      2011-06-03 23:55:00
+run_length                        106
+avg_cell_value               1.493164
+tags                             rain
+Name: 97, dtype: object
+start_datetime    2011-05-28 00:00:00
+end_datetime      2011-05-28 17:20:00
+run_length                        209
+avg_cell_value               0.725586
+tags                             rain
+Name: 93, dtype: object
+start_datetime    2011-05-01 12:35:00
+end_datetime      2011-05-01 15:45:00
+run_length                         39
+avg_cell_value               2.751953
+tags                   storm downpour
+Name: 82, dtype: object
+start_datetime    2010-11-01 13:50:00
+end_datetime      2010-11-01 23:55:00
+run_length                        122
+avg_cell_value               3.693359
+tags                        rain snow
+Name: 1, dtype: object
+Exhausted!
+2023-05-25 04:39:45,835 - root - INFO - Saving readable txt of RadarEvaluation to /home/ubuntu/gitrepo/CS230_Nowcasting/deep_learning_nowcasting/modelOut/iter3_valid/eval_all.txt
+2023-05-25 04:39:45,836 - root - INFO - Saving RadarEvaluation to /home/ubuntu/gitrepo/CS230_Nowcasting/deep_learning_nowcasting/modelOut/iter3_valid/eval_all.pkl
+2023-05-25 04:39:48,771 - root - INFO - Iter:3, mse_output=97.7954, mae_output=930.74, gdl_output=1942.91, e_gnorm=0.0826415, f_gnorm=0.628684
+2023-05-25 04:39:48,806 - root - INFO - Saved checkpoint to "/home/ubuntu/gitrepo/CS230_Nowcasting/deep_learning_nowcasting/modelOut/encoder_net-0003.params"
+2023-05-25 04:39:48,859 - root - INFO - Saved checkpoint to "/home/ubuntu/gitrepo/CS230_Nowcasting/deep_learning_nowcasting/modelOut/forecaster_net-0003.params"
+start_datetime    2011-11-05 08:00:00
+end_datetime      2011-11-05 11:00:00
+run_length                         37
+avg_cell_value               1.618164
+tags                        rain snow
+Name: 186, dtype: object
+2023-05-25 04:39:48,916 - root - INFO - Begin Evaluation, mode=fixed, finetune=False, sample_num=1, results will be saved to /home/ubuntu/gitrepo/CS230_Nowcasting/deep_learning_nowcasting/modelOut/iter4_valid
+start_datetime    2011-10-07 00:00:00
+end_datetime      2011-10-07 04:40:00
+run_length                         57
+avg_cell_value               7.191406
+tags                       rain storm
+Name: 169, dtype: object
+start_datetime    2011-09-19 00:00:00
+end_datetime      2011-09-19 23:55:00
+run_length                        288
+avg_cell_value               3.890625
+tags                        rain snow
+Name: 167, dtype: object
+start_datetime    2011-08-07 09:50:00
+end_datetime      2011-08-07 23:55:00
+run_length                        170
+avg_cell_value               2.771484
+tags                             rain
+Name: 151, dtype: object
+start_datetime    2011-08-07 00:00:00
+end_datetime      2011-08-07 09:40:00
+run_length                        117
+avg_cell_value               1.044922
+tags                             rain
+Name: 150, dtype: object
+start_datetime    2011-07-01 00:00:00
+end_datetime      2011-07-01 23:55:00
+run_length                        288
+avg_cell_value               0.519043
+tags                         downpour
+Name: 123, dtype: object
+start_datetime    2011-06-04 00:00:00
+end_datetime      2011-06-04 19:20:00
+run_length                        233
+avg_cell_value               1.172852
+tags                   storm downpour
+Name: 98, dtype: object
+start_datetime    2011-06-03 15:10:00
+end_datetime      2011-06-03 23:55:00
+run_length                        106
+avg_cell_value               1.493164
+tags                             rain
+Name: 97, dtype: object
+start_datetime    2011-05-28 00:00:00
+end_datetime      2011-05-28 17:20:00
+run_length                        209
+avg_cell_value               0.725586
+tags                             rain
+Name: 93, dtype: object
+start_datetime    2011-05-01 12:35:00
+end_datetime      2011-05-01 15:45:00
+run_length                         39
+avg_cell_value               2.751953
+tags                   storm downpour
+Name: 82, dtype: object
+start_datetime    2010-11-01 13:50:00
+end_datetime      2010-11-01 23:55:00
+run_length                        122
+avg_cell_value               3.693359
+tags                        rain snow
+Name: 1, dtype: object
+Exhausted!
+2023-05-25 04:58:11,543 - root - INFO - Saving readable txt of RadarEvaluation to /home/ubuntu/gitrepo/CS230_Nowcasting/deep_learning_nowcasting/modelOut/iter4_valid/eval_all.txt
+2023-05-25 04:58:11,544 - root - INFO - Saving RadarEvaluation to /home/ubuntu/gitrepo/CS230_Nowcasting/deep_learning_nowcasting/modelOut/iter4_valid/eval_all.pkl
+2023-05-25 04:58:14,488 - root - INFO - Iter:4, mse_output=96.1247, mae_output=778.463, gdl_output=1559.49, e_gnorm=0.0648011, f_gnorm=0.755306
+2023-05-25 04:58:14,525 - root - INFO - Saved checkpoint to "/home/ubuntu/gitrepo/CS230_Nowcasting/deep_learning_nowcasting/modelOut/encoder_net-0004.params"
+2023-05-25 04:58:14,580 - root - INFO - Saved checkpoint to "/home/ubuntu/gitrepo/CS230_Nowcasting/deep_learning_nowcasting/modelOut/forecaster_net-0004.params"
+start_datetime    2011-11-05 08:00:00
+end_datetime      2011-11-05 11:00:00
+run_length                         37
+avg_cell_value               1.618164
+tags                        rain snow
+Name: 186, dtype: object
+2023-05-25 04:58:14,638 - root - INFO - Begin Evaluation, mode=fixed, finetune=False, sample_num=1, results will be saved to /home/ubuntu/gitrepo/CS230_Nowcasting/deep_learning_nowcasting/modelOut/iter5_valid
+start_datetime    2011-10-07 00:00:00
+end_datetime      2011-10-07 04:40:00
+run_length                         57
+avg_cell_value               7.191406
+tags                       rain storm
+Name: 169, dtype: object
+start_datetime    2011-09-19 00:00:00
+end_datetime      2011-09-19 23:55:00
+run_length                        288
+avg_cell_value               3.890625
+tags                        rain snow
+Name: 167, dtype: object
+start_datetime    2011-08-07 09:50:00
+end_datetime      2011-08-07 23:55:00
+run_length                        170
+avg_cell_value               2.771484
+tags                             rain
+Name: 151, dtype: object
+start_datetime    2011-08-07 00:00:00
+end_datetime      2011-08-07 09:40:00
+run_length                        117
+avg_cell_value               1.044922
+tags                             rain
+Name: 150, dtype: object
+start_datetime    2011-07-01 00:00:00
+end_datetime      2011-07-01 23:55:00
+run_length                        288
+avg_cell_value               0.519043
+tags                         downpour
+Name: 123, dtype: object
+start_datetime    2011-06-04 00:00:00
+end_datetime      2011-06-04 19:20:00
+run_length                        233
+avg_cell_value               1.172852
+tags                   storm downpour
+Name: 98, dtype: object
+start_datetime    2011-06-03 15:10:00
+end_datetime      2011-06-03 23:55:00
+run_length                        106
+avg_cell_value               1.493164
+tags                             rain
+Name: 97, dtype: object
+start_datetime    2011-05-28 00:00:00
+end_datetime      2011-05-28 17:20:00
+run_length                        209
+avg_cell_value               0.725586
+tags                             rain
+Name: 93, dtype: object
+start_datetime    2011-05-01 12:35:00
+end_datetime      2011-05-01 15:45:00
+run_length                         39
+avg_cell_value               2.751953
+tags                   storm downpour
+Name: 82, dtype: object
+start_datetime    2010-11-01 13:50:00
+end_datetime      2010-11-01 23:55:00
+run_length                        122
+avg_cell_value               3.693359
+tags                        rain snow
+Name: 1, dtype: object
+Exhausted!
+2023-05-25 05:16:33,496 - root - INFO - Saving readable txt of RadarEvaluation to /home/ubuntu/gitrepo/CS230_Nowcasting/deep_learning_nowcasting/modelOut/iter5_valid/eval_all.txt
+2023-05-25 05:16:33,496 - root - INFO - Saving RadarEvaluation to /home/ubuntu/gitrepo/CS230_Nowcasting/deep_learning_nowcasting/modelOut/iter5_valid/eval_all.pkl
+2023-05-25 05:16:36,430 - root - INFO - Iter:5, mse_output=90.4375, mae_output=648.257, gdl_output=1274.84, e_gnorm=0.0506536, f_gnorm=0.655162
+2023-05-25 05:16:36,470 - root - INFO - Saved checkpoint to "/home/ubuntu/gitrepo/CS230_Nowcasting/deep_learning_nowcasting/modelOut/encoder_net-0005.params"
+2023-05-25 05:16:36,527 - root - INFO - Saved checkpoint to "/home/ubuntu/gitrepo/CS230_Nowcasting/deep_learning_nowcasting/modelOut/forecaster_net-0005.params"
+start_datetime    2011-11-05 08:00:00
+end_datetime      2011-11-05 11:00:00
+run_length                         37
+avg_cell_value               1.618164
+tags                        rain snow
+Name: 186, dtype: object
+2023-05-25 05:16:36,584 - root - INFO - Begin Evaluation, mode=fixed, finetune=False, sample_num=1, results will be saved to /home/ubuntu/gitrepo/CS230_Nowcasting/deep_learning_nowcasting/modelOut/iter6_valid
+start_datetime    2011-10-07 00:00:00
+end_datetime      2011-10-07 04:40:00
+run_length                         57
+avg_cell_value               7.191406
+tags                       rain storm
+Name: 169, dtype: object
+start_datetime    2011-09-19 00:00:00
+end_datetime      2011-09-19 23:55:00
+run_length                        288
+avg_cell_value               3.890625
+tags                        rain snow
+Name: 167, dtype: object
+start_datetime    2011-08-07 09:50:00
+end_datetime      2011-08-07 23:55:00
+run_length                        170
+avg_cell_value               2.771484
+tags                             rain
+Name: 151, dtype: object
+start_datetime    2011-08-07 00:00:00
+end_datetime      2011-08-07 09:40:00
+run_length                        117
+avg_cell_value               1.044922
+tags                             rain
+Name: 150, dtype: object
+start_datetime    2011-07-01 00:00:00
+end_datetime      2011-07-01 23:55:00
+run_length                        288
+avg_cell_value               0.519043
+tags                         downpour
+Name: 123, dtype: object
+start_datetime    2011-06-04 00:00:00
+end_datetime      2011-06-04 19:20:00
+run_length                        233
+avg_cell_value               1.172852
+tags                   storm downpour
+Name: 98, dtype: object
+start_datetime    2011-06-03 15:10:00
+end_datetime      2011-06-03 23:55:00
+run_length                        106
+avg_cell_value               1.493164
+tags                             rain
+Name: 97, dtype: object
+start_datetime    2011-05-28 00:00:00
+end_datetime      2011-05-28 17:20:00
+run_length                        209
+avg_cell_value               0.725586
+tags                             rain
+Name: 93, dtype: object
+start_datetime    2011-05-01 12:35:00
+end_datetime      2011-05-01 15:45:00
+run_length                         39
+avg_cell_value               2.751953
+tags                   storm downpour
+Name: 82, dtype: object
+start_datetime    2010-11-01 13:50:00
+end_datetime      2010-11-01 23:55:00
+run_length                        122
+avg_cell_value               3.693359
+tags                        rain snow
+Name: 1, dtype: object
+Exhausted!
+2023-05-25 05:34:58,056 - root - INFO - Saving readable txt of RadarEvaluation to /home/ubuntu/gitrepo/CS230_Nowcasting/deep_learning_nowcasting/modelOut/iter6_valid/eval_all.txt
+2023-05-25 05:34:58,057 - root - INFO - Saving RadarEvaluation to /home/ubuntu/gitrepo/CS230_Nowcasting/deep_learning_nowcasting/modelOut/iter6_valid/eval_all.pkl
+2023-05-25 05:35:01,004 - root - INFO - Iter:6, mse_output=92.4249, mae_output=556.622, gdl_output=1061.92, e_gnorm=0.0411535, f_gnorm=0.615557
+2023-05-25 05:35:01,040 - root - INFO - Saved checkpoint to "/home/ubuntu/gitrepo/CS230_Nowcasting/deep_learning_nowcasting/modelOut/encoder_net-0006.params"
+2023-05-25 05:35:01,094 - root - INFO - Saved checkpoint to "/home/ubuntu/gitrepo/CS230_Nowcasting/deep_learning_nowcasting/modelOut/forecaster_net-0006.params"
+start_datetime    2011-11-05 08:00:00
+end_datetime      2011-11-05 11:00:00
+run_length                         37
+avg_cell_value               1.618164
+tags                        rain snow
+Name: 186, dtype: object
+2023-05-25 05:35:01,152 - root - INFO - Begin Evaluation, mode=fixed, finetune=False, sample_num=1, results will be saved to /home/ubuntu/gitrepo/CS230_Nowcasting/deep_learning_nowcasting/modelOut/iter7_valid
+start_datetime    2011-10-07 00:00:00
+end_datetime      2011-10-07 04:40:00
+run_length                         57
+avg_cell_value               7.191406
+tags                       rain storm
+Name: 169, dtype: object
+start_datetime    2011-09-19 00:00:00
+end_datetime      2011-09-19 23:55:00
+run_length                        288
+avg_cell_value               3.890625
+tags                        rain snow
+Name: 167, dtype: object
+start_datetime    2011-08-07 09:50:00
+end_datetime      2011-08-07 23:55:00
+run_length                        170
+avg_cell_value               2.771484
+tags                             rain
+Name: 151, dtype: object
+start_datetime    2011-08-07 00:00:00
+end_datetime      2011-08-07 09:40:00
+run_length                        117
+avg_cell_value               1.044922
+tags                             rain
+Name: 150, dtype: object
+start_datetime    2011-07-01 00:00:00
+end_datetime      2011-07-01 23:55:00
+run_length                        288
+avg_cell_value               0.519043
+tags                         downpour
+Name: 123, dtype: object
+start_datetime    2011-06-04 00:00:00
+end_datetime      2011-06-04 19:20:00
+run_length                        233
+avg_cell_value               1.172852
+tags                   storm downpour
+Name: 98, dtype: object
+start_datetime    2011-06-03 15:10:00
+end_datetime      2011-06-03 23:55:00
+run_length                        106
+avg_cell_value               1.493164
+tags                             rain
+Name: 97, dtype: object
+start_datetime    2011-05-28 00:00:00
+end_datetime      2011-05-28 17:20:00
+run_length                        209
+avg_cell_value               0.725586
+tags                             rain
+Name: 93, dtype: object
+start_datetime    2011-05-01 12:35:00
+end_datetime      2011-05-01 15:45:00
+run_length                         39
+avg_cell_value               2.751953
+tags                   storm downpour
+Name: 82, dtype: object
+start_datetime    2010-11-01 13:50:00
+end_datetime      2010-11-01 23:55:00
+run_length                        122
+avg_cell_value               3.693359
+tags                        rain snow
+Name: 1, dtype: object
+Exhausted!
+2023-05-25 05:53:24,290 - root - INFO - Saving readable txt of RadarEvaluation to /home/ubuntu/gitrepo/CS230_Nowcasting/deep_learning_nowcasting/modelOut/iter7_valid/eval_all.txt
+2023-05-25 05:53:24,291 - root - INFO - Saving RadarEvaluation to /home/ubuntu/gitrepo/CS230_Nowcasting/deep_learning_nowcasting/modelOut/iter7_valid/eval_all.pkl
+2023-05-25 05:53:27,250 - root - INFO - Iter:7, mse_output=98.2801, mae_output=490.327, gdl_output=901.853, e_gnorm=0.0337546, f_gnorm=0.565766
+2023-05-25 05:53:27,290 - root - INFO - Saved checkpoint to "/home/ubuntu/gitrepo/CS230_Nowcasting/deep_learning_nowcasting/modelOut/encoder_net-0007.params"
+2023-05-25 05:53:27,353 - root - INFO - Saved checkpoint to "/home/ubuntu/gitrepo/CS230_Nowcasting/deep_learning_nowcasting/modelOut/forecaster_net-0007.params"
+start_datetime    2011-11-05 08:00:00
+end_datetime      2011-11-05 11:00:00
+run_length                         37
+avg_cell_value               1.618164
+tags                        rain snow
+Name: 186, dtype: object
+2023-05-25 05:53:27,411 - root - INFO - Begin Evaluation, mode=fixed, finetune=False, sample_num=1, results will be saved to /home/ubuntu/gitrepo/CS230_Nowcasting/deep_learning_nowcasting/modelOut/iter8_valid
+start_datetime    2011-10-07 00:00:00
+end_datetime      2011-10-07 04:40:00
+run_length                         57
+avg_cell_value               7.191406
+tags                       rain storm
+Name: 169, dtype: object
+start_datetime    2011-09-19 00:00:00
+end_datetime      2011-09-19 23:55:00
+run_length                        288
+avg_cell_value               3.890625
+tags                        rain snow
+Name: 167, dtype: object
+start_datetime    2011-08-07 09:50:00
+end_datetime      2011-08-07 23:55:00
+run_length                        170
+avg_cell_value               2.771484
+tags                             rain
+Name: 151, dtype: object
+start_datetime    2011-08-07 00:00:00
+end_datetime      2011-08-07 09:40:00
+run_length                        117
+avg_cell_value               1.044922
+tags                             rain
+Name: 150, dtype: object
+start_datetime    2011-07-01 00:00:00
+end_datetime      2011-07-01 23:55:00
+run_length                        288
+avg_cell_value               0.519043
+tags                         downpour
+Name: 123, dtype: object
+start_datetime    2011-06-04 00:00:00
+end_datetime      2011-06-04 19:20:00
+run_length                        233
+avg_cell_value               1.172852
+tags                   storm downpour
+Name: 98, dtype: object
+start_datetime    2011-06-03 15:10:00
+end_datetime      2011-06-03 23:55:00
+run_length                        106
+avg_cell_value               1.493164
+tags                             rain
+Name: 97, dtype: object
+start_datetime    2011-05-28 00:00:00
+end_datetime      2011-05-28 17:20:00
+run_length                        209
+avg_cell_value               0.725586
+tags                             rain
+Name: 93, dtype: object
+start_datetime    2011-05-01 12:35:00
+end_datetime      2011-05-01 15:45:00
+run_length                         39
+avg_cell_value               2.751953
+tags                   storm downpour
+Name: 82, dtype: object
+start_datetime    2010-11-01 13:50:00
+end_datetime      2010-11-01 23:55:00
+run_length                        122
+avg_cell_value               3.693359
+tags                        rain snow
+Name: 1, dtype: object
+Exhausted!
+2023-05-25 06:11:45,979 - root - INFO - Saving readable txt of RadarEvaluation to /home/ubuntu/gitrepo/CS230_Nowcasting/deep_learning_nowcasting/modelOut/iter8_valid/eval_all.txt
+2023-05-25 06:11:45,980 - root - INFO - Saving RadarEvaluation to /home/ubuntu/gitrepo/CS230_Nowcasting/deep_learning_nowcasting/modelOut/iter8_valid/eval_all.pkl
+2023-05-25 06:11:48,929 - root - INFO - Iter:8, mse_output=102.342, mae_output=436.814, gdl_output=785.719, e_gnorm=0.0267241, f_gnorm=0.356859
+2023-05-25 06:11:48,968 - root - INFO - Saved checkpoint to "/home/ubuntu/gitrepo/CS230_Nowcasting/deep_learning_nowcasting/modelOut/encoder_net-0008.params"
+2023-05-25 06:11:49,026 - root - INFO - Saved checkpoint to "/home/ubuntu/gitrepo/CS230_Nowcasting/deep_learning_nowcasting/modelOut/forecaster_net-0008.params"
+start_datetime    2011-11-05 08:00:00
+end_datetime      2011-11-05 11:00:00
+run_length                         37
+avg_cell_value               1.618164
+tags                        rain snow
+Name: 186, dtype: object
+2023-05-25 06:11:49,083 - root - INFO - Begin Evaluation, mode=fixed, finetune=False, sample_num=1, results will be saved to /home/ubuntu/gitrepo/CS230_Nowcasting/deep_learning_nowcasting/modelOut/iter9_valid
+start_datetime    2011-10-07 00:00:00
+end_datetime      2011-10-07 04:40:00
+run_length                         57
+avg_cell_value               7.191406
+tags                       rain storm
+Name: 169, dtype: object
+start_datetime    2011-09-19 00:00:00
+end_datetime      2011-09-19 23:55:00
+run_length                        288
+avg_cell_value               3.890625
+tags                        rain snow
+Name: 167, dtype: object
+start_datetime    2011-08-07 09:50:00
+end_datetime      2011-08-07 23:55:00
+run_length                        170
+avg_cell_value               2.771484
+tags                             rain
+Name: 151, dtype: object
+start_datetime    2011-08-07 00:00:00
+end_datetime      2011-08-07 09:40:00
+run_length                        117
+avg_cell_value               1.044922
+tags                             rain
+Name: 150, dtype: object
+start_datetime    2011-07-01 00:00:00
+end_datetime      2011-07-01 23:55:00
+run_length                        288
+avg_cell_value               0.519043
+tags                         downpour
+Name: 123, dtype: object
+start_datetime    2011-06-04 00:00:00
+end_datetime      2011-06-04 19:20:00
+run_length                        233
+avg_cell_value               1.172852
+tags                   storm downpour
+Name: 98, dtype: object
+start_datetime    2011-06-03 15:10:00
+end_datetime      2011-06-03 23:55:00
+run_length                        106
+avg_cell_value               1.493164
+tags                             rain
+Name: 97, dtype: object
+start_datetime    2011-05-28 00:00:00
+end_datetime      2011-05-28 17:20:00
+run_length                        209
+avg_cell_value               0.725586
+tags                             rain
+Name: 93, dtype: object
+start_datetime    2011-05-01 12:35:00
+end_datetime      2011-05-01 15:45:00
+run_length                         39
+avg_cell_value               2.751953
+tags                   storm downpour
+Name: 82, dtype: object
+start_datetime    2010-11-01 13:50:00
+end_datetime      2010-11-01 23:55:00
+run_length                        122
+avg_cell_value               3.693359
+tags                        rain snow
+Name: 1, dtype: object
+Exhausted!
+2023-05-25 06:30:05,276 - root - INFO - Saving readable txt of RadarEvaluation to /home/ubuntu/gitrepo/CS230_Nowcasting/deep_learning_nowcasting/modelOut/iter9_valid/eval_all.txt
+2023-05-25 06:30:05,277 - root - INFO - Saving RadarEvaluation to /home/ubuntu/gitrepo/CS230_Nowcasting/deep_learning_nowcasting/modelOut/iter9_valid/eval_all.pkl
+2023-05-25 06:30:08,211 - root - INFO - Iter:9, mse_output=99.684, mae_output=390.098, gdl_output=690.792, e_gnorm=0.0227537, f_gnorm=0.724923
+2023-05-25 06:30:08,246 - root - INFO - Saved checkpoint to "/home/ubuntu/gitrepo/CS230_Nowcasting/deep_learning_nowcasting/modelOut/encoder_net-0009.params"
+2023-05-25 06:30:08,299 - root - INFO - Saved checkpoint to "/home/ubuntu/gitrepo/CS230_Nowcasting/deep_learning_nowcasting/modelOut/forecaster_net-0009.params"
+start_datetime    2011-11-05 08:00:00
+end_datetime      2011-11-05 11:00:00
+run_length                         37
+avg_cell_value               1.618164
+tags                        rain snow
+Name: 186, dtype: object
+2023-05-25 06:30:08,355 - root - INFO - Begin Evaluation, mode=fixed, finetune=False, sample_num=1, results will be saved to /home/ubuntu/gitrepo/CS230_Nowcasting/deep_learning_nowcasting/modelOut/iter10_valid
+start_datetime    2011-10-07 00:00:00
+end_datetime      2011-10-07 04:40:00
+run_length                         57
+avg_cell_value               7.191406
+tags                       rain storm
+Name: 169, dtype: object
+start_datetime    2011-09-19 00:00:00
+end_datetime      2011-09-19 23:55:00
+run_length                        288
+avg_cell_value               3.890625
+tags                        rain snow
+Name: 167, dtype: object
+start_datetime    2011-08-07 09:50:00
+end_datetime      2011-08-07 23:55:00
+run_length                        170
+avg_cell_value               2.771484
+tags                             rain
+Name: 151, dtype: object
+start_datetime    2011-08-07 00:00:00
+end_datetime      2011-08-07 09:40:00
+run_length                        117
+avg_cell_value               1.044922
+tags                             rain
+Name: 150, dtype: object
+start_datetime    2011-07-01 00:00:00
+end_datetime      2011-07-01 23:55:00
+run_length                        288
+avg_cell_value               0.519043
+tags                         downpour
+Name: 123, dtype: object
+start_datetime    2011-06-04 00:00:00
+end_datetime      2011-06-04 19:20:00
+run_length                        233
+avg_cell_value               1.172852
+tags                   storm downpour
+Name: 98, dtype: object
+start_datetime    2011-06-03 15:10:00
+end_datetime      2011-06-03 23:55:00
+run_length                        106
+avg_cell_value               1.493164
+tags                             rain
+Name: 97, dtype: object
+start_datetime    2011-05-28 00:00:00
+end_datetime      2011-05-28 17:20:00
+run_length                        209
+avg_cell_value               0.725586
+tags                             rain
+Name: 93, dtype: object
+start_datetime    2011-05-01 12:35:00
+end_datetime      2011-05-01 15:45:00
+run_length                         39
+avg_cell_value               2.751953
+tags                   storm downpour
+Name: 82, dtype: object
+start_datetime    2010-11-01 13:50:00
+end_datetime      2010-11-01 23:55:00
+run_length                        122
+avg_cell_value               3.693359
+tags                        rain snow
+Name: 1, dtype: object
+Exhausted!
+2023-05-25 06:48:31,487 - root - INFO - Saving readable txt of RadarEvaluation to /home/ubuntu/gitrepo/CS230_Nowcasting/deep_learning_nowcasting/modelOut/iter10_valid/eval_all.txt
+2023-05-25 06:48:31,488 - root - INFO - Saving RadarEvaluation to /home/ubuntu/gitrepo/CS230_Nowcasting/deep_learning_nowcasting/modelOut/iter10_valid/eval_all.pkl
+2023-05-25 06:48:34,436 - root - INFO - Iter:10, mse_output=104.156, mae_output=364.005, gdl_output=622.739, e_gnorm=0.0199872, f_gnorm=0.281956
+2023-05-25 06:48:34,475 - root - INFO - Saved checkpoint to "/home/ubuntu/gitrepo/CS230_Nowcasting/deep_learning_nowcasting/modelOut/encoder_net-0010.params"
+2023-05-25 06:48:34,531 - root - INFO - Saved checkpoint to "/home/ubuntu/gitrepo/CS230_Nowcasting/deep_learning_nowcasting/modelOut/forecaster_net-0010.params"
+start_datetime    2011-11-05 08:00:00
+end_datetime      2011-11-05 11:00:00
+run_length                         37
+avg_cell_value               1.618164
+tags                        rain snow
+Name: 186, dtype: object
+2023-05-25 06:48:34,588 - root - INFO - Begin Evaluation, mode=fixed, finetune=False, sample_num=1, results will be saved to /home/ubuntu/gitrepo/CS230_Nowcasting/deep_learning_nowcasting/modelOut/iter11_valid
+start_datetime    2011-10-07 00:00:00
+end_datetime      2011-10-07 04:40:00
+run_length                         57
+avg_cell_value               7.191406
+tags                       rain storm
+Name: 169, dtype: object
+start_datetime    2011-09-19 00:00:00
+end_datetime      2011-09-19 23:55:00
+run_length                        288
+avg_cell_value               3.890625
+tags                       

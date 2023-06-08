@@ -1,5 +1,102 @@
 import mxnet as mx
+from mxnet.rnn import BaseRNNCell
+from nowcasting.ops import activation
 from nowcasting.operators.common import group_add
+
+class MyBaseRNNCell(BaseRNNCell):
+    def __init__(self, prefix="MyBaseRNNCell", params=None):
+        super(MyBaseRNNCell, self).__init__(prefix=prefix, params=params)
+
+    def __call__(self, inputs, states, is_initial=False, ret_mid=False):
+        raise NotImplementedError()
+
+    def reset(self):
+        super(MyBaseRNNCell, self).reset()
+        self._curr_states = None
+
+    def get_current_states(self):
+        return self._curr_states
+
+    def unroll(self, length, inputs=None, begin_state=None, ret_mid=False,
+               input_prefix='', layout='TC', merge_outputs=False):
+        """Unroll an RNN cell across time steps.
+
+        Parameters
+        ----------
+        length : int
+            number of steps to unroll
+        inputs : Symbol, list of Symbol, or None
+            if inputs is a single Symbol (usually the output
+            of Embedding symbol), it should have shape
+            (batch_size, length, ...) if layout == 'NTC',
+            or (length, batch_size, ...) if layout == 'TNC'.
+
+            If inputs is a list of symbols (usually output of
+            previous unroll), they should all have shape
+            (batch_size, ...).
+
+            If inputs is None, Placeholder variables are
+            automatically created.
+        begin_state : nested list of Symbol
+            input states. Created by begin_state()
+            or output state of another cell. Created
+            from begin_state() if None.
+        input_prefix : str
+            prefix for automatically created input
+            placehodlers.
+        layout : str
+            layout of input symbol. Only used if inputs
+            is a single Symbol.
+        merge_outputs : bool
+            if False, return outputs as a list of Symbols.
+            If True, concatenate output across time steps
+            and return a single symbol with shape
+            (batch_size, length, ...) if layout == 'NTC',
+            or (length, batch_size, ...) if layout == 'TNC'.
+
+        Returns
+        -------
+        outputs : list of Symbol
+            output symbols.
+        states : Symbol or nested list of Symbol
+            has the same structure as begin_state()
+        mid_info : list of Symbol
+        """
+        self.reset()
+        assert layout == 'TNC' or layout == 'TC'
+        if inputs is not None:
+            if isinstance(inputs, mx.sym.Symbol):
+                assert len(inputs.list_outputs()) == 1, \
+                    "unroll doesn't allow grouped symbol as input. Please " \
+                    "convert to list first or let unroll handle slicing"
+                if 'N' in layout:
+                    inputs = mx.sym.SliceChannel(inputs, axis=0, num_outputs=length,
+                                                 squeeze_axis=1)
+                else:
+                    inputs = mx.sym.SliceChannel(inputs, axis=0, num_outputs=length)
+            else:
+                assert len(inputs) == length
+        else:
+            inputs = [None] * length
+        if begin_state is None:
+            states = self.begin_state()
+        else:
+            states = begin_state
+        outputs = []
+        mid_infos = []
+        for i in range(length):
+            output, states, mid_info = self(inputs=inputs[i], states=states,
+                                            is_initial=(i == 0 and (begin_state is None)),
+                                            ret_mid=True)
+            outputs.append(output)
+            mid_infos.extend(mid_info)
+        if merge_outputs:
+            outputs = [mx.sym.expand_dims(i, axis=0) for i in outputs]
+            outputs = mx.sym.Concat(*outputs, dim=0)
+        if ret_mid:
+            return outputs, states, mid_infos
+        else:
+            return outputs, states
 
 
 class BaseStackRNN(object):
@@ -145,3 +242,93 @@ class BaseStackRNN(object):
             return outputs, final_states, mid_infos
         else:
             return outputs, final_states
+
+
+class MyGRU(MyBaseRNNCell):
+    """GRU cell.
+
+    Parameters
+    ----------
+    num_hidden : int
+        number of units in output symbol
+    prefix : str, default 'rnn_'
+        prefix for name of layers
+        (and name of weight if params is None)
+    params : RNNParams or None
+        container for weight sharing between cells.
+        created if None.
+    """
+    def __init__(self, num_hidden, zoneout=0.0, act_type="tanh", prefix='gru_', params=None):
+        super(MyGRU, self).__init__(prefix=prefix, params=params)
+        self._num_hidden = num_hidden
+        self._act_type = act_type
+        self._zoneout = zoneout
+        self._i2h_weight = self.params.get('i2h_weight')
+        self._i2h_bias = self.params.get('i2h_bias')
+        self._h2h_weight = self.params.get('h2h_weight')
+        self._h2h_bias = self.params.get('h2h_bias')
+
+    @property
+    def state_info(self):
+        """shape(s) of states"""
+        return [{'shape': (0, self._num_hidden), '__layout__': "NC"}]
+
+    def __call__(self, inputs, states=None, is_initial=False, ret_mid=False):
+        name = '%s_t%d' % (self._prefix, self._counter)
+        self._counter += 1
+        if is_initial:
+            prev_h = self.begin_state()[0]
+        else:
+            prev_h = states[0]
+        assert states is not None
+        if inputs is not None:
+            inputs = mx.sym.reshape(inputs, shape=(0, -1))
+            i2h = mx.sym.FullyConnected(data=inputs,
+                                        num_hidden=self._num_hidden * 3,
+                                        weight=self._i2h_weight,
+                                        bias=self._i2h_bias,
+                                        name="%s_i2h" %name)
+            i2h_slice = mx.sym.SliceChannel(i2h, num_outputs=3, axis=1)
+        else:
+            i2h_slice = None
+        h2h = mx.sym.FullyConnected(data=prev_h,
+                                    num_hidden=self._num_hidden * 3,
+                                    weight=self._h2h_weight,
+                                    bias=self._h2h_bias,
+                                    name="%s_h2h" %name)
+        h2h_slice = mx.sym.SliceChannel(h2h, num_outputs=3, axis=1)
+        if i2h_slice is not None:
+            reset_gate = activation(i2h_slice[0] + h2h_slice[0], act_type="sigmoid",
+                                    name=name + "_r")
+            update_gate = activation(i2h_slice[1] + h2h_slice[1], act_type="sigmoid",
+                                     name=name + "_u")
+            new_mem = activation(i2h_slice[2] + reset_gate * h2h_slice[2],
+                                 act_type=self._act_type,
+                                 name=name + "_h")
+        else:
+            reset_gate = activation(h2h_slice[0], act_type="sigmoid",
+                                    name=name + "_r")
+            update_gate = activation(h2h_slice[1], act_type="sigmoid",
+                                     name=name + "_u")
+            new_mem = activation(reset_gate * h2h_slice[2],
+                                 act_type=self._act_type,
+                                 name=name + "_h")
+        next_h = update_gate * prev_h + (1 - update_gate) * new_mem
+        if self._zoneout > 0.0:
+            mask = mx.sym.Dropout(mx.sym.ones_like(prev_h), p=self._zoneout)
+            next_h = mx.sym.where(mask, next_h, prev_h)
+        self._curr_states = [next_h]
+        if not ret_mid:
+            return next_h, [next_h]
+        else:
+            return next_h, [next_h], []
+
+if __name__ == '__main__':
+    from nowcasting.operators.conv_rnn import ConvGRU
+    brnn1 = BaseStackRNN(base_rnn_class=ConvGRU, stack_num=5,
+                         b_h_w=(4, 32, 32), num_filter=32)
+    print(brnn1.state_info)
+    inputs = mx.sym.var(name="inputs", shape=(8, 4, 16, 32, 32))
+    outputs, final_states, mid_infos = brnn1.unroll(length=8, inputs=inputs, ret_mid=True)
+    print(len(outputs), len(outputs[0]))
+    print(len(final_states), len(final_states[0]))
